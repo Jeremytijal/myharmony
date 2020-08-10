@@ -4,16 +4,19 @@
 					<div class="col-md-6">
 
 			<h4 class="text-white mb-4">Menu</h4>
+
 			<ul class="list-styled list-hover-underline">
-				<li class="mb-3 text-light"><a href="https://netary.fr/categories/tutoriel/" class="text-light">Association</a></li>
-				<li class="mb-3 text-light"><a href="https://netary.fr/categories/marketing/" class="text-light">Instagram</a></li>
+				{{ range site.Menus.footer }}
+				<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+				{{ end }}
 			</ul>
 		</div>
+
 			<div class="col-md-6">
 	<h4 class="text-white mb-4">Suivez-nous sur les réseaux sociaux</h4>
 	<ul class="list-styled list-hover-underline">
-		<li class="mb-3 text-light"><a href="https://netary.fr/categories/tutoriel/" class="text-light">Facebook</a></li>
-		<li class="mb-3 text-light"><a href="https://netary.fr/categories/marketing/" class="text-light">Instagram</a></li>
+		<li class="mb-3 text-light"><a href="https://www.facebook.com/My-Harmony-Association-daide-aux-femmes-victimes-de-violences-conjugales-105818271195124/" class="text-light">Facebook</a></li>
+		<li class="mb-3 text-light"><a href="https://www.instagram.com" class="text-light">Instagram</a></li>
 	</ul>
 </div>
 

@@ -148,29 +148,19 @@ weight = 7
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "About"
+name = "L'association"
 URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[Languages.en.menu.footer]]
-name = "Service"
+name = "Précarité Menstruelle"
 URL = "service"
 weight = 3
 
 [[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
+name = "Blog"
+URL = "blog"
 weight = 4
-
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
 
 [[Languages.en.menu.footer]]
 name = "Contact"
