@@ -74,14 +74,19 @@
 {{ end }}
 {{ end }}
 
+
 {{ if $data.homepage.portfolio.enable }}
 {{ with $data.homepage.portfolio }}
 <!-- portfolio -->
-<section class="feature bg-2 {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL}}')">
+<section>
   <div class="container">
     <div class="row">
-      <div class="block">
-      <div class="col-md-6 col-md-offset-6">
+      <div class="col-md-6 order-2">
+
+        <div class="feature bg-2 {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL}}')">
+  </div>
+  </div>
+      <div class="col-md-6 order-1">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
         <p>Pour l’acquisition des bons réflexes ainsi que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
@@ -97,7 +102,6 @@
 </div>
       </div>
     </div>
-  </div>
 </section>
 <!-- /portfolio -->
 {{ end }}

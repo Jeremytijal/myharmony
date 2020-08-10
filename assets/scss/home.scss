@@ -19,12 +19,18 @@
     position: relative;
     z-index: 999999;
   }
+  .block2 {
+    position: relative;
+    z-index: 999999;
+    height: 500px;
+  }
 
   h1 {
     font-size: 100px;
     font-weight: 700;
     margin-bottom: 15px;
     font-family: 'Open Sans', sans-serif;
+    padding-right: 15px;
   }
 
   p {

@@ -1,13 +1,16 @@
 .feature {
 	background: url("../img/featue-bg.jpg");
-	background-position: 50% 94px;
+	background-position: center;
 	display: block;
 	position: relative;
-	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
+	background-size: contain;
 	padding: 100px 0;
+	height: 500px;
+
+
+
+
 
 	h2 {
 		margin-bottom: 30px;
@@ -23,4 +26,16 @@
 		color: #fff;
 		padding: 10px 20px;
 	}
+
+@media (max-width: 768px){
+.bg-2 {
+    background-attachment: scroll;
+		background: url("../img/featue-bg.jpg");
+		background-size: cover;
+}
+.order-1{
+	order: 1;
+}
+
+}
 }

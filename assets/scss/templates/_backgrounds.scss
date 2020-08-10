@@ -9,10 +9,21 @@
 }
 
 .bg-2 {
-	background-size: cover;
+	background-position: center;
 	background-attachment: fixed;
+	background-size: cover;
 
 	@include tablet {
 		background-attachment: scroll;
 	}
+}
+
+@media (max-width: 768px){
+.bg-2 {
+	background-position: center;
+	background-attachment: fixed;
+	background-image: "";
+
+
+}
 }

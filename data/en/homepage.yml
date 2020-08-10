@@ -24,7 +24,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/bg-believe.png"
+  bg_image : "images/silence.jpg"
   bg_overlay : false
   title : "Prochainement"
   content : "

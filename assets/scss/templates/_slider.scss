@@ -13,6 +13,7 @@
     }
   }
 
+
   .block {
     color: #E3E3E4;
     text-align: center;
@@ -33,5 +34,30 @@
       line-height: 27px;
       font-weight: 300;
     }
+  }
+
+
+@media(max-width:992px){
+  .block {
+    color: #E3E3E4;
+    text-align: center;
+
+    h1 {
+      font-weight: 100;
+      font-size: 25px;
+      line-height: 60px;
+      letter-spacing: 10px;
+      padding-bottom: 15px;
+      text-transform: uppercase;
+    }
+
+    p {
+      margin-bottom: 30px;
+      color: #b9b9b9;
+      font-size: 18px;
+      line-height: 27px;
+      font-weight: 300;
+    }
+  }
   }
 }
