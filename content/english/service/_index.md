@@ -2,7 +2,7 @@
 title: "La Précarité Menstruelle"
 description: ""
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/bg.jpg"
 ---
 
 La précarité touche 500 Millions de femmes dans le monde.

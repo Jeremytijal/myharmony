@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
-description: "this is meta description"
+title: "Nos actualités"
+description: ""
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/bg.jpg"
 ---

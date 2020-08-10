@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+title = "My Harmony | Astreintes de 18 h à 9 heures"
 theme = "harmony"
 # post pagination
 paginate = "4"
@@ -135,6 +135,10 @@ name = "Précarité Menstruelle"
 URL = "/service"
 weight = 4
 
+[[Languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Nous Contacter"

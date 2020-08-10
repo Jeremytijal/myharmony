@@ -2,7 +2,7 @@
 title: " L’association MY HARMONY"
 description: ""
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/bg.jpg"
 ---
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l’auteur des faits.
 Il est important que la victime se mette ou soit mise à l’abri de nouvelles violences, avant même que des poursuites pénales ne soient engagées.
