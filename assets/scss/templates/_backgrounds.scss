@@ -18,10 +18,11 @@
 	}
 }
 
-@media (max-width: 768px){
+@media (max-width: 850px){
 .bg-2 {
 	background-position: center;
 	background-attachment: fixed;
+	background-size: contain;
 	background-image: "";
 
 
