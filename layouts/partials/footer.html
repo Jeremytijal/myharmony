@@ -1,18 +1,25 @@
 <footer class="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
-				<div class="footer-manu">
-					<ul>
-            {{ range site.Menus.footer }}
-            <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-            {{ end }}
-					</ul>
-				</div>
-				<p class="copyright">{{ site.Params.copyright | markdownify }}</p>
-			</div>
+					<div class="col-md-6">
+
+			<h4 class="text-white mb-4">Menu</h4>
+			<ul class="list-styled list-hover-underline">
+				<li class="mb-3 text-light"><a href="https://netary.fr/categories/tutoriel/" class="text-light">Association</a></li>
+				<li class="mb-3 text-light"><a href="https://netary.fr/categories/marketing/" class="text-light">Instagram</a></li>
+			</ul>
+		</div>
+			<div class="col-md-6">
+	<h4 class="text-white mb-4">Suivez-nous sur les réseaux sociaux</h4>
+	<ul class="list-styled list-hover-underline">
+		<li class="mb-3 text-light"><a href="https://netary.fr/categories/tutoriel/" class="text-light">Facebook</a></li>
+		<li class="mb-3 text-light"><a href="https://netary.fr/categories/marketing/" class="text-light">Instagram</a></li>
+	</ul>
+</div>
+
 		</div>
 	</div>
+		<p class="copyright">{{ site.Params.copyright | markdownify }}</p>
 </footer>
 
 <!-- Google Map API -->

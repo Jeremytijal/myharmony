@@ -36,9 +36,30 @@
         <div class="block">
           <div class="section-title">
             <h2>{{ .title | markdownify }}</h2>
-            <p>{{ .description | markdownify }}</p>
           </div>
-          <p>{{ .content | markdownify }}</p>
+          <p>
+            - Atelier bien être
+            </br>
+          - Séances gratuites avec une esthéticienne professionnelle sur rendez-vous
+          </br>
+          - Prendre un moment pour soi
+          </br>
+          - Groupes de paroles
+          </br>
+          - Atelier Confiance en soi.
+          </br>
+          - Stage de théâtre
+          </br>
+          Limité à 6 personnes
+          </br>
+          </br>
+        <strong>  L'objectif</strong>
+          </br>
+           Gestion de ses émotions
+           </br>
+           Gérer son stress
+           </br>
+           Renforcer l'estime de soi</p>
         </div>
       </div>
       <div class="col-md-5 col-sm-12">
@@ -56,17 +77,24 @@
 {{ if $data.homepage.portfolio.enable }}
 {{ with $data.homepage.portfolio }}
 <!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+<section class="feature bg-2 {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL}}')">
   <div class="container">
     <div class="row">
+      <div class="block">
       <div class="col-md-6 col-md-offset-6">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
+        <p>Pour l’acquisition des bons réflexes ainsi que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
+
+      Ses ateliers permettent aux femmes d'avoir une meilleure image d'elle-même.
+      Réveiller leurs potentiels.
+      Aider ces femmes à se reconstruire, qu'elles puissent retrouver confiance et dynamise et regagner leurs autonomies.</p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
         {{ end }}
         {{ end }}
+</div>
       </div>
     </div>
   </div>
@@ -87,51 +115,5 @@
 {{ end }}
 <!-- /Call to action -->
 
-{{ if $data.homepage.funfacts.enable }}
-{{ with $data.homepage.funfacts }}
-<!-- Content Start -->
-<section class="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .description | markdownify }}</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            {{ range .funfact_item }}
-            <li class="counter-item">
-              <i class="{{ .icon }}"></i>
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-5 col-md-offset-1">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .testimonial_slider }}
-            <div>
-              <i class="ion-quote"></i>
-              <p>"{{ .content | markdownify }}"</p>
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end}}
-{{ end}}
 
 {{ end }}

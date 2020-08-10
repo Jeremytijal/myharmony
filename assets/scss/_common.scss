@@ -229,6 +229,148 @@ input[type="tel"] {
   background: #202122;
 }
 
+@media(min-width:900px){
+.section2 {
+  padding-top: 5em;
+  vertical-align: middle;
+}}
+
+/**
+ * Form fields
+ */
+label {
+  display: block;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 0.25em;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="number"],
+input[type="search"],
+input[type="url"],
+select,
+textarea {
+  background: 0;
+  border: 1px solid $primary-color;
+  border-radius: 3px;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: $primary-color;
+  display: block;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  max-width: 100%;
+  padding: 0.625em 0.625em;
+  width: 100%;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+.form-group {
+  margin-bottom: 1.125rem;
+}
+
+.form-submit {
+  margin-top: 1.875rem;
+}
+
+.form-select-wrap {
+  font-size: 1em;
+  position: relative;
+
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    padding-right: 25px;
+
+    &:focus {
+      outline: 0;
+    }
+  }
+
+  &:before,
+  &:after {
+    border: solid transparent;
+    border-width: .3125em;
+    box-sizing: border-box;
+    content: "";
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    z-index: 1;
+  }
+
+  &:before {
+    border-top-color: $primary-color;
+    margin-top: .125em;
+  }
+
+  &:after {
+    border-bottom-color: $primary-color;
+    margin-top: -.75em;
+  }
+}
+
+.form-checkbox {
+  padding-left: 1.5em;
+  position: relative;
+
+  input[type=checkbox] {
+    height: 1.5em;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+
+  label {
+    font-weight: normal;
+  }
+}
+
+.form-select-wrap {
+  font-size: 1em;
+  position: relative;
+
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    padding-right: 25px;
+
+    &:focus {
+      outline: 0;
+    }
+  }
+
+  &:before,
+  &:after {
+    border: solid transparent;
+    border-width: .3125em;
+    box-sizing: border-box;
+    content: "";
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    z-index: 1;
+  }
+
+  &:before {
+    border-top-color: $primary-color;
+    margin-top: .125em;
+  }
+
+  &:after {
+    border-bottom-color: $primary-color;
+    margin-top: -.75em;
+  }
+}
+
 
 .section {
   padding: 100px 0;
@@ -327,7 +469,7 @@ input[type="tel"] {
   padding: 70px 0;
 }
 
-// Social Media Icons 
+// Social Media Icons
 .social-media-icons {
   ul {
     li {
