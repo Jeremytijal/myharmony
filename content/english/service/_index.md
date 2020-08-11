@@ -16,34 +16,49 @@ Apporter le minimum de confort durant les menstruations.
 
 Un mois, un kit, une femme
 
-Le kit sérénité distribuer sur place ou par voie postale à la demande en remplissant le formulaire.
+Le kit Sérénity distribuer par l'association ou par voie postale à la demande en remplissant le formulaire. (sous certaines conditions)
 
 Brisons les tabous
+
+
 Les règles qui sont un phénomène naturel restent en 2020 tabous.
 
-La perception des règles à travers le monde
+La perception des règles à travers le monde.
+
 Dans certains pays, une femme ayant ses règles est considérée comme impure.
 
 Au Kenya, Rwanda les femmes utilisent la boue ou papiers journal pour se protéger des menstruations. Les jeunes filles ne vont pas à l’école.
+
+
 Au Malawi, il est interdit de parler de règles.
+
+
 En Bolivie « jeter un tampon, c’est propager le cancer »
+
+
 Interdiction de se laver : « Se doucher pendant les règles rendrait stériles » Afghanistan.
+
+
 Au Népal, les femmes sont exilées lors des menstruations considère comme un péché symbole d’impureté.
+
+
 LIBÉREZ VOTRE PAROLE
-#BRISONSLESTABOUS
+
+### #BRISONSLESTABOUS
+
 Connaitre son corps, ses cycles parler sans tabou
 
-Durant 40 ans les règles rythment nos vies répondre aux questionnements que l’on se pose
+Durant 40 ans les règles rythment nos vies répondre aux questionnements que l’on se pose parce qu'il est important d'y répondre.
 
-Retrouvez-nous sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarités menstruelles)
+#### Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarités menstruelles)
+
 Informations du kit
-le kit Sérenity distribution sur place ou par voie postale sur demande en remplissant le formulaire. *
-Un justificatif de votre situation sera demandé.
-Le kit se compose de :
-•	De protections hygiéniques
-•	Lingettes d’hygiènes
-•	Un savon base de Cranberry bio 150g.
-•	Une mini bouillotte.
-•	Une notice explicative en prévention des Chocs Toxiques Astuces pour les règles douloureuses.
 
-Durant 40 ans les règles rythment nos vies répondre aux questionnements que l’on se pose parce qu'il est important d'y répondre retrouvez nous sur notre blog santé et hygiène féminine a titre informatif.
+le kit Sérenity distribution sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé)
+
+Le kit se compose de :
+- De protections hygiéniques
+- Lingettes d’hygiènes
+- Un savon base de Cranberry bio 150g.
+- Une mini bouillotte.
+- Une notice explicative en prévention des Chocs Toxiques Astuces pour les règles douloureuses.

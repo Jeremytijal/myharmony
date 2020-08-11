@@ -4,7 +4,7 @@ banner:
   bg_image : "images/bg.jpg"
   bg_overlay : true
   title : "L’ Association My Harmony"
-  content : "Intervient auprès des femmes victimes de violences conjugales. Accueil de jour du lundi au vendredi de 8 heures à 18 heures."
+  content : "L’association intervient auprès des femmes et hommes victimes de violences conjugales et lutte contre la précarité menstruelle."
   button:
     enable : true
     label : "Faire un don"
@@ -47,7 +47,7 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "Pour nous joindre 06 XXXXXXX /Astreintes de 18 h à 9 heures."
-  content : "Violences femmes infos :3919
+  content : "Violences femmes infos : 3919
 Pour un hébergement d’urgence composer le 115
 Demander de l’aide par SMS 114
 Vous êtes en danger composer le 17

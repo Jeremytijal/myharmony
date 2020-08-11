@@ -23,22 +23,74 @@ Le meurtre par conjoint ou concubin est puni de la
 
 Si vous êtes victime de violences, et que vous avez des questions :
 
+</br>
+</br>
+
 Seine et Marne 77  ROISSY EN BRIE
+
+</br>
+</br>
+
 Maison de justice et du droit
+
+</br>
+</br>
+
 Pontault-Combault 77340
+
+</br>
+</br>
+
 Commissariat de Police
+
+</br>
+</br>
+
 160 Avenue de la République 77340 Pontault-Combault
 
+</br>
+</br>
+
 Informations
+</br>
+</br>
+
+
 https://arretonslesviolences.gouv.fr
+
+</br>
+</br>
+
 www.solidaritefemmes.org
 
+</br>
+</br>
 
 En situation d’Urgences
-Police secours    17
+
+</br>
+</br>
+
+Police secours : 17
+
+</br>
+</br>
+
 Par SMS 114
-Violences Conjugales Femmes Infos Services 39 19
-Numéro national d’aide aux victimes *08 842 846 37        7/7         9 H /21 H
-Brisez le silence
+
+</br>
+</br>
+
+Violences Conjugales Femmes Infos Services : 39 19
+
+</br>
+</br>
+
+* Numéro national d’aide aux victimes : 08 842 846 37        
+
+7/7 9 H /21 H
+
+
+### Brisez le silence ...
 
 associationmyharmony@gmail.com

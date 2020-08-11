@@ -26,6 +26,13 @@
 {{ end }}
 <!-- /banner -->
 
+
+<!-- Service -->
+{{ if $data.homepage.service.enable }}
+{{ partial "service.html" . }}
+{{ end }}
+<!-- /service -->
+
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
 <!-- about -->
@@ -107,11 +114,7 @@
 {{ end }}
 {{ end }}
 
-<!-- Service -->
-{{ if $data.homepage.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
+
 
 <!-- Call to action -->
 {{ if $data.homepage.cta.enable }}

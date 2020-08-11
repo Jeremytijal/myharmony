@@ -1,7 +1,7 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/bg.jpg"
+  image : "images/violence.jpeg"
   title : "L’association My Harmony propose:"
   content : ""
 
