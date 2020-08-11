@@ -27,9 +27,7 @@ portfolio:
   bg_image : "images/silence.jpg"
   bg_overlay : false
   title : "Prochainement"
-  content : "
-  Stage self-contrôle
-  "
+  content : "Stage self-contrôle"
   button:
     enable : true
     label : "Contacter nous pour plus d'informations."
@@ -46,16 +44,50 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "Pour nous joindre 06 XXXXXXX /Astreintes de 18 h à 9 heures."
+  title : "Pour nous joindre 06 XXXXXXX"
   content : "Violences femmes infos : 3919
 Pour un hébergement d’urgence composer le 115
 Demander de l’aide par SMS 114
 Vous êtes en danger composer le 17
 Accueil de jour de 9 h a 18 heures."
+  icon : "ion-ios-chatboxes-outline"
   button:
     enable : true
     label : "Contactez-nous"
     link : "/contact"
+  service_item:
+    # featured service item loop
+    - name : "Interface Design"
+      icon : "ion-ios-telephone"
+      color : "light"
+      content : "Violences femmes infos : 3919"
+
+    # featured service item loop
+    - name : "Product Branding"
+      icon : "ion-home"
+      color : "light"
+      content : "Pour un hébergement d’urgence composer le 115"
+
+    # featured service item loop
+    - name : "Game Development"
+      icon : "ion-chatbox-working"
+      color : "light"
+      content : "Demander de l’aide par SMS 114"
+
+    - name : "Game Development"
+      icon : "ion-iphone"
+      color : "ion-ios-telephone"
+      content : "Vous êtes en danger composer le 17"
+
+    - name : "Game Development"
+      icon : "ion-person-stalker"
+      color : "light"
+      content : "Accueil de jour de 9 h a 18 heures."
+
+    - name : "Game Development"
+      icon : "ion-ios-clock"
+      color : "primary-darker"
+      content : "Astreintes de 18 h à 9 heures."
 
 ############################# Funfacts ###############################
 funfacts:

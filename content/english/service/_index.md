@@ -52,6 +52,13 @@ Durant 40 ans les règles rythment nos vies répondre aux questionnements que l�
 
 #### Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarités menstruelles)
 
+## Notre mission
+Venir en aide aux femmes et étudiantes qui subissent la précarité menstruelle.
+
+Droit à la dignité My Harmony s’engage avec la participation des bénévoles distribuer un kit sérénity.
+
+Un mois, un kit, une femme.
+
 Informations du kit
 
 le kit Sérenity distribution sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé)
