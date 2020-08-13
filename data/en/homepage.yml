@@ -28,7 +28,7 @@ prochainement:
   content: Stage self-contrôle
   button:
     enable: true
-    label: Contacter nous pour plus d'informations.
+    label: Contactez-nous pour plus d'informations
     link: "/contact"
 missions:
   enable: true
