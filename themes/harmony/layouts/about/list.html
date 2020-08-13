@@ -2,20 +2,19 @@
 
 {{ partial "page-title.html" . }}
 
-{{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
+
 <section class="about section">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
         <div class="about-img">
-          <img class="img-responsive about-img" src="{{ .image | relURL }}">
+          <img class="img-responsive about-img" src="{{ .Params.Image }}">
         </div>
       </div>
       <div class="col-md-6 ml-2">
-        <h2 class="mt-40">{{ .title | markdownify }}</h2>
+        <h2 class="mt-40">{{ .Params.Titre }}</h2>
+        {{ .Params.Content }}
         <h5>
           </br>
         - Un accueil de jour dans un cadre chaleureux et conviviale.
@@ -37,17 +36,10 @@
        </br>
        </br>
        - My Harmony s'engage à accompagner les victimes à chaque étape de leur reconstruction jusqu’au regain d’autonomie.</h5>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
       </div>
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 <section class="section">
   <div class="container">
  <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/my-harmony/formulaires/2/widget" style="width:100%;height:750px;border:none;"></iframe>
@@ -71,9 +63,9 @@
 
 
 <!-- Call to action -->
-{{ if $data.about.cta.enable }}
+
 {{ partial "cta.html" . }}
-{{ end }}
+
 <!-- /Call to action -->
 
 {{ end }}
