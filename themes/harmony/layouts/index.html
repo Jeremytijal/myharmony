@@ -96,11 +96,7 @@
       <div class="col-md-6 order-1 feature2">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
-        <p>Pour l’acquisition des bons réflexes ainsi que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
-
-      Ses ateliers permettent aux femmes d'avoir une meilleure image d'elle-même.
-      Réveiller leurs potentiels.
-      Aider ces femmes à se reconstruire, qu'elles puissent retrouver confiance et dynamise et regagner leurs autonomies.</p>
+        <p>{{ .content | markdownify }}</p>
 
         {{ if .button.enable }}
         {{ with .button }}
