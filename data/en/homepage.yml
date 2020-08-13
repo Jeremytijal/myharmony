@@ -25,8 +25,9 @@ prochainement:
   bg_image: images/silence.jpg
   bg_overlay: false
   title: Prochainement
+  description: ''
   content: "Stage self-contrôle
-  Pour l’acquisition des bons réflexes ainsi que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
+  - Pour l’acquisition des bons réflexes ainsi que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
 Ses ateliers permettent aux femmes d'avoir une meilleure image d'elle-même.
 Réveiller leurs potentiels.
 Aider ces femmes à se reconstruire, qu'elles puissent retrouver confiance et dynamise et regagner leurs autonomies."
