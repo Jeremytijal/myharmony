@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/english/service
+  path: content/English/service/_index.md
   label: Précarité Menstruelle
-  match: "**/*"
 - type: document
   path: data/en/about.yml
   label: L'association
