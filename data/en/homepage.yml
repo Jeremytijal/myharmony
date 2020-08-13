@@ -31,7 +31,14 @@ atelier:
             </br>
             Limité à 6 personnes
             </br>
-            </br>"
+            </br>
+            <strong>  L'objectif</strong>
+            </br>
+            Gestion de ses émotions
+            </br>
+            Gérer son stress
+            </br>
+            Renforcer l'estime de soi"
   image : "images/aides.jpg"
 
 
@@ -49,9 +56,40 @@ prochainement:
 
 
 ############################# Service ############################
-service:
+missions:
   enable : true
+  title : "Nos missions"
+  description : ""
+  service_item:
+    # service item loop
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Accompagnement social
+      content: "Procédures juridiques, dossiers logement, demande de prestations"
+
+    # service item loop
+    - icon : ion-ios-book-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Permanences juridiques
+      content: "Vos droits (tous les jeudis matins)"
+
+    # service item loop
+    - icon : ion-woman #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Précarités menstruelles
+      content: "Distribution du kit sérénity pour toutes les femmes et étudiante qui rencontre des difficultés financières"
   # service content comes from "data/*/service.yml" file
+
+
+chiffres:
+  title: Les chiffres
+  chiffre:
+    # funfacts loop
+    - années : "En 2019"
+      décès : "149"
+      texte: "femmes tuées par leur conjoint ou ex-conjoint"
+
+    - années : "En 2020"
+      décès : "57"
+      texte: "femmes tuées par leur conjoint ou ex-conjoint"
+
 
 
 ############################ call to action ###########################
@@ -59,11 +97,7 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "Pour nous joindre 06 XXXXXXX"
-  content : "Violences femmes infos : 3919
-Pour un hébergement d’urgence composer le 115
-Demander de l’aide par SMS 114
-Vous êtes en danger composer le 17
-Accueil de jour de 9 h a 18 heures."
+  content : ""
   icon : "ion-ios-chatboxes-outline"
   button:
     enable : true

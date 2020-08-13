@@ -28,7 +28,7 @@
 
 
 <!-- Service -->
-{{ if $data.homepage.service.enable }}
+{{ if $data.homepage.missions.enable }}
 {{ partial "service.html" . }}
 {{ end }}
 <!-- /service -->
@@ -46,15 +46,7 @@
           <div class="section-title">
             <h2>{{ .title | markdownify }}</h2>
           </div>
-          <p> {{ .content | markdownify }}
-
-        <strong>  L'objectif</strong>
-          </br>
-           Gestion de ses émotions
-           </br>
-           Gérer son stress
-           </br>
-           Renforcer l'estime de soi</p>
+          <p> {{ .content | markdownify }} </p>
         </div>
       </div>
       <div class="col-md-5 col-sm-12">
@@ -69,28 +61,26 @@
 {{ end }}
 {{ end }}
 
-
+{{ with $data.homepage.chiffres }}
 <section class="section-sm5">
   <div class="container">
 <div class="row text-center">
-<h1>Les chiffres</h1>
+<h1>{{ .title }}</h1>
+{{ range .chiffre }}
   <div class="col-md-6">
 
     <div class="counter-item">
-      <h5>En 2019</h5>
-      <h1 class="count" data-count="149">0</h1>
-      <span>femmes tuées par leur conjoint ou ex-conjoint</span>
+      <h5>{{ .années }}</h5>
+      <h1 class="count" data-count="{{ .décès }}">0</h1>
+      <span>{{ .texte }}</span>
     </div>
     </div>
-      <div class="col-md-6">
-    <div class="counter-item">
-      <h5>En 2020</h5>
-      <h1 class="count" data-count="57">0</h1>
-      <span>femmes tuées par leur conjoint ou ex-conjoint</span>
-    </div>
-  </div>
+    {{ end }}
   </div>
 </section>
+
+{{ end }}
+
 
 {{ if $data.homepage.prochainement.enable }}
 {{ with $data.homepage.prochainement }}
