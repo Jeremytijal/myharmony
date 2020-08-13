@@ -11,37 +11,16 @@ banner:
     label: Faire un don
     link: https://www.donnerenligne.fr/my-harmony/faire-un-don/2
 atelier:
-  enable : true
-  title : "Nos Ateliers (sur rendez-vous)"
-  description : ""
-
-
-  content : "- Atelier bien être
-              </br>
-            - Séances gratuites avec une esthéticienne professionnelle sur rendez-vous
-            </br>
-            - Prendre un moment pour soi
-            </br>
-            - Groupes de paroles
-            </br>
-            - Atelier Confiance en soi.
-            </br>
-            - Stage de théâtre
-            </br>
-            Limité à 6 personnes
-            </br>
-            </br>
-            <strong>  L'objectif</strong>
-            </br>
-            Gestion de ses émotions
-            </br>
-            Gérer son stress
-            </br>
-            Renforcer l'estime de soi"
-  image : "images/aides.jpg"
-
-
-######################### Portfolio ###############################
+  enable: true
+  title: Nos Ateliers (sur rendez-vous)
+  description: ''
+  content: "- Atelier bien être </br>\n- Séances gratuites avec une esthéticienne
+    professionnelle sur rendez-vous </br> \n- Prendre un moment pour soi </br> \n-
+    Groupes de paroles </br> \n- Atelier Confiance en soi. </br> \n- Stage de théâtre
+    </br> \nLimité à 6 personnes </br> </br> \n<strong>  L'objectif</strong> </br>
+    \nGestion de ses émotions </br> \nGérer son stress </br> \nRenforcer l'estime
+    de soi"
+  image: images/aides.jpg
 prochainement:
   enable: true
   bg_image: images/silence.jpg
@@ -49,55 +28,39 @@ prochainement:
   title: Prochainement
   content: Stage self-contrôle
   button:
-    enable : true
-    label : "Contacter nous pour plus d'informations."
-    link : "/contact"
-
-
-############################# Service ############################
+    enable: true
+    label: Contacter nous pour plus d'informations.
+    link: "/contact"
 missions:
-  enable : true
-  title : "Nos missions"
-  description : ""
+  enable: true
+  title: Nos missions
+  description: ''
   service_item:
-    # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Accompagnement social
-      content: "Procédures juridiques, dossiers logement, demande de prestations"
-
-    # service item loop
-    - icon : ion-ios-book-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Permanences juridiques
-      content: "Vos droits (tous les jeudis matins)"
-
-    # service item loop
-    - icon : ion-woman #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Précarités menstruelles
-      content: "Distribution du kit sérénity pour toutes les femmes et étudiante qui rencontre des difficultés financières"
-  # service content comes from "data/*/service.yml" file
-
-
+  - icon: ion-coffee
+    name: Accompagnement social
+    content: Procédures juridiques, dossiers logement, demande de prestations
+  - icon: ion-ios-book-outline
+    name: Permanences juridiques
+    content: Vos droits (tous les jeudis matins)
+  - icon: ion-woman
+    name: Précarités menstruelles
+    content: Distribution du kit sérénity pour toutes les femmes et étudiante qui
+      rencontre des difficultés financières
 chiffres:
   title: Les chiffres
   chiffre:
-    # funfacts loop
-    - années : "En 2019"
-      décès : "149"
-      texte: "femmes tuées par leur conjoint ou ex-conjoint"
-
-    - années : "En 2020"
-      décès : "57"
-      texte: "femmes tuées par leur conjoint ou ex-conjoint"
-
-
-
-############################ call to action ###########################
+  - années: En 2019
+    décès: "149"
+    texte: femmes tuées par leur conjoint ou ex-conjoint
+  - années: En 2020
+    décès: "57"
+    texte: femmes tuées par leur conjoint ou ex-conjoint
 cta:
-  enable : true
-  bg_image : "images/call-to-action-bg.jpg"
-  title : "Pour nous joindre 06 XXXXXXX"
-  content : ""
-  icon : "ion-ios-chatboxes-outline"
+  enable: true
+  bg_image: images/call-to-action-bg.jpg
+  title: Pour nous joindre 06 XXXXXXX
+  content: ''
+  icon: ion-ios-chatboxes-outline
   button:
     enable: true
     label: Contactez-nous
