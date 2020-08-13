@@ -1,157 +1,70 @@
-############################### Banner ##############################
+---
 banner:
-  enable : true
-  bg_image : "images/bg.jpg"
-  bg_overlay : true
-  title : "L’ Association My Harmony"
-  content : "L’association intervient auprès des femmes et hommes victimes de violences conjugales et lutte contre la précarité menstruelle."
+  enable: true
+  bg_image: images/bg.jpg
+  bg_overlay: true
+  title: L’ Association My Harmony
+  content: L’association intervient auprès des femmes et hommes victimes de violences
+    conjugales et lutte contre la précarité menstruelle.
   button:
-    enable : true
-    label : "Faire un don"
-    link : "https://www.donnerenligne.fr/my-harmony/faire-un-don/2"
-
-############################# About #################################
+    enable: true
+    label: Faire un don
+    link: https://www.donnerenligne.fr/my-harmony/faire-un-don/2
 atelier:
-  enable : true
-  title : "Nos Ateliers (sur rendez-vous)"
-  description : ""
-
-
-  content : "- Atelier bien être
-              </br>
-            - Séances gratuites avec une esthéticienne professionnelle sur rendez-vous
-            </br>
-            - Prendre un moment pour soi
-            </br>
-            - Groupes de paroles
-            </br>
-            - Atelier Confiance en soi.
-            </br>
-            - Stage de théâtre
-            </br>
-            Limité à 6 personnes
-            </br>
-            </br>"
-  image : "images/aides.jpg"
-
-
-######################### Portfolio ###############################
+  enable: true
+  title: Nos Ateliers (sur rendez-vous)
+  description: ''
+  content: "- Atelier bien être </br> \n- Séances gratuites avec une esthéticienne
+    professionnelle sur rendez-vous </br> \n- Prendre un moment pour soi </br>\n -
+    Groupes de paroles </br> \n- Atelier Confiance en soi. </br> \n- Stage de théâtre
+    </br> \nLimité à 6 personnes </br> </br>"
+  image: images/aides.jpg
 prochainement:
-  enable : true
-  bg_image : "images/silence.jpg"
-  bg_overlay : false
-  title : "Prochainement"
-  content : "Stage self-contrôle"
+  enable: true
+  bg_image: images/silence.jpg
+  bg_overlay: false
+  title: Prochainement
+  content: Stage self-contrôle
   button:
-    enable : true
-    label : "Contacter nous pour plus d'informations."
-    link : "/contact"
-
-
-############################# Service ############################
+    enable: true
+    label: Contacter nous pour plus d'informations.
+    link: "/contact"
 service:
-  enable : true
-  # service content comes from "data/*/service.yml" file
-
-
-############################ call to action ###########################
+  enable: true
 cta:
-  enable : true
-  bg_image : "images/call-to-action-bg.jpg"
-  title : "Pour nous joindre 06 XXXXXXX"
-  content : "Violences femmes infos : 3919
-Pour un hébergement d’urgence composer le 115
-Demander de l’aide par SMS 114
-Vous êtes en danger composer le 17
-Accueil de jour de 9 h a 18 heures."
-  icon : "ion-ios-chatboxes-outline"
+  enable: true
+  bg_image: images/call-to-action-bg.jpg
+  title: Pour nous joindre 06 XXXXXXX
+  content: 'Violences femmes infos : 3919 Pour un hébergement d’urgence composer le
+    115 Demander de l’aide par SMS 114 Vous êtes en danger composer le 17 Accueil
+    de jour de 9 h a 18 heures.'
+  icon: ion-ios-chatboxes-outline
   button:
-    enable : true
-    label : "Contactez-nous"
-    link : "/contact"
+    enable: true
+    label: Contactez-nous
+    link: "/contact"
   service_item:
-    # featured service item loop
-    - name : "Interface Design"
-      icon : "ion-ios-telephone"
-      color : "light"
-      content : "Violences femmes infos : 3919"
-
-    # featured service item loop
-    - name : "Product Branding"
-      icon : "ion-home"
-      color : "light"
-      content : "Pour un hébergement d’urgence composer le 115"
-
-    # featured service item loop
-    - name : "Game Development"
-      icon : "ion-chatbox-working"
-      color : "light"
-      content : "Demander de l’aide par SMS 114"
-
-    - name : "Game Development"
-      icon : "ion-iphone"
-      color : "ion-ios-telephone"
-      content : "Vous êtes en danger composer le 17"
-
-    - name : "Game Development"
-      icon : "ion-person-stalker"
-      color : "light"
-      content : "Accueil de jour de 9 h a 18 heures."
-
-    - name : "Game Development"
-      icon : "ion-ios-clock"
-      color : "primary-darker"
-      content : "Astreintes de 18 h à 9 heures."
-
-############################# Funfacts ###############################
-#funfacts:
-#  enable : true
-#  title : "Fun Facts About Us"
-#  description : "'Pour nous joindre 06 XXXXXXX /Astreintes de 18 h à 9 heures.
-#Violences femmes infos :3919
-#Pour un hébergement d’urgence composer le 115
-#Demander de l’aide par SMS 114
-#Vous êtes en danger composer le 17
-#Accueil de jour de 9 h a 18 heures.'"
-#  funfact_item:
-    # funfacts item loop
-#    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Cups Of Coffee"
-#      count : "99"
-#
-    # funfacts item loop
-#    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Article Written"
-#      count : "45"
-
-    # funfacts item loop
-#    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Projects Completed"
-#      count : "125"
-
-    # funfacts item loop
-#    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Combined Projects"
-#      count : "200"
-
-#  testimonial_slider:
-    # testimonial item loop
-#    - name : "Raymond Roy"
-#      image : "images/clients/avater-1.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-    # testimonial item loop
-#    - name : "Randi Renin"
-#      image : "images/clients/avater-1.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-    # testimonial item loop
-#    - name : "Rose Rio"
-#      image : "images/clients/avater-3.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
+  - name: Interface Design
+    icon: ion-ios-telephone
+    color: light
+    content: 'Violences femmes infos : 3919'
+  - name: Product Branding
+    icon: ion-home
+    color: light
+    content: Pour un hébergement d’urgence composer le 115
+  - name: Game Development
+    icon: ion-chatbox-working
+    color: light
+    content: Demander de l’aide par SMS 114
+  - name: Game Development
+    icon: ion-iphone
+    color: ion-ios-telephone
+    content: Vous êtes en danger composer le 17
+  - name: Game Development
+    icon: ion-person-stalker
+    color: light
+    content: Accueil de jour de 9 h a 18 heures.
+  - name: Game Development
+    icon: ion-ios-clock
+    color: primary-darker
+    content: Astreintes de 18 h à 9 heures.
