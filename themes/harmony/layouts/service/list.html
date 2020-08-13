@@ -59,7 +59,7 @@
                 </select>
               </div>
             </div>
-              <button class="btn btn-default" type="submit">Envoyer</button>
+              <button class="btn-main" type="submit">Envoyer</button>
             </div>
           </div>
         </form>
@@ -69,12 +69,6 @@
   </div>
 </section>
 
-
-<!-- Service -->
-{{ if $data.service.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
 
 <!-- Call to action -->
 {{ if $data.service.cta.enable }}
