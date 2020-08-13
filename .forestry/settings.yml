@@ -5,10 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: data/en/homepage.yml
+  path: data/en
   label: Accueil
   create: all
   match: homepage.yml
+  new_doc_ext: ".yml"
 - type: directory
   path: content
   label: Pages
