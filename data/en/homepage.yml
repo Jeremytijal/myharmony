@@ -70,27 +70,27 @@ cta:
     label: Contactez-nous
     link: "/contact"
   service_item:
-  - name: Interface Design
+  - name: Violence
     icon: ion-ios-telephone
     color: light
     content: 'Violences femmes infos : 3919'
-  - name: Product Branding
+  - name: Hébergement
     icon: ion-home
     color: light
     content: Pour un hébergement d’urgence composer le 115
-  - name: Game Development
+  - name: SMS
     icon: ion-chatbox-working
     color: light
     content: Demander de l’aide par SMS 114
-  - name: Game Development
+  - name: Danger
     icon: ion-iphone
     color: ion-ios-telephone
     content: Vous êtes en danger composer le 17
-  - name: Game Development
+  - name: Accueil
     icon: ion-person-stalker
     color: light
     content: Accueil de jour de 9 h a 18 heures.
-  - name: Game Development
+  - name: Astreintes
     icon: ion-ios-clock
     color: primary-darker
     content: Astreintes de 18 h à 9 heures.
