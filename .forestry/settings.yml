@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/en/about.yml
   label: L'association
-  match: "**/*"
 - type: directory
   path: data/en
   label: Accueil
