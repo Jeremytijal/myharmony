@@ -1,8 +1,7 @@
 ---
 title: " L’association MY HARMONY"
-description: ""
-draft: false
-bg_image: "images/bg.jpg"
+description: ''
+bg_image: images/bg.jpg
 image: "/images/violence.jpeg"
 titre: "L’association My Harmony propose:"
 content: "- Un accueil de jour dans un cadre chaleureux et conviviale."
