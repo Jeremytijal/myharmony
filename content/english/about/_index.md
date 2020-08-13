@@ -5,24 +5,14 @@ draft: false
 bg_image: "images/bg.jpg"
 image: "/images/violence.jpeg"
 titre: "L’association My Harmony propose:"
-content: "Un accueil de jour dans un cadre chaleureux et conviviale.
+content: "- Un accueil de jour dans un cadre chaleureux et conviviale."
+content2: "- Une écoute bienveillante et un accompagnement."
+content3: "- Action et préventions dans le cadre des violences conjugales."
+content4: "- Offre une aide pluriprofessionnelle (sociale, physiologique et juridiques)"
+content5: "- Favoriser l’insertion professionnelle"
+content6: "- Redonner confiance et estime de soi aux femmes."
+content7: "- My Harmony s'engage à accompagner les victimes à chaque étape de leur reconstruction jusqu’au regain d’autonomie."
 
-          - Une écoute bienveillante et un accompagnement.
-       </br>
-       </br>
-        - Action et préventions dans le cadre des violences conjugales.
-        </br>
-        </br>
-        - Offre une aide pluriprofessionnelle (sociale, physiologique et juridiques)
-       </br>
-       </br>
-       - Favoriser l’insertion professionnelle
-       </br>
-       </br>
-       - Redonner confiance et estime de soi aux femmes.
-       </br>
-       </br>
-       - My Harmony s'engage à accompagner les victimes à chaque étape de leur reconstruction jusqu’au regain d’autonomie."
 ---
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l’auteur des faits.
 Il est important que la victime se mette ou soit mise à l’abri de nouvelles violences, avant même que des poursuites pénales ne soient engagées.
