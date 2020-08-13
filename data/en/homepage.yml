@@ -14,11 +14,11 @@ atelier:
   enable: true
   title: Nos Ateliers (sur rendez-vous)
   description: ''
-  content: "- Atelier bien être </br>\n- Séances gratuites avec une esthéticienne
+  content: "-- Atelier bien être </br>\n- Séances gratuites avec une esthéticienne
     professionnelle sur rendez-vous </br> \n- Prendre un moment pour soi </br> \n-
     Groupes de paroles </br> \n- Atelier Confiance en soi. </br> \n- Stage de théâtre
-    </br> \nLimité à 6 personnes </br> </br>\n \n<strong>  L'objectif</strong> </br>
-    \n\nGestion de ses émotions \n- Gérer son stress \n- Renforcer l'estime de soi"
+    </br> \nLimité à 6 personnes </br> </br>\n \n<strong> L'objectif</strong> </br>
+    \n\n- Gestion de ses émotions \n- Gérer son stress \n- Renforcer l'estime de soi"
   image: images/aides.jpg
 prochainement:
   enable: true
