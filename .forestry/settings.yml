@@ -4,12 +4,16 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: data/en/about.yml
+  label: L'association
+  match: "**/*"
 - type: directory
   path: data/en
   label: Accueil
   create: all
   match: homepage.yml
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 - type: directory
   path: content
   label: Pages
