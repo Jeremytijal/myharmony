@@ -14,7 +14,7 @@ sections:
   label: Contenu
   create: all
   match: "**/*"
-upload_dir: theme/harmony/static/images
+upload_dir: themes/harmony/static/images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
