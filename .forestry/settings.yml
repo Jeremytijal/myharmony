@@ -25,7 +25,7 @@ sections:
   path: content/english/mentions/_index.md
   label: Mentions légales
 upload_dir: themes/harmony/static/images
-public_path: themes/harmony/static/images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
