@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/english/mentions/_index.md
+  label: Mentions légales
+  match: "**/*"
 - type: directory
   path: data/en
   label: Accueil
@@ -18,15 +22,15 @@ sections:
   path: content/english/service/_index.md
   label: Précarité Menstruelle
 - type: directory
+  path: content/english/blog
+  label: Blog
+  create: all
+  match: "**/*"
+- type: directory
   path: content/english
   label: Contenu
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: themes/harmony/static/images
 public_path: "/uploads"
 front_matter_path: ''
