@@ -14,11 +14,10 @@ atelier:
   enable: true
   title: Nos Ateliers (sur rendez-vous)
   description: ''
-  content: "- Atelier bien être </br>\n- Séances gratuites avec une esthéticienne
-    professionnelle sur rendez-vous </br> \n- Prendre un moment pour soi </br> \n-
-    Groupes de paroles </br> \n- Atelier Confiance en soi. </br> \n- Stage de théâtre
-    </br> \n- Limité à 6 personnes </br> </br>\n \n### L'objectif\n\n- Gestion de
-    ses émotions \n- Gérer son stress \n- Renforcer l'estime de soi"
+  content: "- Atelier bien être \"moment pour soi \"</br>\n- Atelier confiance & estime
+    de soi  </br> \n- Groupes de paroles </br> \n- Stage de théâtre </br> \n- Limité
+    à 6 personnes </br> </br>\n \n### L'objectif\n\n- Gestion de ses émotions \n-
+    Gérer son stress \n- Renforcer l'estime de soi et confiance en soi"
   image: images/aides.jpg
 prochainement:
   enable: true
@@ -37,7 +36,7 @@ prochainement:
     link: "/contact"
 missions:
   enable: true
-  title: Nos missions
+  title: Nos actions
   description: ''
   service_item:
   - icon: ion-coffee
@@ -57,7 +56,7 @@ chiffres:
     décès: "149"
     texte: femmes tuées par leur conjoint ou ex-conjoint
   - années: En 2020
-    décès: "58"
+    décès: "59"
     texte: Femmes tuées par leur conjoint ou ex-conjoint
 cta:
   enable: true
