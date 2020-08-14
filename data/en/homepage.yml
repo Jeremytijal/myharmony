@@ -57,8 +57,8 @@ chiffres:
     décès: "149"
     texte: femmes tuées par leur conjoint ou ex-conjoint
   - années: En 2020
-    décès: "57"
-    texte: femmes tuées par leur conjoint ou ex-conjoint
+    décès: "58"
+    texte: Femmes tuées par leur conjoint ou ex-conjoint
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
