@@ -2,8 +2,8 @@
 title: Article association My Harmony
 date: 2018-09-24T11:07:10.000+06:00
 author: ''
-image: themes/harmony/static/images/IMG_9F56206BC509-1.jpeg
-bg_image: themes/harmony/static/images/bg.jpg
+image: "/images/IMG_9F56206BC509-1.jpeg"
+bg_image: "/images/bg.jpg"
 categories: []
 tags: []
 description: ''
