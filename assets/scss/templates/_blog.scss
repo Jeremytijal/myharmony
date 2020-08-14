@@ -14,8 +14,19 @@
   .post-media {
     &.post-thumb {
       img {
-        width: 100%;
+        width: auto;
         height: auto;
+        max-height: 600px;
+        align-items: center;
+      }
+    }
+
+    &.post-thumb2 {
+      img {
+        width: auto;
+        height: auto;
+        max-height: 400px;
+        align-items: center;
       }
     }
 
