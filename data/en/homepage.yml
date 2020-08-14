@@ -36,7 +36,7 @@ prochainement:
     link: "/contact"
 missions:
   enable: true
-  title: Nos missions
+  title: Nos actions
   description: ''
   service_item:
   - icon: ion-coffee
