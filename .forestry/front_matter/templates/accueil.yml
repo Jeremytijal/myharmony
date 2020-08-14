@@ -35,6 +35,32 @@ fields:
       name: link
       label: link
 - type: field_group
+  name: missions
+  label: missions
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: service_item
+    label: service_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: content
+      label: content
+- type: field_group
   name: atelier
   label: atelier
   fields:
@@ -88,32 +114,6 @@ fields:
     - type: text
       name: link
       label: link
-- type: field_group
-  name: missions
-  label: missions
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: title
-    label: title
-  - type: text
-    name: description
-    label: description
-  - type: field_group_list
-    name: service_item
-    label: service_item
-    fields:
-    - type: text
-      name: icon
-      label: icon
-    - type: text
-      name: name
-      label: name
-    - type: text
-      name: content
-      label: content
 - type: field_group
   name: chiffres
   label: chiffres
