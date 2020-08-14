@@ -1,10 +1,9 @@
 ---
-title: "La Précarité Menstruelle"
-description: ""
-draft: false
-bg_image: "images/bg.jpg"
----
+title: La Précarité Menstruelle
+description: ''
+bg_image: images/bg.jpg
 
+---
 La précarité touche 500 Millions de femmes dans le monde.
 En France, 1,7 Millions de femmes touchées par la précarité
 Se protéger avec des tissus, papiers journal, mouchoir menacent la santé.
