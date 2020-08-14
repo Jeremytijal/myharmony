@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/english/mentions/_index.md
-  label: Mentions légales
-  match: "**/*"
 - type: directory
   path: data/en
   label: Accueil
@@ -25,6 +21,10 @@ sections:
   path: content/english/blog
   label: Blog
   create: all
+  match: "**/*"
+- type: document
+  path: content/english/mentions/_index.md
+  label: Mentions légales
   match: "**/*"
 - type: directory
   path: content/english
