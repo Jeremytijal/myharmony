@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/bg.jpg
   bg_overlay: true
-  title: L’ Association My Harmony
+  title: Association My Harmony
   content: L’association intervient auprès des femmes et hommes victimes de violences
     conjugales et lutte contre la précarité menstruelle.
   button:

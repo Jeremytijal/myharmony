@@ -13,7 +13,6 @@ sections:
 - type: document
   path: content/english/about/_index.md
   label: L'association
-  match: "**/*"
 - type: document
   path: content/english/service/_index.md
   label: Précarité Menstruelle
@@ -25,7 +24,6 @@ sections:
 - type: document
   path: content/english/mentions/_index.md
   label: Mentions légales
-  match: "**/*"
 - type: directory
   path: content/english
   label: Contenu
