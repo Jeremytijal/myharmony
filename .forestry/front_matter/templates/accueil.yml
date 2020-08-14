@@ -182,3 +182,5 @@ fields:
     - type: text
       name: content
       label: content
+pages:
+- data/en/homepage.yml
