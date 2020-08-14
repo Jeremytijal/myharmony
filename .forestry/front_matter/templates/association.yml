@@ -38,3 +38,5 @@ fields:
 - type: textarea
   name: content7
   label: content7
+pages:
+- content/english/about/_index.md
