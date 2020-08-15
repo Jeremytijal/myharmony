@@ -15,8 +15,7 @@ atelier:
   title: Nos Ateliers (sur rendez-vous)
   description: ''
   content: "- Atelier bien être \"moment pour soi \"</br>\n- Atelier confiance & estime
-    de soi  </br> \n- Groupes de paroles </br> \n- Stage de théâtre </br> \n- Limité
-    à 6 personnes </br> </br>\n \n### L'objectif\n\n- Gestion de ses émotions \n-
+    de soi  </br> \n- Groupes de paroles </br> \n- Stage de théâtre (6 places)</br> \n- Groupe de parole</br> </br>\n \n### L'objectif\n\n- Gestion de ses émotions \n-
     Gérer son stress \n- Renforcer l'estime de soi et confiance en soi"
   image: images/aides.jpg
 prochainement:
@@ -43,12 +42,14 @@ missions:
     name: Accompagnement social
     content: Procédures juridiques, dossiers logement, demande de prestations
   - icon: ion-ios-book-outline
-    name: Permanences juridiques
-    content: Vos droits (tous les jeudis matins)
+    name: Aide aux victimes de violences conjugales
+    content:
   - icon: ion-woman
-    name: Précarités menstruelles
-    content: Distribution du kit sérénity pour toutes les femmes et étudiante qui
-      rencontre des difficultés financières
+    name: Lutte contre la précarités menstruelles
+    content: Distribution du kit sérénity pour toutes les femmes et étudiantes qui rencontrent des difficultés financières
+  - icon: ion-speakerphone
+    name: Préventions
+    content:
 chiffres:
   title: Les chiffres
   chiffre:
