@@ -22,7 +22,7 @@ Toute personne qui subit des violences physiques, verbales, psychologiques ou se
 Les différentes formes de violences conjugales Les violences conjugales peuvent s’exercer de différentes façons :
 
 * Violences sexuelles & physiques : viols, agressions, coups, blessures, gifles, bousculades, morsures, etc.
-* Violences psychologiques & verbales : harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
+* Violences psychologiques & verbales : harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc
 * Violences économiques & administratives : privation de ressources, contrôle des dépenses, vol, destruction ou chantage aux papiers d’identité, etc.
 * Violences sociales et familiales : isolement, repli social, rupture avec la famille et l’entourage.
 
