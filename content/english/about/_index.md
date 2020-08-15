@@ -52,7 +52,7 @@ Si vous êtes en situation d'urgences
 
 **Secours de la police:** [17]()
 
-**Par SMS** [**114**]()
+**Par SMS** [114]()
 
 **Violences Conjugales Femmes Infos Services**: [39 19]()
 
@@ -73,16 +73,6 @@ Commissariat de police
 </br> </br>
 
 160 Avenue de la République 77340 Pontault-Combault
-
-</br> </br>
-
-Informations </br> </br>
-
-https://arretonslesviolences.gouv.fr
-
-</br> </br>
-
-www.solidaritefemmes.org
 
 </br> </br>
 
