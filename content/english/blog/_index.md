@@ -1,6 +1,6 @@
 ---
-title: "Nos actualités"
-description: ""
-draft: false
-bg_image: "images/bg.jpg"
+title: Santé & Hygiène féminine
+description: Information donnée à titre informatif.
+bg_image: images/bg.jpg
+
 ---
