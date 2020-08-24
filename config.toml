@@ -49,14 +49,14 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params]
 logo = "images/logo-mh.jpg"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = ""
+author = "Netary"
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
 location = "North Main Street,Brooklyn Australia"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "/merci" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
