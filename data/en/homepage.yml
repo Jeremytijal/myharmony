@@ -47,8 +47,7 @@ missions:
     content: ''
   - icon: ion-woman
     name: Lutte contre la précarité menstruelle
-    content: Distribution du kit sérénity pour toutes les femmes et étudiantes qui
-      rencontrent des difficultés financières
+    content: ''
   - icon: ion-speakerphone
     name: Préventions
     content: ''
