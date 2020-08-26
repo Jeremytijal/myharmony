@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-08-25T22:00:00Z
 description = ""
-draft = true
 image = "/images/IMG_9F56206BC509-1.jpeg"
 tags = []
 title = "Les numéros d'urgence"
