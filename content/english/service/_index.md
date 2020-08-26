@@ -4,13 +4,13 @@ description: ''
 bg_image: images/bg.jpg
 
 ---
-La précarité touche 500 Millions de femmes dans le monde. En France, 1,7 Millions de femmes touchées par la précarité Se protéger avec des tissus, papiers journal, mouchoir menacent la santé. (Irritation, Infections) Pour les femmes valoir ces droits fondamentaux à la protection et à la dignité Lutter contre la précarité des femmes et des étudiantes est l'une de notre action toute l'année. L'hygiène intime étant primordiale, l'association My Harmony fournit un kit pour les femmes touchées par la précarité en France, et les étudiantes. Apporter le minimum de confort durant les menstruations.
+La précarité touche 500 millions de femmes dans le monde. En France, 1,7 millions de femmes sont touchées par la précarité menstruelle. Se protéger avec des tissus, du papier journal ou encore des mouchoirs menace la santé ( risques d'irritations, infections). Pour les femmes faire valoir leurs droits  à la protection et à la dignité est fondamental. Lutter contre la précarité menstruelle des femmes en difficulté et des étudiantes est l'une de nos actions tout au long de l'année. L'hygiène intime étant primordiale, l'association My Harmony fournit un kit pour les femmes touchées par la précarité en France ainsi que les étudiantes. Notre but: apporter un minimum de confort durant les menstruations.
 
-Le kit Sérénity distribuer par l'association ou par voie postale à la demande en remplissant le formulaire. (sous certaines conditions)
+Le kit Sérénity est distribué par l'association mais peut également être envoyé par voie postale ( faire la demande en remplissant le formulaire. Il est cependant délivré sous certaines conditions.
 
-Brisons les tabous
+Ensemble brisons les tabous.
 
-Les règles qui sont un phénomène naturel restent en 2020 tabous.
+Les règles, qui sont un phénomène naturel, restent encore en 2020 un sujet tabou.
 
 La perception des règles à travers le monde.
 
