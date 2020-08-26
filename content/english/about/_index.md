@@ -48,7 +48,7 @@ Si vous êtes en situation d'urgence:
 
 **Secours de la police:**   [17]()
 
-**Par SMS**   [114]()
+**Par SMS:**   [114]()
 
 **Violences Conjugales Femmes Infos Services** : [39 19]()
 
