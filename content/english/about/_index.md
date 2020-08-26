@@ -20,21 +20,17 @@ content10: ''
 ---
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
-Les différentes formes de violences conjugales
-
 Les violences conjugales peuvent s'exercer de différentes manières:
 
-\- Violences sexuelles & physiques: violes, agressions, coups d'État, blessures, gifles, bousculades, morsures, etc.
+\- Violences sexuelles & physiques: viols, agressions, coups et blessures, gifles, bousculades, morsures, etc.
 
 \- Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
 
-\- Violences économiques & administratives: privation de ressources, contrôle des dépenses, vol, destruction ou chantage aux papiers d'identité, etc.
+\- Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
 
 \- Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
-Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits.
-
-Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
+Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
 Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
@@ -48,7 +44,7 @@ Délégation régionale aux droits des femmes et à l'égalité d'Île-de-France
 
 Association [www.solidaritefemmes.org](http://www.solidaritefemmes.org/)
 
-Si vous êtes en situation d'urgences
+Si vous êtes en situation d'urgence:
 
 **Secours de la police:**   [17]()
 
