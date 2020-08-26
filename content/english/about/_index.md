@@ -3,15 +3,15 @@ title: Association My Harmony
 description: ''
 bg_image: images/bg.jpg
 image: "/images/stop-violence.jpg"
-titre: 'L’association My Harmony :'
-content: "- Un accueil de jour dans un cadre chaleureux et conviviale."
-content2: "- Une écoute bienveillante et un accompagnement."
-content3: "- Action et préventions dans le cadre des violences conjugales."
-content4: "- Offre une aide pluriprofessionnelle (sociale, physiologique et juridiques)"
+titre: 'L’association My Harmony c''est:'
+content: "- Un accueil de jour dans un cadre chaleureux et convivial"
+content2: "- Une écoute bienveillante et un accompagnement"
+content3: "- Des actions et de la prévention aux violences conjugales"
+content4: "- Une offre d'aides pluriprofessionnelles (sociales, physiologiques et
+  juridiques)"
 content5: "- Favoriser l’insertion professionnelle"
-content6: "- Redonner confiance et estime de soi aux femmes."
-content7: "- My Harmony accompagne les victimes à chaque étape de leur reconstruction
-  jusqu’au regain d’autonomie."
+content6: "- Redonner confiance et estime de soi aux femmes"
+content7: "- Un accompagnement des victimes à chaque étape de leur reconstruction"
 content8: "- My harmony s'engage contre la précarité menstruelle. Distribution de
   protection hygiénique aux femmes et étudiantes touchées par la précarité."
 content9: ''
