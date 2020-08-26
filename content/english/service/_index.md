@@ -16,42 +16,40 @@ La perception des règles à travers le monde.
 
 Dans certains pays, une femme ayant ses règles est considérée comme impure.
 
-Au Kenya, Rwanda les femmes utilisent la boue ou papiers journal pour se protéger des menstruations. Les jeunes filles ne vont pas à l'école.
+Au Kenya ou au Rwanda, les femmes utilisent la boue ou du papier journal en guise de protection hygiénique et les jeunes filles ne vont pas à l'école.
 
 Au Malawi, il est interdit de parler de règles.
 
-En Bolivie «jeter un tampon, c'est propager le cancer»
+En Bolivie «jeter un tampon, c'est propager le cancer».
 
-Interdiction de se laver: «Se doucher pendant les règles rendrait stériles» Afghanistan.
+En Afghanistan, il est interdit de se laver ( «se doucher pendant les règles rendrait stérile» ).
 
-Au Népal, les femmes sont exilées lors des menstruations comme un péché symbole d'impureté.
+Au Népal, les femmes sont exilées lors des menstruations. Elles sont symbole d'impureté.
 
-LIBÉREZ VOTRE PAROLE
+LIBÉREZ VOTRE PAROLE!
 
 ### #BRISONSLESTABOUS
 
-Connaitre son corps, ses cycles parler sans tabou
+Connaitre son corps, ses cycles, en parler sans tabou.
 
-Durant 40 ans les règles rythment nos vies répondent aux questionnements que l'on se pose parce qu'il est important d'y répondre.
+Durant environ 40 ans, les règles rythment nos vies il est donc important de répondre à nos interrogations.
 
-#### Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarités menstruelles)
+#### Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarité menstruelle).
 
 ## Notre mission
 
-Venir en aide aux femmes et étudiantes qui subissent la précarité menstruelle.
+Venir en aide aux femmes et étudiantes qui victime de précarité menstruelle.
 
-Droit à la dignité My Harmony s'engage avec la participation des bénévoles distribuer un kit sérénity.
+Droit à la dignité My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
 
-Un mois, un kit, une femme.
+Un mois, une femme, un kit.
 
-Informations du kit
+Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
 
-le kit Sérenity distribution sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé)
-
-Le kit se compose de:
+Le kit se compose:
 
 * De protections hygiéniques
-* Lingettes d'hygiènes
-* Un savon base de Cranberry bio 150g.
-* Une mini bouillotte.
-* Une notice explicative en prévention des Chocs Toxiques Astuces pour les règles douloureuses.
+* De lingettes d'hygiène intime
+* D'un savon à base de Cranberry bio (150g).
+* D'une mini bouillotte.
+* D'une notice explicative pour prévenir des chocs toxiques ainsi que quelques astuces pour soulager les règles douloureuses.
