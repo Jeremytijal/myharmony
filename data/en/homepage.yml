@@ -15,9 +15,9 @@ atelier:
   title: Nos Ateliers (sur rendez-vous)
   description: ''
   content: "- Atelier bien être \"moment pour soi \"</br>\n- Atelier confiance & estime
-    de soi  </br> \n- Groupes de parole </br> \n-Sophrologie en groupes </br>\n- Stage
+    de soi  </br> \n- Groupes de parole </br> \n- Sophrologie en groupe </br>\n- Stage
     de théâtre (6 places)</br> \n\n \n### L'objectif\n\n- Gestion de ses émotions
-    \n- Gérer son stress \n- Renforcer l'estime de soi et confiance en soi"
+    \n- Gérer son stress \n- Renforcer l'estime et la confiance en soi"
   image: images/aides.jpg
 prochainement:
   enable: true
@@ -25,11 +25,11 @@ prochainement:
   bg_overlay: false
   title: Prochainement
   description: ''
-  content: "#### Stage self-contrôle \n\n- Pour l’acquisition des bons réflexes ainsi
+  content: "#### Stage self-contrôle \n\nPour l’acquisition des bons réflexes ainsi
     que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
-    Ses ateliers permettent aux femmes d'avoir une meilleure image d'elle-même. Réveiller
-    leurs potentiels. Aider ces femmes à se reconstruire, qu'elles puissent retrouver
-    confiance et dynamise et regagner leurs autonomies."
+    Ses ateliers permettent aux femmes:\n-  d'avoir une meilleure image d'elle-même,
+    de révéler leurs potentiels\n- d'aider ces femmes à se reconstruire, qu'elles
+    puissent retrouver confiance en elle et regagner leurs autonomies."
   button:
     enable: true
     label: Contactez-nous pour plus d'informations
@@ -49,17 +49,17 @@ missions:
     name: Lutte contre la précarité menstruelle
     content: ''
   - icon: ion-speakerphone
-    name: Préventions
+    name: Prévention
     content: ''
 chiffres:
   title: Les chiffres
   chiffre:
   - années: En 2019
     décès: "149"
-    texte: femmes tuées par leur conjoint ou ex-conjoint
+    texte: femmes tuées par leur conjoint ou ex-conjoint.
   - années: En 2020
     décès: "62"
-    texte: Femmes tuées par leur conjoint ou ex-conjoint
+    texte: femmes tuées par leur conjoint ou ex-conjoint.
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
@@ -78,19 +78,19 @@ cta:
   - name: Hébergement
     icon: ion-home
     color: light
-    content: Pour un hébergement d’urgence composer le 115
+    content: Pour un hébergement d’urgence composer le 115.
   - name: SMS
     icon: ion-chatbox-working
     color: light
-    content: Demander de l’aide par SMS 114
+    content: Demander de l’aide par SMS 114.
   - name: Danger
     icon: ion-iphone
     color: ion-ios-telephone
-    content: Vous êtes en danger composer le 17
+    content: Vous êtes en danger composez le 17.
   - name: Accueil
     icon: ion-person-stalker
     color: light
-    content: Accueil de jour de 9 h a 18 heures.
+    content: Accueil de jour de 9 h à 18 heures.
   - name: Astreintes
     icon: ion-ios-clock
     color: primary-darker
