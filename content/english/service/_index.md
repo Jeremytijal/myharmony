@@ -12,7 +12,7 @@ Ensemble, brisons les tabous.
 
 Les règles, qui sont un phénomène naturel, restent encore en 2020 un sujet tabou.
 
-### La perception des règles à travers le monde
+## La perception des règles à travers le monde
 
 Dans certains pays, une femme ayant ses règles est considérée comme impure.
 
@@ -28,15 +28,15 @@ Au Népal, les femmes sont exilées lors des menstruations. Elles sont symbole d
 
 LIBÉREZ VOTRE PAROLE!
 
-### #BRISONSLESTABOUS
+## #BRISONSLESTABOUS
 
 Connaitre son corps, ses cycles, en parler sans tabou.
 
 Durant environ 40 ans, les règles rythment nos vies il est donc important de répondre à nos interrogations.
 
-##### Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarité menstruelle).
+###### Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & informations (endométriose, précarité menstruelle).
 
-### Notre mission
+## Notre mission
 
 * Venir en aide aux femmes et étudiantes victimes de précarité menstruelle.
 * Droit à la dignité : My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
@@ -45,7 +45,7 @@ Un mois, une femme, un kit.
 
 Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
 
-Le kit se compose:
+**Le kit se compose:**
 
 * De protections hygiéniques
 * De lingettes d'hygiène intime
