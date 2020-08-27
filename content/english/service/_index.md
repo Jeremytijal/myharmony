@@ -1,6 +1,7 @@
 ---
 title: La Précarité Menstruelle
-description: ''
+description: La précarité menstruelle touche 500 millions de femmes dans le monde.
+  Il est nécessaire de lutter contre la précarité menstruelle !
 bg_image: images/bg.jpg
 
 ---
