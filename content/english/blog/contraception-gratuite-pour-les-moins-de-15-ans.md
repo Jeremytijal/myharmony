@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-08-27T22:00:00Z
 description = ""
-draft = true
 image = "/images/pexels-sebastian-voortman-214574.jpg"
 tags = []
 title = "Contraception gratuite pour les moins de 15 ans"
