@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-08-30T22:00:00Z
 description = ""
-draft = true
 image = "/images/pexels-karolina-grabowska-4238999.jpg"
 tags = []
 title = "Dès la rentrée distribution de protections hygiénique"
