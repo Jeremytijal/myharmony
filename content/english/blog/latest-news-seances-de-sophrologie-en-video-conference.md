@@ -24,14 +24,13 @@ Mme Annelise Talbot, **sophrologue/relaxologue assure désormais des permanences
 
 \- Vous relaxer et vous détendre
 
-  
 **Horaires des permanences:**
 
-Le lundi de 14 h 00 à 15 h 00.
+Le lundi de 14 h à 15 h.
 
-Le vendredi 15 -16 heures ( mois de septembre)
+Le vendredi 15h à 16 heures ( mois de septembre)
 
-Le samedi 10 -12 heures.
+Le samedi 10h à 12 heures.
 
 **Mme Talbot est à votre écoute avec bienveillance et sans jugement.**
 
