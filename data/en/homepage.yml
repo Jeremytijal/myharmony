@@ -29,14 +29,14 @@ atelier:
 prochainement:
   enable: true
   bg_image: images/silence.jpg
-  bg_overlay: false
+  bg_overlay: true
   title: Prochainement
   description: ''
   content: "#### Stage self-contrôle \n\nPour l’acquisition des bons réflexes ainsi
-    que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
-    Ses ateliers permettent aux femmes:\n\n. d'avoir une meilleure image d'elle-même,
-    de révéler leurs potentiels\n. d'aider ces femmes à se reconstruire, qu'elles
-    puissent retrouver confiance en elles et regagner leurs autonomies."
+    que toutes les règles de prévention à adopter dans divers lieux et diverses situations.\nSes
+    ateliers permettent aux femmes d'avoir une meilleure image d'elle-même et de révéler
+    leurs potentiels, mais aussi ces cours leur permettent de se reconstruire, de
+    retrouver confiance en elles et de regagner leurs autonomies. "
   button:
     enable: true
     label: Contactez-nous pour plus d'informations
