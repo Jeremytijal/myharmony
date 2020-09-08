@@ -34,9 +34,9 @@ prochainement:
   description: ''
   content: "#### Stage self-contrôle \n\nPour l’acquisition des bons réflexes ainsi
     que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
-    Ses ateliers permettent aux femmes:\n-  d'avoir une meilleure image d'elle-même,
-    de révéler leurs potentiels\n- d'aider ces femmes à se reconstruire, qu'elles
-    puissent retrouver confiance en elle et regagner leurs autonomies."
+    Ses ateliers permettent aux femmes:\n\n. d'avoir une meilleure image d'elle-même,
+    de révéler leurs potentiels\n. d'aider ces femmes à se reconstruire, qu'elles
+    puissent retrouver confiance en elles et regagner leurs autonomies."
   button:
     enable: true
     label: Contactez-nous pour plus d'informations
