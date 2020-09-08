@@ -72,6 +72,8 @@ Commissariat de police
 
 </br> </br>
 
-### Brisez le silence.
+### #brisonslesilence
 
 associationmyharmony@gmail.com
+
+![](/images/affiche-b-w.png)
