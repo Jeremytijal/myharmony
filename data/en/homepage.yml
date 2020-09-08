@@ -12,12 +12,18 @@ banner:
     link: https://www.donnerenligne.fr/my-harmony/faire-un-don/2
 atelier:
   enable: true
-  title: Nos Ateliers (sur rendez-vous)
-  description: Bientôt
-  content: "- Atelier bien être \"moment pour soi \"</br>\n- Atelier confiance & estime
-    de soi  </br> \n- Groupes de parole </br> \n- Sophrologie en groupe </br>\n- Stage
-    de théâtre (6 places)</br> \n\n \n### L'objectif\n\n- Gestion de ses émotions
-    \n- Gérer son stress \n- Renforcer l'estime et la confiance en soi"
+  title: Nos Permanences (sur rendez-vous)
+  description: ''
+  content: "                 PROCHAINEMENT:\n\n- Stage Self Control / Self Defense
+    (Plus d'info sur le blog)\n- Atelier bien être \"moment pour soi \"</br>\n- Atelier
+    confiance & estime de soi  </br> \n- Groupes de parole </br> \n- Sophrologie en
+    groupe </br>\n- Stage de théâtre (6 places)</br> \n\n                    => L'objectif
+    <=\n\n- Gestion de ses émotions \n- Gérer son stress \n- Renforcer l'estime et
+    la confiance en soi\n\n                  LES PERMANENCES ACTUELLES:\n\nSéances
+    de sophrologie en vidéo conférence:\n\nLe lundi de 14 h 00 à 15 h 00.\nLe vendredi
+    15 -16 heures ( mois de septembre)\nLe samedi 10 -12 heures\n\nSéances de psychothérapie
+    :\n\nLe mardi, mercredi et jeudi de 14 heures à 19 heures.\n\nPOUR PLUS D'INFORMATIONS
+    CONSULTEZ NOTRE BLOG :)"
   image: images/aides.jpg
 prochainement:
   enable: true
