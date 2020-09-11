@@ -56,8 +56,7 @@ email = "demo@email.com"
 # contact form action
 contact_form_action = "/merci" # contact form works with : https://formspree.io
 # Google Analitycs
-googleAnalytics = "UA-123-45" # Your ID# search
-# multi-author support (if set to true, you must use an Array in the author field)
+
 multi_author = false
 
 # Preloader
