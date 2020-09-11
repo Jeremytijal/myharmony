@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: config.toml
+  label: Paramètres
+  match: "**/*"
+- type: document
   path: data/en/homepage.yml
   label: Accueil
 - type: document
