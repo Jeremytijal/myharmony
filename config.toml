@@ -1,15 +1,14 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "https://assomyharmony.org/"
 title = "My Harmony | Astreintes de 18 h à 9 heures"
 theme = "harmony"
+
+googleAnalytics = "UA-123-45"
+
 # post pagination
 paginate = "4"
 # post excerpt
 summaryLength = "30"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = []
 
 
 #################################### Plugins ##############################
@@ -54,7 +53,6 @@ author = "Netary"
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
 # contact form action
 contact_form_action = "/merci" # contact form works with : https://formspree.io
 # Google Analitycs
