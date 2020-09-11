@@ -12,24 +12,31 @@ banner:
     link: https://www.donnerenligne.fr/my-harmony/faire-un-don/2
 atelier:
   enable: true
-  title: Nos Ateliers (sur rendez-vous)
+  title: Nos Permanences (sur rendez-vous)
   description: ''
-  content: "- Atelier bien être \"moment pour soi \"</br>\n- Atelier confiance & estime
-    de soi  </br> \n- Groupes de paroles </br> \n-Sophrologie en groupes </br>\n-
-    Stage de théâtre (6 places)</br> \n\n \n### L'objectif\n\n- Gestion de ses émotions
-    \n- Gérer son stress \n- Renforcer l'estime de soi et confiance en soi"
+  content: "                              LES PERMANENCES ACTUELLES: (en vidéoconférence)\n\nSéances
+    de sophrologie:\n\nLe lundi de 14 h à 15 h.\nLe vendredi 15h à 16 heures ( mois
+    de septembre)\nLe samedi 10h à 12 heures\n\n\nSéances de psychothérapie:\n\nLe
+    mardi, mercredi et jeudi de 14 heures à 19 heures.\n\n\nPermanences juridiques:\n\nLe
+    samedi de 10h à 13h.\n\n\n\n                              PROCHAINEMENT:\n\n-
+    Stage Self Control / Self Defense (Plus d'info sur le blog)\n- Atelier bien être
+    \"moment pour soi \"</br>\n- Atelier confiance & estime de soi  </br> \n- Groupes
+    de parole </br> \n- Sophrologie en groupe </br>\n- Stage de théâtre (6 places)</br>
+    \n\n                    => L'objectif <=\n\n- Gestion de ses émotions \n- Gérer
+    son stress \n- Renforcer l'estime et la confiance en soi\n\n\n\n\nPOUR PLUS D'INFORMATIONS
+    CONSULTEZ NOTRE BLOG :)"
   image: images/aides.jpg
 prochainement:
   enable: true
   bg_image: images/silence.jpg
-  bg_overlay: false
+  bg_overlay: true
   title: Prochainement
   description: ''
-  content: "#### Stage self-contrôle \n\n- Pour l’acquisition des bons réflexes ainsi
-    que toutes les règles de prévention à adopter dans divers lieux et diverses situations.
-    Ses ateliers permettent aux femmes d'avoir une meilleure image d'elle-même. Réveiller
-    leurs potentiels. Aider ces femmes à se reconstruire, qu'elles puissent retrouver
-    confiance et dynamise et regagner leurs autonomies."
+  content: "#### Stage self-contrôle \n\nPour l’acquisition des bons réflexes ainsi
+    que toutes les règles de prévention à adopter dans divers lieux et diverses situations.\nSes
+    ateliers permettent aux femmes d'avoir une meilleure image d'elle-même et de révéler
+    leurs potentiels, mais aussi ces cours leur permettent de se reconstruire, de
+    retrouver confiance en elles et de regagner leurs autonomies. "
   button:
     enable: true
     label: Contactez-nous pour plus d'informations
@@ -46,21 +53,20 @@ missions:
     name: Aide aux victimes de violences conjugales
     content: ''
   - icon: ion-woman
-    name: Lutte contre la précarités menstruelles
-    content: Distribution du kit sérénity pour toutes les femmes et étudiantes qui
-      rencontrent des difficultés financières
+    name: Lutte contre la précarité menstruelle
+    content: ''
   - icon: ion-speakerphone
-    name: Préventions
+    name: Prévention
     content: ''
 chiffres:
   title: Les chiffres
   chiffre:
   - années: En 2019
     décès: "149"
-    texte: femmes tuées par leur conjoint ou ex-conjoint
+    texte: femmes tuées par leur conjoint ou ex-conjoint.
   - années: En 2020
-    décès: "62"
-    texte: Femmes tuées par leur conjoint ou ex-conjoint
+    décès: "65"
+    texte: femmes tuées par leur conjoint ou ex-conjoint.
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
@@ -79,19 +85,19 @@ cta:
   - name: Hébergement
     icon: ion-home
     color: light
-    content: Pour un hébergement d’urgence composer le 115
+    content: Pour un hébergement d’urgence composer le 115.
   - name: SMS
     icon: ion-chatbox-working
     color: light
-    content: Demander de l’aide par SMS 114
+    content: Demander de l’aide par SMS 114.
   - name: Danger
     icon: ion-iphone
     color: ion-ios-telephone
-    content: Vous êtes en danger composer le 17
+    content: Vous êtes en danger composez le 17.
   - name: Accueil
     icon: ion-person-stalker
     color: light
-    content: Accueil de jour de 9 h a 18 heures.
+    content: Accueil de jour de 9 h à 18 heures.
   - name: Astreintes
     icon: ion-ios-clock
     color: primary-darker
