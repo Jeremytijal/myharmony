@@ -15,7 +15,7 @@ bg_image: images/bg.jpg
 
 ![](/images/pexels-karolina-grabowska-4239010.jpg)
 
-## La perception des règles à travers le monde
+## La perception des règles à travers le monde.
 
 #### Dans certains pays, une femme ayant ses règles est considérée comme impure.
 
