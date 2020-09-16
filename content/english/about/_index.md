@@ -58,7 +58,7 @@ Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
 > _"Atroce contradiction de la colère qui née de l'amour et qui tue l'amour."_
 
-**La Femme rompue (1968) de Simone de Beauvoir**
+**La Femme rompue (1968) de Simone de Beauvoir.**
 
 ### Site gouvernemental sur les violences faites aux femmes:
 
