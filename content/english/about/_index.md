@@ -22,7 +22,7 @@ content10: ''
 
 ### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être apportée. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
 
-### L'accueil, l'écoute et le soutien sont les piliers de l'association. 
+### L'accueil, l'écoute et le soutien sont les piliers de l'association.
 
 ### Nos valeurs:
 
@@ -35,6 +35,10 @@ content10: ''
 ### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
 
 * ![](/images/affiche.png)
+
+> _"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
+
+**Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
@@ -52,7 +56,11 @@ Nous le répétons mais il est important que la victime se mette ou soit mise à
 
 Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
-Site gouvernemental sur les violences faites aux femmes:
+> _"Atroce contradiction de la colère qui née de l'amour et qui tue l'amour."_
+
+**La Femme rompue (1968)d e Simone de Beauvoir**
+
+### Site gouvernemental sur les violences faites aux femmes:
 
 [www.stop-violences-femmes.gouv.fr](http://www.stop-violences-femmes.gouv.fr)
 
