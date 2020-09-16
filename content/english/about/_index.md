@@ -38,6 +38,8 @@ content10: ''
 
 **Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
+* ![](/images/affiche.png)
+
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
 Les violences conjugales peuvent s'exercer de différentes manières:
