@@ -34,8 +34,6 @@ content10: ''
 
 ### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
 
-* ![](/images/affiche.png)
-
 > _"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
 
 **Le Deuxième Sexe (1949) de Simone de Beauvoir**
@@ -101,5 +99,3 @@ Commissariat de police
 ### #brisonslesilence
 
 associationmyharmony@gmail.com
-
-![](/images/affiche-b-w.png)
