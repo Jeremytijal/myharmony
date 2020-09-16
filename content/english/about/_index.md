@@ -7,22 +7,24 @@ titre: 'L’association My Harmony c''est:'
 content: "- Un accueil de jour dans un cadre chaleureux et convivial"
 content2: "- Une écoute bienveillante et un accompagnement"
 content3: "- Des actions et de la prévention aux violences conjugales"
-content4: "- Une offre d'aides pluriprofessionnelles (sociales, physiologiques et
-  juridiques)"
-content5: "- Favoriser l’insertion professionnelle"
-content6: "- Redonner confiance et estime de soi aux femmes"
-content7: "- Un accompagnement des victimes à chaque étape de leur reconstruction"
+content4: "- Un accompagnement des victimes à chaque étape de leur reconstruction
+  (groupes de paroles, ateliers, stages, aides juridiques, sociales et psychologique)"
+content5: "- Redonner confiance et estime de soi aux victimes"
+content6: "- Une offre d'aides pluri-professionnelles (sociales, juridiques, psychologiques)"
+content7: "- Favoriser l’insertion professionnelle"
 content8: "- My harmony s'engage contre la précarité menstruelle. Distribution de
   protection hygiénique aux femmes et étudiantes touchées par la précarité."
 content9: ''
 content10: ''
 
 ---
-My Harmony a pour but de venir en aide aux victimes de violences conjugales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+##### My Harmony a pour but de venir en aide aux victimes de violences conjugales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
-My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être apportée. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
+##### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être apportée. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
 
-L'accueil, l'écoute et le soutien sont les piliers de l'association. La solidarité, la dignité et l'harmonie sont nos valeurs. Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie. 
+##### L'accueil, l'écoute et le soutien sont les piliers de l'association. La solidarité, la dignité et l'harmonie sont nos valeurs. Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
+
+* ![](/images/affiche.png)
 
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
