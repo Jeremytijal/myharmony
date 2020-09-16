@@ -13,6 +13,8 @@ bg_image: images/bg.jpg
 
 #### Les règles, qui sont un phénomène naturel, restent encore en 2020 un sujet tabou.
 
+![](/images/pexels-karolina-grabowska-4239010.jpg)
+
 ## La perception des règles à travers le monde
 
 #### Dans certains pays, une femme ayant ses règles est considérée comme impure.
