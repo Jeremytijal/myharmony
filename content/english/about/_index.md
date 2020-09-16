@@ -22,7 +22,17 @@ content10: ''
 
 ### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être apportée. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
 
-### L'accueil, l'écoute et le soutien sont les piliers de l'association. La solidarité, la dignité et l'harmonie sont nos valeurs. Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
+### L'accueil, l'écoute et le soutien sont les piliers de l'association. 
+
+### Nos valeurs:
+
+### - **La solidarité,** pour favoriser la sociabilisation et la mixité
+
+### - **La dignité,** pour le soutien et le droit à la dignité et l'intégrité de la personne
+
+### - **L'harmonie,** pour aider les personnes dans leur épanouissement personnel.
+
+### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
 
 * ![](/images/affiche.png)
 
