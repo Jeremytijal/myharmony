@@ -29,8 +29,6 @@ bg_image: images/bg.jpg
 
 #### LIBÉREZ VOTRE PAROLE!
 
-![](/images/pexels-kat-jayne-568027.jpg)
-
 ## #BRISONSLESTABOUS
 
 #### Connaitre son corps, ses cycles, en parler sans tabou.
