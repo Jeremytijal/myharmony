@@ -30,6 +30,7 @@ fields:
   name: type
   label: type
 pages:
+- content/english/blog/En finir avec l'excision.md
 - content/english/blog/contraception-gratuite-pour-les-moins-de-15-ans.md
 - content/english/blog/des-la-rentree-distribution-de-protections-hygienique.md
 - content/english/blog/formation-self-control-self-defense.md
