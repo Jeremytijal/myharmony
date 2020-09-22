@@ -18,7 +18,7 @@ content9: ''
 content10: ''
 
 ---
-### My Harmony a pour but de venir en aide aux victimes de violences conjugales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+### My Harmony a pour but de venir en aide aux victimes de violences conjugales, de mutilations génitales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
 ### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être apportée. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
 
@@ -34,11 +34,21 @@ content10: ''
 
 ### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
 
+#### 
+
+#### _Au cours de sa vie, une femme dépenserait en moyenne 1750€ en protections hygiéniques. Bien que la TVA sur ces produits soit passée de 20% à 5,5%, 1,7 millions de femmes seraient concernées par la précarité menstruelle en France._
+
+#### _Les mutilations génitales féminines touchent majoritairement les populations des pays africains. Mais cette atteinte au corps et à la dignité humaine existe aussi en France. Au début des années 2010, environ 124 355 femmes adultes ‘mutilées’ vivaient en France._
+
+#### _146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
+
 > _"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
 
 **Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
 * ![](/images/affiche.png)
+
+#### 
 
 #### Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
