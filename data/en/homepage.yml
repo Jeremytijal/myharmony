@@ -52,6 +52,9 @@ missions:
   - icon: ion-ios-book-outline
     name: Aide aux victimes de violences conjugales
     content: ''
+  - name: Aide aux victimes de mutilations génitales
+    icon: ''
+    content: ''
   - icon: ion-woman
     name: Lutte contre la précarité menstruelle
     content: ''
