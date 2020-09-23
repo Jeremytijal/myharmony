@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/english/service/_index.md
+  label: Violences Conjugales
+  match: "**/*"
+- type: document
   path: config.toml
   label: Paramètres
 - type: document
