@@ -14,13 +14,18 @@ sections:
   path: content/english/about/_index.md
   label: L'association
 - type: directory
-  path: ''
+  path: content/english/service/_index.md
   label: Violences Conjugales
   create: all
   match: "**/*"
 - type: document
   path: content/english/service/_index.md
   label: Précarité Menstruelle
+- type: directory
+  path: content/english/service/_index.md
+  label: Mutilations Génitales
+  create: all
+  match: "**/*"
 - type: directory
   path: content/english/blog
   label: Blog
