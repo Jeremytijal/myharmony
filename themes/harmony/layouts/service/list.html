@@ -16,6 +16,9 @@
       <div class="contact-form">
         <form name="kit" method="POST" action="/merci" netlify>
           <div class="col-md-6 col-sm-12">
+            <div class="about-img">
+              <img class="img-responsive about-img" src="{{ .Params.Image }}">
+            </div>
             <div class="block">
               <div class="form-group">
                 <input name="user_name" type="text" class="form-control" placeholder="Nom">

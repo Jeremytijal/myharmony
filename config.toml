@@ -131,11 +131,24 @@ weight = 2
 name = "Précarité Menstruelle"
 URL = "/service"
 weight = 4
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Précarité Menstruelle"
+  name = "FAQ"
+  URL = "faq"
+
+  [[Languages.en.menu.main]]
+  parent = "Précarité Menstruelle"
+  name = "Pricing"
+  URL = "pricing"
+
 
 [[Languages.en.menu.main]]
 name = "Blog"
 URL = "blog"
 weight = 5
+
 
 [[Languages.en.menu.main]]
 name = "Nous Contacter"
