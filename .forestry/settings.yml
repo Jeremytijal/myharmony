@@ -7,11 +7,9 @@ sections:
 - type: document
   path: content/english/mutilations/_index.md
   label: Mutilations génitales
-  match: "**/*"
 - type: document
   path: content/english/violences/_index.md
   label: Violences conjugales
-  match: "**/*"
 - type: document
   path: config.toml
   label: Paramètres
