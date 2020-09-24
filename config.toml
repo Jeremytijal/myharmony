@@ -27,6 +27,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
+URL = ""
+name = ""
+weight = ""
+[[Languages.en.menu.main]]
 URL = "/"
 name = "Accueil"
 weight = 1
@@ -38,37 +42,10 @@ weight = 2
 URL = "/service"
 name = "Précarité Menstruelle"
 weight = 4
-hasChildren = true
-
-
-  [[Languages.en.menu.main]]
-  parent = "Précarité Menstruelle"
-  name = "Mutilations génitales"
-  weight = 3
-  URL = "/mutilations"
-
-  [[Languages.en.menu.main]]
-  parent = "Précarité Menstruelle"
-  name = "Précarité menstruelle"
-  weight = 2
-  URL = "/service"
-
-  [[Languages.en.menu.main]]
-  parent = "Précarité Menstruelle"
-  name = "Violences conjugales"
-  weight = 1
-  URL = "/violences"
-
-
-
 [[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
-
-
-
-
 [[Languages.en.menu.main]]
 URL = "/contact"
 name = "Nous Contacter"
@@ -143,7 +120,7 @@ weight = 7
 author = "Netary"
 contact_form_action = "/merci"
 description = ""
-email = "demo@email.com"
+email = "associationmyharmony@gmail.com"
 logo = "images/logo-mh.jpg"
 mobile = "0124857985320"
 multi_author = false
