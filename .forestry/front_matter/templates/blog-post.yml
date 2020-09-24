@@ -30,6 +30,7 @@ fields:
   name: type
   label: type
 pages:
+- content/english/blog/En finir avec l'excision.md
 - content/english/blog/contraception-gratuite-pour-les-moins-de-15-ans.md
 - content/english/blog/des-la-rentree-distribution-de-protections-hygienique.md
 - content/english/blog/formation-self-control-self-defense.md
@@ -37,3 +38,4 @@ pages:
 - content/english/blog/les-numeros-d-urgence.md
 - content/english/blog/mettre-des-mots-sur-ses-maux..md
 - content/english/blog/permanences-juridiques.md
+- content/english/blog/precarite-menstruelle.md

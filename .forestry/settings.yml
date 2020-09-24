@@ -1,13 +1,16 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/english/service/_index.md
+  label: Violences Conjugales
+  match: "**/*"
+- type: document
   path: config.toml
   label: Paramètres
-  match: "**/*"
 - type: document
   path: data/en/homepage.yml
   label: Accueil
