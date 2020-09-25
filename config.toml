@@ -41,7 +41,7 @@ weight = 2
 [[Languages.en.menu.main]]
 URL = "/précarité"
 hasChildren = true
-name = "Précarité Menstruelle"
+name = "Nos Actions"
 weight = 4
 [[Languages.en.menu.main]]
 URL = "/mutilations"
@@ -50,7 +50,7 @@ parent = "Précarité Menstruelle"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "/service"
-name = "Nos Actions"
+name = "Précarité Menstruelle"
 parent = "Précarité Menstruelle"
 weight = 2
 [[Languages.en.menu.main]]
