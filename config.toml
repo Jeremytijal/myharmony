@@ -46,17 +46,17 @@ weight = 4
 [[Languages.en.menu.main]]
 URL = "/mutilations"
 name = "Mutilations génitales"
-parent = "Précarité Menstruelle"
+parent = "Nos Actions"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "/service"
 name = "Précarité Menstruelle"
-parent = "Précarité Menstruelle"
+parent = "Nos Actions"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "/violences"
 name = "Violences conjugales"
-parent = "Précarité Menstruelle"
+parent = "Nos Actions"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "blog"
