@@ -21,7 +21,7 @@ sections:
   label: L'association
 - type: document
   path: content/english/service/_index.md
-  label: Précarité Menstruelle
+  label: Nos actions
 - type: directory
   path: content/english/blog
   label: Blog
