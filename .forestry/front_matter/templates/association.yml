@@ -38,5 +38,10 @@ fields:
 - type: textarea
   name: content7
   label: content7
+- name: titre2
+  type: text
+  config:
+    required: false
+  label: Titre2
 pages:
 - content/english/about/_index.md
