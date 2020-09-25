@@ -6,37 +6,36 @@ bg_image: images/bg.jpg
 image: "/images/whatsapp-image-2020-09-20-at-21-39-47.jpeg"
 
 ---
-#### _146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
+146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
 
-> _"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
+"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
 
 **Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
 * ![](/images/affiche.png)
 
-#### 
 
-#### Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
+Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
-#### Les violences conjugales peuvent s'exercer de différentes manières:
+Les violences conjugales peuvent s'exercer de différentes manières:
 
-#### - Violences sexuelles & physiques: viols, agressions, coups et blessures, gifles, bousculades, morsures, etc.
+ - Violences sexuelles & physiques: viols, agressions, coups et blessures, gifles, bousculades, morsures, etc.
 
-#### - Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
+- Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
 
-#### - Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
+- Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
 
-#### - Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
+- Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
-#### Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
+ Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
-#### Les professionnels et professionnelles peuvent vous aider à vous en sortir.
+ Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
 > _"Atroce contradiction de la colère qui née de l'amour et qui tue l'amour."_
 
 **La Femme rompue (1968) de Simone de Beauvoir.**
 
-### Site gouvernemental sur les violences faites aux femmes:
+ Site gouvernemental sur les violences faites aux femmes:
 
 [www.stop-violences-femmes.gouv.fr](http://www.stop-violences-femmes.gouv.fr)
 

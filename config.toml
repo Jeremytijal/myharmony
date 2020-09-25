@@ -43,6 +43,30 @@ URL = "/service"
 name = "Précarité Menstruelle"
 weight = 4
 [[Languages.en.menu.main]]
+URL = "/service"
+name = "Précarité Menstruelle"
+weight = 4
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Précarité Menstruelle"
+  name = "Mutilations génitales"
+  weight = 3
+  URL = "/mutilations"
+
+  [[Languages.en.menu.main]]
+  parent = "Précarité Menstruelle"
+  name = "Précarité menstruelle"
+  weight = 2
+  URL = "/service"
+
+  [[Languages.en.menu.main]]
+  parent = "Précarité Menstruelle"
+  name = "Violences conjugales"
+  weight = 1
+  URL = "/violences"
+
+[[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
