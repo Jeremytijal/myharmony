@@ -10,7 +10,7 @@ La précarité touche 500 millions de femmes dans le monde. En France, 1,7 milli
 
 > #### _Au cours de sa vie, une femme dépenserait en moyenne 1750 € en protections hygiéniques. Bien que la TVA sur ces produits soit passée de 20% à 5,5%, 1,7 millions de femmes seraient concernées par la précarité menstruelle en France._
 
-* Le kit Sérénity (bientôt disponible) est distribué par l'association mais peut également être envoyé par voie postale (faire la demande en remplissant le formulaire). Il est cependant délivré sous certaines conditions.
+* L kit Sérénity (bientôt disponible) est distribué par l'association mais peut également être envoyé par voie postale (faire la demande en remplissant le formulaire). Il est cependant délivré sous certaines conditions.
 
 **Ensemble, brisons les tabous**
 
