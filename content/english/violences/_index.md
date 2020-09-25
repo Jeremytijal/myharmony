@@ -3,54 +3,77 @@ title: Violences conjugales
 description: 'La précarité menstruelle touche 500 millions de femmes dans le monde.
   #luttonsensemble'
 bg_image: images/bg.jpg
-image: "/images/bg.jpg"
+image: "/images/affiche-b-w.png"
 
 ---
-* La précarité touche 500 millions de femmes dans le monde. En France, 1,7 million de femmes sont touchées par la précarité menstruelle. Se protéger avec des tissus, du papier journal ou encore des mouchoirs menace la santé (risques d'irritations, infections). Pour les femmes, faire valoir leurs droits à la protection et à la dignité est fondamental. Lutter contre la précarité menstruelle des femmes en difficulté et des étudiantes est l'une de nos actions tout au long de l'année. L'hygiène intime étant primordiale, l'association My Harmony fournit un kit pour les femmes touchées par la précarité en France ainsi que les étudiantes. Notre but : apporter un minimum de confort durant les menstruations.
+#### _146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
 
-Le kit Sérénity est distribué par l'association mais peut également être envoyé par voie postale (faire la demande en remplissant le formulaire). Il est cependant délivré sous certaines conditions.
+> _"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
 
-Ensemble, brisons les tabous.
+**Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
-Les règles, qui sont un phénomène naturel, restent encore en 2020 un sujet tabou.
+* ![](/images/affiche.png)
 
-## La perception des règles à travers le monde
+#### 
 
-Dans certains pays, une femme ayant ses règles est considérée comme impure.
+#### Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
-Au Kenya ou au Rwanda, les femmes utilisent la boue ou du papier journal en guise de protection hygiénique et les jeunes filles ne vont pas à l'école.
+#### Les violences conjugales peuvent s'exercer de différentes manières:
 
-Au Malawi, il est interdit de parler de règles.
+#### - Violences sexuelles & physiques: viols, agressions, coups et blessures, gifles, bousculades, morsures, etc.
 
-En Bolivie, «jeter un tampon, c'est propager le cancer».
+#### - Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
 
-En Afghanistan, il est interdit de se laver ( «se doucher pendant les règles rendrait stérile» ).
+#### - Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
 
-Au Népal, les femmes sont exilées lors des menstruations. Elles sont symbole d'impureté.
+#### - Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
-LIBÉREZ VOTRE PAROLE!
+#### Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
-## #BRISONSLESTABOUS
+#### Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
-Connaitre son corps, ses cycles, en parler sans tabou.
+> _"Atroce contradiction de la colère qui née de l'amour et qui tue l'amour."_
 
-Durant environ 40 ans, les règles rythment nos vies il est donc important de répondre à nos interrogations.
+**La Femme rompue (1968) de Simone de Beauvoir.**
 
-Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & Informations (endométriose, précarité menstruelle).
+### Site gouvernemental sur les violences faites aux femmes:
 
-## Notre mission
+[www.stop-violences-femmes.gouv.fr](http://www.stop-violences-femmes.gouv.fr)
 
-* Venir en aide aux femmes et étudiantes victimes de précarité menstruelle.
-* Droit à la dignité : My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
+[https://arretonslesviolences.gouv.fr](https://arretonslesviolences.gouv.fr "https://arretonslesviolences.gouv.fr")
 
-Un mois, une femme, un kit.
+Délégation régionale aux droits des femmes et à l'égalité d'Île-de-France: [www.ile-de-france.gouv.fr/La-prefecture-et-vous/Particuliers/Droits-des-femmes/Quelles-ressources -pour-les-femmes-victimes-de-violences-en-Ile-de-France](http://www.ile-de-france.gouv.fr/La-prefecture-et-vous/Particuliers/Droits-des-femmes/Quelles-ressources-pour-les-femmes-victimes-de-violences-en-Ile-de-France)
 
-Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
+Association [www.solidaritefemmes.org](http://www.solidaritefemmes.org/)
 
-**Le kit se compose:**
+Si vous êtes en situation d'urgence:
 
-* De protections hygiéniques
-* De lingettes d'hygiène intime
-* D'un savon à base de Cranberry bio (150g).
-* D'une mini bouillotte.
-* D'une notice explicative pour prévenir des chocs toxiques ainsi que quelques astuces pour soulager les règles douloureuses.
+**Secours de la police:**    [17]()
+
+**Par SMS:**    [114]()
+
+**Violences Conjugales Femmes Infos Services** : [39 19]()
+
+**Numéro national d'aide aux victimes** : [08 842 846 37]()
+
+7/7 9 H / 21 H
+
+Seine et Marne 77
+
+</br> </br>
+
+Maison de justice et du droit
+
+</br> </br> Pontault-Combault 77
+
+Commissariat de police
+
+</br> </br>
+
+160 Avenue de la République 77340 Pontault-Combault
+
+</br> </br>
+
+### #brisonslesilence
+
+associationmyharmony@gmail.com
