@@ -38,12 +38,9 @@ weight = 1
 URL = "/about"
 name = "L’association"
 weight = 2
+
 [[Languages.en.menu.main]]
-URL = "/service"
-name = "Précarité Menstruelle"
-weight = 4
-[[Languages.en.menu.main]]
-URL = "/service"
+URL = "précarité"
 name = "Précarité Menstruelle"
 weight = 4
 hasChildren = true
