@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Nos actions
 description: ''
 bg_image: images/bg.jpg
 image: "/images/affiche-precarite-menstruelle.jpg"
