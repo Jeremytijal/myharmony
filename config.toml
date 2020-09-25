@@ -38,31 +38,26 @@ weight = 1
 URL = "/about"
 name = "L’association"
 weight = 2
-
 [[Languages.en.menu.main]]
 URL = "/précarité"
+hasChildren = true
 name = "Précarité Menstruelle"
 weight = 4
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Précarité Menstruelle"
-  name = "Mutilations génitales"
-  weight = 3
-  URL = "/mutilations"
-
-  [[Languages.en.menu.main]]
-  parent = "Précarité Menstruelle"
-  name = "Précarité menstruelle"
-  weight = 2
-  URL = "/service"
-
-  [[Languages.en.menu.main]]
-  parent = "Précarité Menstruelle"
-  name = "Violences conjugales"
-  weight = 1
-  URL = "/violences"
-
+[[Languages.en.menu.main]]
+URL = "/mutilations"
+name = "Mutilations génitales"
+parent = "Précarité Menstruelle"
+weight = 3
+[[Languages.en.menu.main]]
+URL = "/service"
+name = "Nos Actions"
+parent = "Précarité Menstruelle"
+weight = 2
+[[Languages.en.menu.main]]
+URL = "/violences"
+name = "Violences conjugales"
+parent = "Précarité Menstruelle"
+weight = 1
 [[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
