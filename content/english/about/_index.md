@@ -16,7 +16,7 @@ content8: "- My harmony s'engage contre la précarité menstruelle. Distribution
   protection hygiénique aux femmes et étudiantes touchées par la précarité."
 content9: ''
 content10: ''
-
+titre2: 'Les violences conjugales'
 ---
 ### My Harmony a pour mais de venir en aide aux victimes de violences conjugales, de mutilations génitales mais aussi elle a rencontré un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
