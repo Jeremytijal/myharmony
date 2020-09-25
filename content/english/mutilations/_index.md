@@ -3,54 +3,26 @@ title: Mutilations génitales
 description: 'La précarité menstruelle touche 500 millions de femmes dans le monde.
   #luttonsensemble'
 bg_image: images/bg.jpg
-image: "/images/bg.jpg"
+image: "/images/img-20200920-wa0003.jpg"
 
 ---
-* La précarité touche 500 millions de femmes dans le monde. En France, 1,7 millions de femmes sont touchées par la précarité menstruelle. Se protéger avec des tissus, du papier journal ou encore des mouchoirs menace la santé (risques d'irritations, infections). Pour les femmes, faire valoir leurs droits à la protection et à la dignité est fondamentale. Lutter contre la précarité menstruelle des femmes en difficulté et des étudiantes est l'une de nos actions tout au long de l'année. L'hygiène intime étant primordiale, l'association My Harmony fournit un kit pour les femmes touchées par la précarité en France ainsi que les étudiantes. Notre but: apporter un minimum de confort durant les menstruations.
+#### _Les mutilations génitales féminines touchent majoritairement les populations des pays africains. Mais cette atteinte au corps et à la dignité humaine existe aussi en France. Au début des années 2010, environ 124 355 femmes adultes 'mutilées' vivaient en France._
 
-Le kit Sérénity est distribué par l'association mais peut également être envoyé par voie postale (faire la demande en remplissant le formulaire). Il est cependant délivré sous certaines conditions.
+> Selon l’Organisation mondiale de la Santé (OMS), les mutilations génitales correspondent à « _toutes les interventions aboutissant à une ablation partielle ou totale des organes génitaux externes de la femme et/ou toute autre lésion des organes génitaux féminins pratiquée à des fins non thérapeutiques_ ». Elles sont considérées comme « _une violation des droits humains et une atteinte à la santé_ » par les Nations Unies.
 
-Ensemble, brisons les tabous.
+Il faut cependant comprendre que l’excision constitue une norme sociale. Dans la plupart des communautés qui la pratique, l’excision est perçue comme obligation sociale très forte. De ce fait, même lorsque les femmes sont conscientes des répercussions sur la santé physique et psychologique de leurs filles, les familles préfèrent perpétuer la pratique pour ne pas subir jugement moraux et sanctions sociales.
 
-Les règles, qui sont un phénomène naturel, restent encore en 2020 un sujet tabou.
+Les justifications souvent citées pas les communautés pratiquant les mutilations génitales sont:
 
-## La perception des règles à travers le monde
+* **Elles permettent le contrôle de la sexualité des femmes et le maintien de la domination masculine**
+* **Elles sont causées par des croyances liées à la religion**
+* **Elles sont dû à d'autres croyances, mythes**
+* **Elles permettent le maintien d’une identité et d’une tradition culturelle.**
 
-Dans certains pays, une femme ayant ses règles est considérée comme impure.
+![](/images/whatsapp-image-2020-09-21-at-22-23-47.jpeg)
 
-Au Kenya ou au Rwanda, les femmes utilisent la boue ou du papier journal en guise de protection hygiénique et les jeunes filles ne vont pas à l'école.
+My Harmony est à votre écoute.
 
-Au Malawi, il est interdit de parler de règles.
+Nous sommes joignable au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux. 
 
-En Bolivie, «jeter un tampon, c'est propager le cancer».
-
-En Afghanistan, il est interdit de se laver («se doucher pendant les règles rendrait stérile»).
-
-Au Népal, les femmes sont exilées lors des menstruations. Elles sont symbole d'impureté.
-
-LIBÉREZ VOTRE PAROLE!
-
-## #BRISONSLESTABOUS
-
-Connaitre son corps, ses cycles, en parler sans tabou.
-
-Durant environ 40 ans, les règles rythment nos vies il est donc important de répondre à nos interrogations.
-
-Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & Informations (endométriose, précarité menstruelle).
-
-## Notre mission
-
-* Venir en aide aux femmes et étudiantes victimes de précarité menstruelle.
-* Droit à la dignité: My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
-
-Un mois, une femme, un kit.
-
-Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
-
-**Le kit se compose:**
-
-* De protections hygiéniques
-* De lingettes d'hygiène intime
-* D'un savon à base de Cranberry bio (150g).
-* D'une mini bouillotte.
-* D'une notice explicative pour prévenir des chocs toxiques ainsi que quelques astuces pour soulager les règles douloureuses.
+\#BRISONSLESILENCE #STOPEXCISION
