@@ -40,8 +40,7 @@ name = "L’association"
 weight = 2
 
 [[Languages.en.menu.main]]
-<<<<<<< HEAD
-URL = "précarité"
+URL = "/précarité"
 name = "Précarité Menstruelle"
 weight = 4
 hasChildren = true
@@ -64,22 +63,6 @@ hasChildren = true
   weight = 1
   URL = "/violences"
 
-=======
-URL = "/mutilations"
-name = "Mutilations génitales"
-parent = "Précarité Menstruelle"
-weight = 3
-[[Languages.en.menu.main]]
-URL = "/service"
-name = "Précarité menstruelle"
-parent = "Précarité Menstruelle"
-weight = 2
-[[Languages.en.menu.main]]
-URL = "/violences"
-name = "Violences conjugales"
-parent = "Précarité Menstruelle"
-weight = 1
->>>>>>> 4642d68450b40a0899ee19b68ed7d092e783df5c
 [[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
