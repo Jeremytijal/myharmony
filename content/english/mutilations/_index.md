@@ -23,6 +23,6 @@ Les justifications souvent citées pas les communautés pratiquant les mutilatio
 
 My Harmony est à votre écoute.
 
-Nous sommes joignable au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux. 
+Nous sommes joignable au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux.
 
 \#BRISONSLESILENCE #STOPEXCISION
