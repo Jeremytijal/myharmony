@@ -6,7 +6,7 @@ bg_image: images/bg.jpg
 image: "/images/affiche-precarite-menstruelle.jpg"
 
 ---
-* La précarité touche 500 millions de femmes dans le monde. En France, 1,7 millions de femmes sont touchées par la précarité menstruelle. Se protéger avec des tissus, du papier journal ou encore des mouchoirs menace la santé (risques d'irritations, infections). Pour les femmes, faire valoir leurs droits à la protection et à la dignité est fondamentale. Lutter contre la précarité menstruelle des femmes en difficulté et des étudiantes est l'une de nos actions tout au long de l'année. L'hygiène intime étant primordiale, l'association My Harmony fournit un kit pour les femmes touchées par la précarité en France ainsi que les étudiantes. Notre but: apporter un minimum de confort durant les menstruations.
+* L précarité touche 500 millions de femmes dans le monde. En France, 1,7 millions de femmes sont touchées par la précarité menstruelle. Se protéger avec des tissus, du papier journal ou encore des mouchoirs menace la santé (risques d'irritations, infections). Pour les femmes, faire valoir leurs droits à la protection et à la dignité est fondamentale. Lutter contre la précarité menstruelle des femmes en difficulté et des étudiantes est l'une de nos actions tout au long de l'année. L'hygiène intime étant primordiale, l'association My Harmony fournit un kit pour les femmes touchées par la précarité en France ainsi que les étudiantes. Notre but: apporter un minimum de confort durant les menstruations.
 
 > #### _Au cours de sa vie, une femme dépenserait en moyenne 1750 € en protections hygiéniques. Bien que la TVA sur ces produits soit passée de 20% à 5,5%, 1,7 millions de femmes seraient concernées par la précarité menstruelle en France._
 
