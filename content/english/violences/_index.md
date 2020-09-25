@@ -3,7 +3,7 @@ title: Violences conjugales
 description: 'La précarité menstruelle touche 500 millions de femmes dans le monde.
   #luttonsensemble'
 bg_image: images/bg.jpg
-image: "/images/whatsapp-image-2020-09-20-at-21-39-47.jpeg"
+image: "/images/whatsapp-image-2020-09-25-at-16-19-33.jpeg"
 
 ---
 146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
