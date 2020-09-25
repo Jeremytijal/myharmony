@@ -49,7 +49,7 @@ Un mois, une femme, un kit.
 _Le kit se compose:_
 
 * De protections hygiéniques
-* De lingettes d'hygiène intime
+* De lingettes d'hygiène intime.
 * D'un savon à base de Cranberry bio (150g).
 * D'une mini bouillotte.
 * Une notice explicative pour prévenir les chocs toxiques ainsi que quelques astuces pour soulager les règles douloureuses.
