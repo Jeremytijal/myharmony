@@ -1,12 +1,11 @@
 ---
 title: Mutilations génitales
-description: 'La précarité menstruelle touche 500 millions de femmes dans le monde.
-  #luttonsensemble'
+description: "#luttonsensemble"
 bg_image: images/bg.jpg
 image: "/images/img-20200920-wa0003.jpg"
 
 ---
- Les mutilations génitales féminines touchent majoritairement les populations des pays africains. Mais cette atteinte au corps et à la dignité humaine existe aussi en France. Au début des années 2010, environ 124 355 femmes adultes 'mutilées' vivaient en France._
+Les mutilations génitales féminines touchent majoritairement les populations des pays africains. Mais cette atteinte au corps et à la dignité humaine existe aussi en France. Au début des années 2010, environ 124 355 femmes adultes 'mutilées' vivaient en France._
 
 Selon l’Organisation mondiale de la Santé (OMS), les mutilations génitales correspondent à « _toutes les interventions aboutissant à une ablation partielle ou totale des organes génitaux externes de la femme et/ou toute autre lésion des organes génitaux féminins pratiquée à des fins non thérapeutiques_ ». Elles sont considérées comme « _une violation des droits humains et une atteinte à la santé_ » par les Nations Unies.
 
