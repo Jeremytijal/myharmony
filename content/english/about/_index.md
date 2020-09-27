@@ -41,4 +41,4 @@ titre2: ''
 
 ### Mme Maya Thomé, psychologue, le mardi, mercredi et jeudi de 14 heures à 19 heures.
 
-### Et Mme Talbot, sophrologue, le lundi de 14h à 15h, le vendredi 15h à 16h ( mois de septembre) et le samedi 10h à 12h.
+### Et Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h, le vendredi 15h à 16h ( mois de septembre) et le samedi 10h à 12h.
