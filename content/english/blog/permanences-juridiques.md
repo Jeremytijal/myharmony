@@ -10,10 +10,10 @@ title = "Permanences Juridiques"
 type = ""
 
 +++
-Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tout besoins juridiques. 
+Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tou besoins juridiques.
 
-N'hésitez pas à nous contacter pour plus d'informations.  
-  
+N'hésitez pas à nous contacter pour plus d'informations.
+
 **Petit rappel:**
 
 Mail: associationmyharmony@gmail.com
