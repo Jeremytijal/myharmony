@@ -34,3 +34,11 @@ titre2: ''
 ### - **L'harmonie,** pour aider les personnes dans leur épanouissement personnel.
 
 ### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
+
+Nous mettons à votre disposition des permanences en visioconférence avec des professionnelles.
+
+Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous besoins juridiques.
+
+Mme Maya Thomé, psychologue, le mardi, mercredi et jeudi de 14 heures à 19 heures.
+
+Et Mme Talbot, sophrologie, le lundi de 14h à 15h, le vendredi 15h à 16h ( mois de septembre) et le samedi 10h à 12h.
