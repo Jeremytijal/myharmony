@@ -1,41 +1,36 @@
 ---
 title: Violences conjugales
-description: 'La précarité menstruelle touche 500 millions de femmes dans le monde.
-  #luttonsensemble'
+description: "#luttonsensemble"
 bg_image: images/bg.jpg
 image: "/images/whatsapp-image-2020-09-25-at-16-19-33.jpeg"
 
 ---
 146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
 
-"La femme n'est victime d'aucune mystérieuse fatalité : il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux"._
+"La femme n'est victime d'aucune mystérieuse fatalité: il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux" ._
 
 **Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
 * ![](/images/affiche.png)
 
-
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
 Les violences conjugales peuvent s'exercer de différentes manières:
 
- - Violences sexuelles & physiques: viols, agressions, coups et blessures, gifles, bousculades, morsures, etc.
+* Violences sexuelles & physiques: violes, agressions, coups et blessures, gifles, bousculades, morsures, etc.
+* Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
+* Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
+* Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
-- Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
+Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
-- Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
+Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
-- Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
-
- Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
-
- Les professionnels et professionnelles peuvent vous aider à vous en sortir.
-
-> _"Atroce contradiction de la colère qui née de l'amour et qui tue l'amour."_
+> _"Atroce contradiction de la colère qui est née de l'amour et qui tue l'amour."_
 
 **La Femme rompue (1968) de Simone de Beauvoir.**
 
- Site gouvernemental sur les violences faites aux femmes:
+Site gouvernemental sur les violences faites aux femmes:
 
 [www.stop-violences-femmes.gouv.fr](http://www.stop-violences-femmes.gouv.fr)
 
@@ -47,9 +42,9 @@ Association [www.solidaritefemmes.org](http://www.solidaritefemmes.org/)
 
 Si vous êtes en situation d'urgence:
 
-**Secours de la police:**    [17]()
+**Secours de la police:**     [17]()
 
-**Par SMS:**    [114]()
+**Par SMS:**     [114]()
 
 **Violences Conjugales Femmes Infos Services** : [39 19]()
 
