@@ -1,7 +1,6 @@
 ---
-title: 'Nos actions '
-description: My Harmony vient en aide aux victimes de violences conjugales, de mutilations
-  génitales et lutte contre la précarité menstruelle.
+title: Précarité Menstruelle
+description: "#luttonsensemble"
 bg_image: images/bg.jpg
 image: "/images/affiche-precarite-menstruelle.jpg"
 
