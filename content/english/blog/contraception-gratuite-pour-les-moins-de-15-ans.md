@@ -1,7 +1,7 @@
 +++
 author = ""
 bg_image = ""
-categories = []
+categories = ["Contraception"]
 date = 2020-08-27T22:00:00Z
 description = "Les mineures de moins de 15 ans verront leur contraception prise en charge à 100% par l'Assurance Maladie"
 image = "/images/pexels-sebastian-voortman-214574.jpg"
