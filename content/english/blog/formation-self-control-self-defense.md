@@ -3,9 +3,9 @@ author = ""
 bg_image = ""
 categories = []
 date = 2020-08-27T11:50:00Z
-description = ""
+description = "Formation self control self defence contre la violence conjugale"
 image = "/images/pexels-maryia-plashchynskaya-3518091.jpg"
-tags = []
+tags = ["self control", "self defense", "violences conjugales"]
 title = "Formation Self Control / Self Defense"
 type = ""
 
