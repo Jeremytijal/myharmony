@@ -3,10 +3,10 @@ author = "My Harmony"
 bg_image = ""
 categories = []
 date = 2020-08-25T22:00:00Z
-description = ""
+description = "Numéro d'urgence pour les personnes victimes de violences conjugales"
 image = "/images/IMG_9F56206BC509-1.jpeg"
-tags = []
-title = "Les numéros d'urgence"
+tags = ["urgence violences", "violences conjugales numéro d'urgence", "violences conjugales"]
+title = "Les numéros d'urgence - Victimes de violences"
 type = ""
 
 +++
