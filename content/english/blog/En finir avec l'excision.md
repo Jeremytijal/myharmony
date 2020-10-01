@@ -3,10 +3,10 @@ author = ""
 bg_image = ""
 categories = []
 date = 2020-09-20T22:00:00Z
-description = ""
+description = "Définition de l'excision"
 image = "/images/img-20200920-wa0003.jpg"
-tags = []
-title = "En finir avec les mutilations génitales."
+tags = ["mutilations génitales féminines", "MGF", "MSF", "mutilation sexuelle", "mutilations sexuelles féminines", "excision"]
+title = "En finir avec les mutilations génitales"
 type = ""
 
 +++
