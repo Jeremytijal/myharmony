@@ -1,12 +1,12 @@
 +++
 author = ""
 bg_image = ""
-categories = []
+categories = ["violences conjugales"]
 date = 2020-09-06T22:00:00Z
-description = ""
+description = "Permanence psychologique pour personnes victimes de violences"
 image = "/images/pexels-lisa-fotios-3972467.jpg"
-tags = []
-title = "Mettre des mots sur ses maux. "
+tags = ["permanence aide psychologique violence", "aide psychologique violence", "psychologue violence"]
+title = "Mettre des mots sur ses maux - Victimes de violences"
 type = ""
 
 +++
