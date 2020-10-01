@@ -1,12 +1,12 @@
 +++
 author = ""
 bg_image = ""
-categories = []
+categories = ["Précarité menstruelle"]
 date = 2020-09-18T22:00:00Z
-description = ""
+description = "Le kit Sérenity, kit de protections menstruelles, est distribué sur place ou par voie postale sur demande en remplissant le formulaire"
 image = "/images/affiche-precarite-menstruelle.jpg"
-tags = []
-title = "Précarité menstruelle"
+tags = ["kit sérenity", "précarité menstruelle"]
+title = "Le Kit Sérenity - Contre la précarité menstruelle"
 type = ""
 
 +++
@@ -27,4 +27,4 @@ type = ""
 * D'une mini bouillotte.
 * Une notice explicative pour prévenir les chocs toxiques ainsi que quelques astuces pour soulager les règles douloureuses.
 
-\#StopPrécaritéMenstruelle #règles #précaritémenstruelle 
+\#StopPrécaritéMenstruelle #règles #précaritémenstruelle
