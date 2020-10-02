@@ -25,7 +25,7 @@ Les violences conjugales peuvent s'exercer de différentes manières:
 
 \- Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
-Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
+Nous le répétons mais il est important que la victime ainsi que ses enfant si elle en a se mettent ou soient mis à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
 Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
@@ -71,6 +71,8 @@ Commissariat de police
 
 </br> </br>
 
+![](/images/whatsapp-image-2020-10-02-at-14-37-31-1.jpeg)
+
 ## D'autres formes de violences existent:
 
 ### Malheureusement, les violences conjugales ne sont pas le seul fléau contre lequel nous souhaitons lutter.
@@ -85,8 +87,8 @@ Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple:
 
 Si vous êtes victime de harcèlement et/ou de violences et que vous souhaitez trouver une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
 
-MyHarmony c'est une épaule sur laquelle se reposer.
+MyHarmony c'est une épaule sur laquelle se reposer. 
 
-### #brisonslesilence
+# #brisonslesilence
 
 associationmyharmony@gmail.com
