@@ -24,6 +24,8 @@ image: "/images/img-20200920-wa0003.jpg"
 
 #### Cependant, depuis la fin des années 80, une chirurgie de reconstruction est possible. Celle-ci est réalisée au cas par cas car chaque mutilation et chaque femme est différente.
 
+# #STOPEXCISION
+
 #### Si vous souhaitez en savoir plus à ce sujet ou désirez avoir une aide dans votre démarche de reconstruction, My Harmony est à votre écoute.
 
 ### **Nous vous rappelons que nous mettons à votre disposition des permanences en visioconférence avec des professionnelles.**
@@ -34,6 +36,6 @@ image: "/images/img-20200920-wa0003.jpg"
 
 ### _Et Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h, le vendredi 15h à 16h ( mois de septembre) et le samedi 10h à 12h._
 
-#### _Nous sommes joignables au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux._
+#### Nous sommes joignables au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux.
 
-\#BRISONSLESILENCE #STOPEXCISION
+# **#BRISONSLESILENCE** 
