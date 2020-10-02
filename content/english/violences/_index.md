@@ -42,9 +42,9 @@ Association [www.solidaritefemmes.org](http://www.solidaritefemmes.org/)
 
 Si vous êtes en situation d'urgence:
 
-**Secours de la police:**     [17]()
+**Secours de la police:**        [17]()
 
-**Par SMS:**     [114]()
+**Par SMS:**        [114]()
 
 **Violences Conjugales Femmes Infos Services** : [39 19]()
 
@@ -67,6 +67,22 @@ Commissariat de police
 160 Avenue de la République 77340 Pontault-Combault
 
 </br> </br>
+
+## D'autres formes de violences existe:
+
+### Malheureusement, les violences conjugales ne sont pas le seul fléau contre lequel nous souhaitons lutter.
+
+Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple: 
+
+* Le harcèlement moral et/ou physique  (que ce soit dans la sphère privée, sur internet, au travail ou à l'école)
+* Les agressions sexuelles 
+* Les viols
+* Le harcèlement ou agressions du au genre ou à l'orientation sexuelle
+* Etc.
+
+Si vous êtes victime de harcèlement et/ou de violence et que vous souhaitez trouvez une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous. 
+
+MyHarmony c'est une épaule sur laquelle se reposer.
 
 ### #brisonslesilence
 
