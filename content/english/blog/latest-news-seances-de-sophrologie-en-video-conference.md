@@ -14,9 +14,9 @@ type = ""
 
 \#briserlesilence
 
-# Mme Annelise Talbot, **sophrologue/relaxologue assure désormais des permanences par vidéo conférence.**
+## Mme Annelise Talbot, **sophrologue/relaxologue assure désormais des permanences par vidéo conférence.**
 
-## **La sophrologie vous aidera à:**
+### **La sophrologie vous aidera à:**
 
 \- Gérer votre stress et vos émotions
 
@@ -24,7 +24,7 @@ type = ""
 
 \- Vous relaxer et vous détendre
 
-## **Horaires des permanences:**
+### **Horaires des permanences:**
 
 Le lundi de 14 h à 15 h.
 
