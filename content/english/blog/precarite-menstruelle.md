@@ -10,14 +10,14 @@ title = "Le Kit Sérenity - Contre la précarité menstruelle"
 type = ""
 
 +++
-## Notre mission
+# Notre mission
 
 * Venir en aide aux femmes et étudiantes victimes de précarité menstruelle.
 * Droit à la dignité: My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
 
 # Un mois, une femme, un kit.
 
-#### Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
+Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
 
 **Le kit se compose:**
 
