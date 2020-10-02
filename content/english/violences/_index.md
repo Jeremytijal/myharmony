@@ -7,11 +7,11 @@ image: "/images/whatsapp-image-2020-09-25-at-16-19-33.jpeg"
 ---
 146 c'est le nombre de femmes tuées par leur conjoint ou leur ex-compagnon en 2019, soit 25 de plus que l'année précédente._
 
-"La femme n'est victime d'aucune mystérieuse fatalité: il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux" ._
+> "La femme n'est victime d'aucune mystérieuse fatalité: il ne faut pas conclure que ses ovaires la condamnent à vivre éternellement à genoux" ._
 
 **Le Deuxième Sexe (1949) de Simone de Beauvoir**
 
-* ![](/images/affiche.png)
+![](/images/affiche-b-w.png)
 
 Toute personne qui subit des violences physiques, verbales, psychologiques ou sexuelles de la part de son conjoint ou concubin est protégée par la loi qui punit l'auteur des faits. Il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées.
 
@@ -72,15 +72,15 @@ Commissariat de police
 
 ### Malheureusement, les violences conjugales ne sont pas le seul fléau contre lequel nous souhaitons lutter.
 
-Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple: 
+Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple:
 
 * Le harcèlement moral et/ou physique  (que ce soit dans la sphère privée, sur internet, au travail ou à l'école)
-* Les agressions sexuelles 
+* Les agressions sexuelles
 * Les viols
 * Le harcèlement ou agressions du au genre ou à l'orientation sexuelle
 * Etc.
 
-Si vous êtes victime de harcèlement et/ou de violence et que vous souhaitez trouvez une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous. 
+Si vous êtes victime de harcèlement et/ou de violence et que vous souhaitez trouvez une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
 
 MyHarmony c'est une épaule sur laquelle se reposer.
 
