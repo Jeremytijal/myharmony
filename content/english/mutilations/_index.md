@@ -13,10 +13,13 @@ image: "/images/img-20200920-wa0003.jpg"
 
 ### _Les justifications souvent citées pas les communautés pratiquant les mutilations génitales sont:_
 
-* **Elles permettent le contrôle de la sexualité des femmes et le maintien de la domination masculine**
-* **Elles sont incluses par des croyances liées à la religion**
-* **Elles sont dues à d'autres croyances, mythes**
-* **Elles permettent le maintien d'une identité et d'une tradition culturelle.**
+**- Elles permettent le contrôle de la sexualité des femmes et le maintien de la domination masculine**
+
+**- Elles sont incluses par des croyances liées à la religion**
+
+**- Elles sont dues à d'autres croyances, mythes**
+
+**- Elles permettent le maintien d'une identité et d'une tradition culturelle.**
 
 ![](/images/whatsapp-image-2020-09-21-at-22-23-47.jpeg)
 
@@ -38,4 +41,4 @@ image: "/images/img-20200920-wa0003.jpg"
 
 #### Nous sommes joignables au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux.
 
-# **#BRISONSLESILENCE** 
+# **#BRISONSLESILENCE**
