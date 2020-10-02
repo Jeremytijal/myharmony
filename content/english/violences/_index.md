@@ -71,7 +71,7 @@ Commissariat de police
 
 </br> </br>
 
-## D'autres formes de violences existe:
+## D'autres formes de violences existent:
 
 ### Malheureusement, les violences conjugales ne sont pas le seul fléau contre lequel nous souhaitons lutter.
 
