@@ -10,7 +10,10 @@ title = "Contraception gratuite pour les moins de 15 ans"
 type = ""
 
 +++
-#### Bonne Nouvelle!! 
+
+# Contraception gratuite pour les moins de 15 ans
+
+## Bonne Nouvelle!!
 
 A partir de vendredi les mineures de moins de 15 ans verront leur contraception prise en charge à 100% par l'Assurance Maladie. Avant ce nouveau décret seulement les jeunes filles de 15 à 18 ans y avaient droit.
 
