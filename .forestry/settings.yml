@@ -9,7 +9,7 @@ sections:
   label: Mutilations génitales
 - type: document
   path: content/english/violences/_index.md
-  label: Violences conjugales
+  label: Les Violences
 - type: document
   path: config.toml
   label: Paramètres
