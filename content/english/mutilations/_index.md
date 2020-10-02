@@ -42,3 +42,5 @@ image: "/images/img-20200920-wa0003.jpg"
 #### Nous sommes joignables au 07 64 69 06 42, par mail à associationmyharmony@gmail.com ou via notre site ou les réseaux sociaux.
 
 # **#BRISONSLESILENCE**
+
+![](/images/whatsapp-image-2020-09-22-at-13-41-43-2.jpeg)
