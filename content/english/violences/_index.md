@@ -83,7 +83,7 @@ Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple:
 * Le harcèlement ou agressions du au genre ou à l'orientation sexuelle
 * Etc.
 
-Si vous êtes victime de harcèlement et/ou de violence et que vous souhaitez trouvez une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
+Si vous êtes victime de harcèlement et/ou de violences et que vous souhaitez trouvez une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
 
 MyHarmony c'est une épaule sur laquelle se reposer.
 
