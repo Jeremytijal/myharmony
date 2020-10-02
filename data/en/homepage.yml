@@ -4,7 +4,7 @@ banner:
   bg_image: images/bg.jpg
   bg_overlay: true
   title: Association My Harmony
-  content: L’association intervient auprès des victimes de violences et de harcèlements,
+  content: L’association intervient auprès des victimes de violences, de harcèlements,
     de mutilations génitales et lutte contre la précarité menstruelle.
   button:
     enable: true
