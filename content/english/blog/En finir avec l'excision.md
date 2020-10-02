@@ -4,7 +4,7 @@ bg_image = ""
 categories = []
 date = 2020-09-20T22:00:00Z
 description = "Définition de l'excision"
-image = "/images/img-20200920-wa0003.jpg"
+image = "/images/whatsapp-image-2020-09-22-at-13-41-43-1.jpeg"
 tags = ["mutilations génitales féminines", "MGF", "MSF", "mutilation sexuelle", "mutilations sexuelles féminines", "excision"]
 title = "En finir avec les mutilations génitales"
 type = ""
@@ -24,3 +24,17 @@ L'Organisation mondiale de la Santé distingue 4 types de mutilations sexuelles 
    Bien que de nombreux organismes et associations se battent au quotidien pour en finir avec ces pratiques affreuses, le combat contre l'excision et toutes les formes de mutilations génitales est loin d'être fini!
 
    _Source:_ [http://www.excisionparlonsen.org/comprendre-lexcision/quest-ce-que-lexcision/quappelle-t-on-lexcision/](http://www.excisionparlonsen.org/comprendre-lexcision/quest-ce-que-lexcision/quappelle-t-on-lexcision/ "http://www.excisionparlonsen.org/comprendre-lexcision/quest-ce-que-lexcision/quappelle-t-on-lexcision/")
+
+# La clitoridoplastie, une solution vers la reconstruction.
+
+L'intervention se déroule sous anesthésie générale et nécessite une nuit d'hospitalisation. Les points se résorberont tout seul et des antalgiques vous seront prescrit pour les douleurs post-op.
+
+Grâce à cette opération, vous retrouverez presque votre anatomie naturelle ainsi que les sensations et la sensibilité qui l'accompagnent.
+
+Cette opérations est en partie pris en charge par la sécurité sociale et la mutuelle.
+
+_Source:_ [https://www.chirurgie-esthetique-92.fr/reconstruction-clitoris-excision](https://www.chirurgie-esthetique-92.fr/reconstruction-clitoris-excision "https://www.chirurgie-esthetique-92.fr/reconstruction-clitoris-excision")
+
+# #STOPEXCISION
+
+Contactez-nous. Nous pouvons vous accompagnez dans vos démarches et votre reconstruction.
