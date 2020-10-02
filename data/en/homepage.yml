@@ -50,7 +50,7 @@ missions:
     name: Accompagnement social
     content: ''
   - icon: ion-ios-book-outline
-    name: Aide aux victimes de violences conjugales
+    name: Aide aux victimes de violences
     content: ''
   - name: Aide aux victimes de mutilations génitales
     icon: ion-ios-book-outline
