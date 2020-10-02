@@ -17,10 +17,13 @@ Toute personne qui subit des violences physiques, verbales, psychologiques ou se
 
 Les violences conjugales peuvent s'exercer de différentes manières:
 
-* Violences sexuelles & physiques: violes, agressions, coups et blessures, gifles, bousculades, morsures, etc.
-* Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
-* Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
-* Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
+\- Violences sexuelles & physiques: violes, agressions, coups et blessures, gifles, bousculades, morsures, etc.
+
+\- Violences psychologiques & verbales: harcèlement moral, mépris, dénigrement, pression, insultes, menaces, humiliations, chantages, hurlements, etc.
+
+\- Violences économiques & administratives: privation de ressources, contrôle des dépenses, vols, destruction ou chantage aux papiers d'identité, etc.
+
+\- Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
 Nous le répétons mais il est important que la victime se mette ou soit mise à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
