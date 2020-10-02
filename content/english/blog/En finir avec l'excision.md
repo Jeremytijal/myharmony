@@ -29,7 +29,7 @@ L'Organisation mondiale de la Santé distingue 4 types de mutilations sexuelles 
 
 L'intervention se déroule sous anesthésie générale et nécessite une nuit d'hospitalisation. Les points se résorberont tout seul et des antalgiques vous seront prescrit pour les douleurs post-op.
 
-Grâce à cette opération, vous retrouverez presque votre anatomie naturelle ainsi que les sensations et la sensibilité qui l'accompagnent.
+Grâce à cette opération, vous retrouverez presque votre anatomie naturelle ainsi que la sensibilité les sensations qui l'accompagnent.
 
 Cette opérations est en partie pris en charge par la sécurité sociale et la mutuelle.
 
