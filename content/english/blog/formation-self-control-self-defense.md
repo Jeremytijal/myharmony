@@ -10,11 +10,11 @@ title = "Formation Self Control / Self Defense"
 type = ""
 
 +++
-**Prochainement:** 
+**Prochainement:**
 
-### **Formation self control / self defense**
+# **Formation self control / self defense**
 
-Nous vous proposons dans cette formation une approche modulaire comme décrite ci-dessous:
+## Nous vous proposons dans cette formation une approche modulaire comme décrite ci-dessous:
 
 1- Gestion du stress et maîtrise de soi > 3h
 
@@ -24,9 +24,9 @@ Nous vous proposons dans cette formation une approche modulaire comme décrite c
 
 4- Techniques de self defense urban concept > 8h
 
-Objectifs pédagogiques généraux: 
+Objectifs pédagogiques généraux:
 
-A la fin de cette formation, vous serez capable de:
+## A la fin de cette formation, vous serez capable de:
 
 * Gérer votre stress face à une situation conflictuelle et trouver l'issue la plus favorable.
 * Appréhender certaines attitudes et comportements en prévention de la violence.
