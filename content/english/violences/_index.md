@@ -33,6 +33,16 @@ Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
 **La Femme rompue (1968) de Simone de Beauvoir.**
 
+![](/images/img-20201002-wa0003.jpg)
+
+Les hommes aussi sont victimes de violence. Selon une enquête de l'Insee réalisée en 2019, 28% des victimes de violences conjugales autodéclarées sont des hommes. Soit 82 000 victimes par an.
+
+(Source: [https://www.lemonde.fr/idees/article/2020/08/07/violences-conjugales-faites-aux-hommes-la-double-peine_6048343_32.html_](https://www.lemonde.fr/idees/article/2020/08/07/violences-conjugales-faites-aux-hommes-la-double-peine_6048343_3232.html "https://www.lemonde.fr/idees/article/2020/08/07/violences-conjugales-faites-aux-hommes-la-double-peine_6048343_3232.html") )
+
+Mais ce chiffre reflète-t-il la réalité? Sujet encore trop tabou tant le déni social est important,  ces hommes victimes de violences conjugales ressentent bien trop souvent honte et culpabilité ce qui les poussent a garder le silence. Ils s'isolent et sortir de cette violence devient chaque jour un peu plus difficile. 
+
+Vous n'êtes plus seul. My Harmony est aussi là pour vous!
+
 Site gouvernemental sur les violences faites aux femmes:
 
 [www.stop-violences-femmes.gouv.fr](http://www.stop-violences-femmes.gouv.fr)
@@ -87,7 +97,7 @@ Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple:
 
 Si vous êtes victime de harcèlement et/ou de violences et que vous souhaitez trouver une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
 
-MyHarmony c'est une épaule sur laquelle se reposer. 
+MyHarmony c'est une épaule sur laquelle se reposer.
 
 # #brisonslesilence
 
