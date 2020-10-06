@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Besoin de parler
-    link: https://assomyharmony.org/about/
+    link: https://assomyharmony.org/contact/
 atelier:
   enable: true
   title: Nos Permanences (sur rendez-vous)
