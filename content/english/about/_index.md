@@ -21,38 +21,42 @@ titre2: ''
 ---
 # __* QUI SOMMES-NOUS? *__
 
-### My Harmony a pour but de venir en aide aux victimes de violences (quelles qu'elles soient), de mutilations génitales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+#### My Harmony a pour but de venir en aide aux victimes de violences (quelles qu'elles soient), de mutilations génitales, mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+
+#### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
+
+#### L'accueil, l'écoute et le soutien sont les piliers de l'association.
 
 ## * **_ECOUTER___ *
 
-### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. 
+#### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Un accueil physique est possible en région parisienne ou alors via téléphonique, e-mail ou les réseaux sociaux.
 
 ## ___* ACCOMPAGNER *___
 
-### Nous sommes aussi là pour vous accompagner dans votre reconstruction grâce à un suivi personnalisé. De plus, vous avez la possibilité de disposer d'une aide psychologique. 
+#### Nous sommes aussi là pour vous accompagner dans votre reconstruction grâce à un suivi personnalisé. De plus, vous avez la possibilité de disposer d'une aide psychologique. 
 
 ## ___* PORTER LA VOIX DES VICTIMES *___
 
-### Nous vous accompagnons dans vos démarches sociales et juridiques, telles que la recherche d'un logement, la constitution de dossier, la recherche d'un avocat etc.
+#### Nous vous accompagnons dans vos démarches sociales et juridiques, telles que la recherche d'un logement, la constitution de dossier, la recherche d'un avocat etc.
 
-### Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
+## ___* SENSIBILISER *___
 
-### L'accueil, l'écoute et le soutien sont les piliers de l'association.
+#### Notre association a aussi pour but de sensibiliser la population autour des thèmes qui nous sont chers afin que, nous l'espérons, dans un futur proche, le nombre de victimes de violences diminues et qu'une aide soit rapidement apportée à ceux qui en ont besoin.
 
-### Nos valeurs:
+## ___* NOS VALEURS *___
 
-### - **La solidarité,** pour favoriser la sociabilisation et la mixité
+#### - **La solidarité,** pour favoriser la sociabilisation et la mixité
 
-### - **La dignité,** pour le soutien et le droit à la dignité et la dignité de la personne
+#### - **La dignité,** pour le soutien et le droit à la dignité et la dignité de la personne
 
-### - **L'harmonie,** pour aider les personnes dans leur épanouissement personnel.
+#### - **L'harmonie,** pour aider les personnes dans leur épanouissement personnel.
 
-# _Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie._
+## ___* NOS PERMANENCES *___
 
-### **Nous mettons à votre disposition des permanences en visioconférence avec des professionnelles.**
+### Nous mettons à votre disposition des permanences en visioconférence avec des professionnelles.
 
-## Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous les besoins juridiques.
+#### Retrouvez tous les samedis de 10h à 13h **Madame Senda Ben Azouz** pour tous les **besoins juridiques**.
 
-## Mme Maya Thomé, psychologue, le mardi, mercredi et jeudi de 14 heures à 19 heures.
+#### **Mme Maya Thomé, psychologue**, le mardi, mercredi et jeudi de 14 heures à 19 heures.
 
-## Et Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h, le vendredi 15h à 16h (mois de septembre) et le samedi 10h à 12h.
+#### Et **Mme Talbot, psychologue-sophrologue**, le lundi de 14h à 15h, le vendredi 15h à 16h (mois de septembre) et le samedi 10h à 12h.
