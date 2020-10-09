@@ -1,10 +1,10 @@
 +++
-author = ""
+author = "Fanny Pacouill"
 bg_image = ""
 categories = ["Précarité menstruelle"]
 date = 2020-09-18T22:00:00Z
 description = "Le kit Sérenity, kit de protections menstruelles, est distribué sur place ou par voie postale sur demande en remplissant le formulaire"
-image = "/images/affiche-precarite-menstruelle.jpg"
+image = "/images/whatsapp-image-2020-10-05-at-09-47-10.jpeg"
 tags = ["kit sérenity", "précarité menstruelle"]
 title = "Le Kit Sérenity - Contre la précarité menstruelle"
 type = ""
