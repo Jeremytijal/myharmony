@@ -19,11 +19,23 @@ content10: ''
 titre2: ''
 
 ---
-# * QUI SOMMES-NOUS? *
+# __* QUI SOMMES-NOUS? *__
 
-### My Harmony a pour mais de venir en aide aux victimes de violences (quelles qu'elles soient), de mutilations génitales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+### My Harmony a pour but de venir en aide aux victimes de violences (quelles qu'elles soient), de mutilations génitales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
-### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être répartie. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
+## * **_ECOUTER___ *
+
+### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. 
+
+## ___* ACCOMPAGNER *___
+
+### Nous sommes aussi là pour vous accompagner dans votre reconstruction grâce à un suivi personnalisé. De plus, vous avez la possibilité de disposer d'une aide psychologique. 
+
+## ___* PORTER LA VOIX DES VICTIMES *___
+
+### Nous vous accompagnons dans vos démarches sociales et juridiques, telles que la recherche d'un logement, la constitution de dossier, la recherche d'un avocat etc.
+
+### Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
 
 ### L'accueil, l'écoute et le soutien sont les piliers de l'association.
 
