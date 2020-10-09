@@ -9,8 +9,6 @@ La précarité touche 500 millions de femmes dans le monde. En France, 1,7 milli
 
 > #### _Au cours de sa vie, une femme dépenserait en moyenne 1750 € en protections hygiéniques. Bien que la TVA sur ces produits soit passée de 20% à 5,5%, 1,7 millions de femmes seraient concernées par la précarité menstruelle en France._
 
-![](/images/image-regles.png)
-
 * Le kit Sérénity (bientôt disponible) est distribué par l'association mais peut également être envoyé par voie postale (faire la demande en remplissant le formulaire). Il est cependant délivré sous certaines conditions.
 
 **Ensemble, brisons les tabous**
@@ -36,7 +34,7 @@ La précarité touche 500 millions de femmes dans le monde. En France, 1,7 milli
 * Connaitre son corps, ses cycles, en parler sans tabou.
 * Durant environ 40 ans, les règles rythment nos vies il est donc important de répondre à nos interrogations.
 
-Retrouvez-nous sur notre blog santé et hygiène féminine à titre informatif et sur notre page Facebook chaque semaine Astuces & Informations (endométriose, précarité menstruelle).
+Retrouvez-nous sur notre blog et sur notre page Facebook, Instagram et Twitter chaque semaine pour des Astuces & Informations (endométriose, précarité menstruelle).
 
 Notre mission:
 
@@ -44,6 +42,8 @@ Notre mission:
 * Droit à la dignité: My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
 
 Un mois, une femme, un kit.
+
+![/images/image-regles.png](https://app.forestry.io/sites/nswtuczo0ow5yg/body-media//images/image-regles.png)
 
 **Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).**
 
