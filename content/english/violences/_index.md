@@ -83,8 +83,6 @@ Commissariat de police
 
 ![](/images/whatsapp-image-2020-10-02-at-14-37-31-1.jpeg)
 
-## Autres formes de violences mises à jour:
-
 ### Malheureusement, les violences conjugales ne sont pas le seul fléau contre lequel nous souhaitons lutter.
 
 Dans ces violences (parfois quotidiens) nous pouvons citer par exemple:
