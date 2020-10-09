@@ -25,7 +25,7 @@ Les violences conjugales peuvent s'exercer de différentes manières:
 
 \- Violences sociales et familiales: isolement, repli social, rupture avec la famille et l'entourage.
 
-Nous le répétons mais il est important que la victime ainsi que ses enfant si elle en a se mettent ou soient mis à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
+Nous le répétons mais il est important que la victime ainsi que ses enfants si elle en un se mettent à l'abri de nouvelles violences, avant même que les poursuites pénales ne soient engagées. Le fait de subir des violences conjugales justifie le départ du domicile.
 
 Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
@@ -35,13 +35,13 @@ Les professionnels et professionnelles peuvent vous aider à vous en sortir.
 
 ![](/images/img-20201002-wa0003.jpg)
 
-Les hommes aussi sont victimes de violence. Selon une enquête de l'Insee réalisée en 2019, 28% des victimes de violences conjugales autodéclarées sont des hommes. Soit 82 000 victimes par an.
+Les hommes sont aussi victimes de violence. Selon une enquête de l'Insee réalisée en 2019, 28% des victimes de violences conjugales autodéclarées sont des hommes. Soit 82 000 victimes par an.
 
 (Source: [https://www.lemonde.fr/idees/article/2020/08/07/violences-conjugales-faites-aux-hommes-la-double-peine_6048343_32.html_](https://www.lemonde.fr/idees/article/2020/08/07/violences-conjugales-faites-aux-hommes-la-double-peine_6048343_3232.html "https://www.lemonde.fr/idees/article/2020/08/07/violences-conjugales-faites-aux-hommes-la-double-peine_6048343_3232.html") )
 
-Mais ce chiffre reflète-t-il la réalité? Sujet encore trop tabou tant le déni social est important,  ces hommes victimes de violences conjugales ressentent bien trop souvent honte et culpabilité ce qui les poussent a garder le silence. Ils s'isolent et sortir de cette violence devient chaque jour un peu plus difficile. 
+Mais ce chiffre-t-il la réalité? Sujet encore trop tabou tant le déni social est important, ces hommes victimes de violences conjugales ressentent bien trop souvent honte et culpabilité ce qui les poussent à garder le silence. Ils s'isolent et sortir de cette violence devient chaque jour un peu plus difficile.
 
-Vous n'êtes plus seul. My Harmony est aussi là pour vous!
+Vous êtes plus seul. My Harmony est aussi là pour vous!
 
 Site gouvernemental sur les violences faites aux femmes:
 
@@ -55,9 +55,9 @@ Association [www.solidaritefemmes.org](http://www.solidaritefemmes.org/)
 
 Si vous êtes en situation d'urgence:
 
-**Secours de la police:**        [17]()
+**Secours de la police:**         [17]()
 
-**Par SMS:**        [114]()
+**Par SMS:**         [114]()
 
 **Violences Conjugales Femmes Infos Services** : [39 19]()
 
@@ -83,19 +83,19 @@ Commissariat de police
 
 ![](/images/whatsapp-image-2020-10-02-at-14-37-31-1.jpeg)
 
-## D'autres formes de violences existent:
+## Autres formes de violences mises à jour:
 
 ### Malheureusement, les violences conjugales ne sont pas le seul fléau contre lequel nous souhaitons lutter.
 
-Dans ces violences (parfois quotidiennes) nous pouvons citer par exemple:
+Dans ces violences (parfois quotidiens) nous pouvons citer par exemple:
 
-* Le harcèlement moral et/ou physique  (que ce soit dans la sphère privée, sur internet, au travail ou à l'école)
+* Le harcèlement moral et / ou physique (que ce soit dans la sphère privée, sur internet, au travail ou à l'école)
 * Les agressions sexuelles
 * Les viols
-* Le harcèlement ou agressions du au genre ou à l'orientation sexuelle
+* Le harcèlement ou agressions du genre ou à l'orientation sexuelle
 * Etc.
 
-Si vous êtes victime de harcèlement et/ou de violences et que vous souhaitez trouver une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
+Si vous êtes victime de harcèlement et / ou de violences et que vous souhaitez trouver une aide qui saura vous écouter, vous conseiller et vous accompagner dans votre combat et votre reconstruction contactez-nous.
 
 MyHarmony c'est une épaule sur laquelle se reposer.
 
