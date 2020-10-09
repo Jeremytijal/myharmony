@@ -21,7 +21,7 @@ titre2: ''
 ---
 # __* QUI SOMMES-NOUS? *__
 
-#### My Harmony a pour but de venir en aide aux victimes de violences (quelles qu'elles soient), de mutilations génitales, mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+#### Notre association a pour but de venir en aide aux victimes de violences (quelles qu'elles soient), de mutilations génitales, mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
 #### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
 
