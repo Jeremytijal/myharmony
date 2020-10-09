@@ -19,7 +19,9 @@ content10: ''
 titre2: ''
 
 ---
-### My Harmony a pour mais de venir en aide aux victimes de violences conjugales, de mutilations génitales mais aussi elle a rencontré un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+# * QUI SOMMES-NOUS? *
+
+### My Harmony a pour mais de venir en aide aux victimes de violences conjugales, de mutilations génitales mais aussi elle met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
 ### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Nous sommes aussi là pour vous accompagner dans vos démarches sociales et juridiques. De plus, une aide psychologique peut vous être répartie. Nous sommes à votre écoute via un accueil physique (région parisienne) et téléphonique.
 
@@ -37,8 +39,8 @@ titre2: ''
 
 ### **Nous mettons à votre disposition des permanences en visioconférence avec des professionnelles.**
 
-## Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous besoins juridiques.
+## Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous les besoins juridiques.
 
 ## Mme Maya Thomé, psychologue, le mardi, mercredi et jeudi de 14 heures à 19 heures.
 
-## Et Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h, le vendredi 15h à 16h ( mois de septembre) et le samedi 10h à 12h.
+## Et Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h, le vendredi 15h à 16h (mois de septembre) et le samedi 10h à 12h.
