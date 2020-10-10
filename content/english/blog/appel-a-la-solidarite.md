@@ -11,12 +11,10 @@ title = "Appel à la solidarité"
 type = ""
 
 +++
-Prochainement:🧴🪒🧼 
+Prochainement:🧴🪒🧼
 
 Collecte de produits hygiéniques pour femmes et hommes en situation de précarité et/ou étudiants.
 
- 👨‍🎤 Rasoirs, déodorants, mousses à raser, mouchoirs, dentifrices.
+👨‍🎤 Rasoirs, déodorants, mousses à raser, mouchoirs, dentifrices.
 
 👩‍🎤 Déodorants, protections hygiéniques, cotons tige, gels intimes, mouchoirs.
-
- #solidarite #precaritemenstruelle #précarité #hygiène #dignite #ensembleonestplusfort
