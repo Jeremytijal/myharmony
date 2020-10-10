@@ -10,7 +10,7 @@ title = "Appel à la solidarité"
 type = ""
 
 +++
-![](/images/img-20201010-wa0002.jpg)Prochainement:🧴🪒🧼
+Prochainement:🧴🪒🧼
 
 Collecte de produits hygiéniques pour femmes et hommes en situation de précarité et/ou étudiants.
 
