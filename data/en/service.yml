@@ -55,3 +55,6 @@ service:
 cta:
   enable : true
   # call to action content comes from "data/*/homepage.yml"
+cta2:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

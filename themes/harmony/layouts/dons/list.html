@@ -9,8 +9,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h2></h2>
-        <p class="mt-30">{{ .Content }}</p>
+        <h2>{{ .Params.Titre }}</h2>
+        <p class="mt-30">{{ .Params.Content }}</p>
       </div>
       <div class="section">
         <div class="col-md-6">
@@ -21,10 +21,6 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-6">
-        <h2></h2>
-        <p class="mt-30">{{ .Content }}</p>
-      </div>
       <div class="section">
         <div class="col-md-6">
         <div class="about-img">
@@ -32,13 +28,17 @@
         </div>
         </div>
       </div>
+      <div class="col-md-6">
+        <h2>{{ .Params.Titre2 }}</h2>
+        <p class="mt-30">{{ .Params.Content2 }}</p>
+      </div>
     </div>
   </div>
 </section>
 
 
 <!-- Call to action -->
-{{ if $data.service.cta.enable }}
+{{ if $data.service.cta2.enable }}
 {{ partial "cta2.html" . }}
 {{ end }}
 <!-- /Call to action -->
