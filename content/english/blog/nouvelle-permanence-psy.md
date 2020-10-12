@@ -4,7 +4,6 @@ bg_image = "/images/portfolio/work6.jpg"
 categories = []
 date = 2020-10-11T22:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Nouvelle permanence psy "
