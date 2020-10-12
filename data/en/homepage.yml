@@ -114,3 +114,38 @@ cta:
     icon: ion-ios-clock
     color: primary-darker
     content: Astreintes de 18 h à 9 heures.
+cta2:
+  enable: true
+  bg_image: images/call-to-action-bg.jpg
+  title: Vous souhaitez effectuer un don ?
+  content: ''
+  icon: ion-ios-chatboxes-outline
+  button:
+    enable: true
+    label: Dons
+    link: "/contact"
+  service_item:
+  - name: Violence
+    icon: ion-ios-telephone
+    color: light
+    content: 'Violences femmes infos : 3919'
+  - name: Hébergement
+    icon: ion-home
+    color: light
+    content: Pour un hébergement d’urgence composer le 115.
+  - name: SMS
+    icon: ion-chatbox-working
+    color: light
+    content: Demander de l’aide par SMS 114.
+  - name: Danger
+    icon: ion-iphone
+    color: ion-ios-telephone
+    content: Vous êtes en danger composez le 17.
+  - name: Accueil
+    icon: ion-person-stalker
+    color: light
+    content: Accueil de jour de 9 h à 18 heures.
+  - name: Astreintes
+    icon: ion-ios-clock
+    color: primary-darker
+    content: Astreintes de 18 h à 9 heures.
