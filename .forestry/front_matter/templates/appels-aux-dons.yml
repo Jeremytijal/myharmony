@@ -29,3 +29,5 @@ fields:
 - type: textarea
   name: content2
   label: content2
+pages:
+- content/english/dons/_index.md
