@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/english/dons/_index.md
   label: Appels aux dons
-  match: "**/*"
 - type: document
   path: content/english/mutilations/_index.md
   label: Mutilations génitales
