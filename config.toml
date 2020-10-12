@@ -117,6 +117,7 @@ URL = "blog"
 name = "Blog"
 weight = 5
 [[Languages.fr.menu.main]]
+URL = ""
 hasChildren = true
 name = "Pages"
 weight = 6
@@ -124,10 +125,12 @@ weight = 6
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
+weight = nil
 [[Languages.fr.menu.main]]
 URL = "pricing"
 name = "Tarification"
 parent = "Pages"
+weight = nil
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "Contact"
