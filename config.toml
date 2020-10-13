@@ -11,10 +11,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = ""
-name = ""
-weight = nil
-[[Languages.en.menu.footer]]
 URL = "about"
 name = "L'association"
 weight = 1
