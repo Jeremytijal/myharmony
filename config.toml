@@ -31,6 +31,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
+URL = "/dons"
+name = "Appels aux dons"
+weight = "7"
+[[Languages.en.menu.main]]
 URL = ""
 name = ""
 weight = ""
