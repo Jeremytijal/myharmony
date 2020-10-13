@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-12T22:00:00Z
 description = ""
-draft = true
 image = "/images/img-20201002-wa0003.jpg"
 tags = []
 title = "Les violences conjugales faites aux hommes"
