@@ -31,10 +31,6 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "/dons"
-name = "Appels aux dons"
-weight = "7"
-[[Languages.en.menu.main]]
 URL = ""
 name = ""
 weight = ""
@@ -74,6 +70,10 @@ weight = 5
 URL = "/contact"
 name = "Nous Contacter"
 weight = 7
+[[Languages.en.menu.main]]
+URL = "/dons"
+name = "Appels aux dons"
+weight = "7"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
