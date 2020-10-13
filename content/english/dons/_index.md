@@ -3,7 +3,7 @@ title: Appel aux dons
 description: "#luttonsensemble"
 bg_image: images/bg.jpg
 image: "/images/20201010_201008.jpg"
-image2: "/images/affiche-precarite-menstruelle.jpg"
+image2: ''
 titre: Appel à la solidarité
 content: |-
   La précarité touche 500 millions de femmes dans le monde. En France, 1,7 millions de femmes sont touchées par la précarité menstruelle. Se protéger avec des tissus, du papier journal ou encore des mouchoirs menace la santé (risques d'irritations, infections).
