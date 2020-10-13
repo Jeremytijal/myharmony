@@ -10,7 +10,7 @@ title = "Les violences conjugales faites aux hommes"
 type = ""
 
 +++
-### ![](/images/nous-aussi-les-hommes.png)Selon un article publié en janvier 2020, en France chaque année, 82 000 hommes subissent coups, mauvais traitements et/ou atteintes sexuelles au sein de leur couple. Seulement 3% osent porter plainte.
+### Selon un article publié en janvier 2020, en France chaque année, 82 000 hommes subissent coups, mauvais traitements et/ou atteintes sexuelles au sein de leur couple. Seulement 3% osent porter plainte.
 
 #### Les hommes eux aussi sont victimes de violences conjugales. Cette réalité encore tabou conduit les victimes à se murer dans le silence et à s'isoler.
 
