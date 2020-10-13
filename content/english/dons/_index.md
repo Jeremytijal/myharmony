@@ -2,7 +2,7 @@
 title: Appel aux dons
 description: "#luttonsensemble"
 bg_image: images/bg.jpg
-image: "/images/affiche-precarite-menstruelle.jpg"
+image: "/images/20201010_201008.jpg"
 image2: "/images/20201010_201008.jpg"
 titre: Appel à la solidarité
 content: |-
