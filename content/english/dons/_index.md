@@ -1,5 +1,5 @@
 ---
-title: Appels aux dons
+title: Appel aux dons
 description: "#luttonsensemble"
 bg_image: images/bg.jpg
 image: "/images/affiche-precarite-menstruelle.jpg"
