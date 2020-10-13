@@ -11,9 +11,9 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "/dons"
-name = "Appels aux dons"
-weight = 7
+URL = ""
+name = ""
+weight = nil
 [[Languages.en.menu.footer]]
 URL = "about"
 name = "L'association"
