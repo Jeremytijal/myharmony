@@ -68,7 +68,7 @@ name = "Nous Contacter"
 weight = 7
 [[Languages.en.menu.main]]
 URL = "/dons"
-name = "Appel aux dons"
+name = "Appels aux dons"
 weight = "7"
 [Languages.fr]
 contentDir = "content/french"
