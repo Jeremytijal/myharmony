@@ -125,12 +125,12 @@ weight = 6
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
-weight = nil
+weight = 6
 [[Languages.fr.menu.main]]
 URL = "pricing"
 name = "Tarification"
 parent = "Pages"
-weight = nil
+weight = 7
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "Contact"
