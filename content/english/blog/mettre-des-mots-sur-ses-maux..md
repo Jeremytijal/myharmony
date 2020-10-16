@@ -16,9 +16,7 @@ La psychologue Mme Maya Thomé assurera des permanences en visioconférence.
 
 **Horaires des permanences:**
 
-Le mardi, mercredi et jeudi
-
-De 14 heures à 19 heures.
+Le samedi et dimanche e 14 heures à 19 heures.
 
 En parler c'est un premier pas vers la guérison.
 
