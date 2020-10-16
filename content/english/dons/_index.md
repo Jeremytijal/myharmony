@@ -14,7 +14,10 @@ content2: "Soyons solidaires. \U0001F91D Offrez-nous la possibilité de venir en
   Du 6 au 9 novembre, collecte de produits hygiéniques pour femmes et hommes en situation
   de précarité et/ou étudiant(e)s, lycéen(nes), collégien(nes).\n\n\U0001F468‍\U0001F3A4
   Rasoirs, déodorants, mousses à raser, mouchoirs, dentifrices\n\n\U0001F469‍\U0001F3A4
-  Déodorants, protections hygiéniques, cotons tige, gels intimes, mouchoirs.\n\n#solidarite
+  Déodorants, protections hygiéniques, cotons tige, gels intimes, mouchoirs.\n\nPour
+  aller plus loin et nous aider encore plus, si vous souhaitez nous faire un don afin
+  de venir en aide à un maximum de personnes suivez le lien ==>\n\nhttps://www.okpal.com/l-association-my-harmony-a-besoin-de-vous/?utm_campaign=01EMQZK8A2Y26AKKEPPKVB7S9T&utm_medium=campaign_success-okpuid_01EMQZJT8H5MJX1S3YYJ2RFASN-20201016&utm_source=share_directlink\n\n\"Unie
+  à l'océan, la goutte d'eau demeure.\" - auteur(trice) inconnu(e)\n\n#solidarite
   #precaritemenstruelle #précarité #hygiène #doitàladignite #ensembleonestplusfort"
 
 ---
