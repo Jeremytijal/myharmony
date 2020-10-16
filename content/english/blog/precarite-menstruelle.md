@@ -27,4 +27,4 @@ Le kit Sérenity est distribué sur place ou par voie postale sur demande en rem
 * D'une mini bouillotte.
 * Une notice explicative pour prévenir les chocs toxiques ainsi que quelques astuces pour soulager les règles douloureuses.
 
-\#StopPrécaritéMenstruelle #règles #précaritémenstruelle
+\# StopPrécaritéMenstruelle # règles # précaritémenstruelle
