@@ -57,7 +57,7 @@ titre2: ''
 
 #### Retrouvez tous les samedis de 10h à 13h **Madame Senda Ben Azouz** pour tous les **besoins juridiques** .
 
-#### **Mme Maya Thomé, psychologue** , le mardi, mercredi et jeudi de 14 heures à 19 heures.
+#### **Mme Maya Thomé, psychologue** , le samedi et dimanche de 14 heures à 19 heures.
 
 #### **Mme Talbot, psychologue-sophrologue** , le lundi de 14h à 15h, le vendredi 15h à 16h (mois de septembre) et le samedi 10h à 12h.
 
