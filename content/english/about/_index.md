@@ -55,7 +55,7 @@ titre2: ''
 
 ### Nous mettons à votre disposition des permanences en visioconférence avec des professionnelles.
 
-#### Retrouvez tous les samedis de 10h à 13h **Madame Senda Ben Azouz** pour tous les **besoins juridiques** .
+#### Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h à 18h **Maître Neïra Machi** pour tous les **besoins juridiques** .
 
 #### **Mme Maya Thomé, psychologue** , le samedi et dimanche de 14 heures à 19 heures.
 
