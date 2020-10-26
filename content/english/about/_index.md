@@ -39,7 +39,7 @@ titre2: ''
 
 #### Nous vous accompagnons dans vos démarches sociales et juridiques, telles que la recherche d'un logement, la constitution de dossiers, la recherche d'un avocat etc.
 
-## ___* SENSIBILISANT *___
+## ___* SENSIBILISER *___
 
 #### Notre association a aussi pour but de sensibiliser la population autour des thèmes qui nous sont chers afin que, nous l'espérons, dans un futur proche, le nombre de victimes de violences diminue et qu'une aide soit rapidement apportée à ceux qui en ont besoin.
 
