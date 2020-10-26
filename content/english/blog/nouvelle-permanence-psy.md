@@ -12,7 +12,7 @@ type = ""
 +++
 Nouvelle permanence en visioconférence chez My Harmony.
 
-Le mercredi de 14h à 16h et le vendredi de 14h à 16h, la psychologue Tiphaine
+Le mercredi de 14h à 16h et le vendredi de 14h à 16h, la psychologue Mme Vallerie Tiffany.
 
 En parler c'est un premier pas vers la guérison.
 
