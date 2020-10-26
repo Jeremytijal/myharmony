@@ -47,7 +47,7 @@ titre2: ''
 
 #### - **La solidarité,** pour favoriser la sociabilisation et la mixité
 
-#### - **La dignité,** pour le soutien et le droit à la dignité et la dignité de la personne
+#### - **La dignité,** pour le soutien et le droit à la dignité de chaque indi
 
 #### - **L'harmonie,** pour aider les personnes dans leur épanouissement personnel.
 
