@@ -12,8 +12,8 @@ type = ""
 +++
 Nouvelle permanence en visioconférence chez My Harmony.
 
-Le mercredi de 14h à 16h et le vendredi de 14h à 16h, la psychologue Tiffany est à votre écoute.
+Le mercredi de 14h à 16h et le vendredi de 14h à 16h, la psychologue Tiphaine
 
 En parler c'est un premier pas vers la guérison.
 
-\#brisonslesilence 
+\#brisonslesilence
