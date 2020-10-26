@@ -21,7 +21,7 @@ titre2: ''
 ---
 # __* QUI SOMMES-NOUS? *__
 
-#### Notre association a pour mais de venir en aide aux victimes de violences, de mutilations génitales, mais aussi elle a rencontré un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
+#### Notre association a pour  but de venir en aide aux victimes de violences, de mutilations génitales, mais aussi met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques).
 
 #### Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie.
 
@@ -29,7 +29,7 @@ titre2: ''
 
 ## * ** _ECOUTER_ __ *
 
-#### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Un accueil physique est possible en région parisienne ou alors via téléphonique, e-mail ou les réseaux sociaux.
+#### My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Un accueil physique est possible en région parisienne ou alors via les réseaux sociaux, téléphone ou e-mail.
 
 ## ___* ACCOMPAGNATEUR *___
 
