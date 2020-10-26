@@ -61,4 +61,4 @@ titre2: ''
 
 #### **Mme Talbot, psychologue-sophrologue** , le lundi de 14h à 15h et le samedi de 10h à 12h.
 
-#### Et Mme Tiffany Vallerie, psychologue, le mercredi de 14h à 16h et le vendredi de 14h à 16h.
+#### Et **Mme Tiffany Vallerie, psychologue**, le mercredi de 14h à 16h et le vendredi de 14h à 16h.
