@@ -59,6 +59,6 @@ titre2: ''
 
 #### **Mme Maya Thomé, psychologue** , le samedi et dimanche de 14 heures à 19 heures.
 
-#### **Mme Talbot, psychologue-sophrologue** , le lundi de 14h à 15h, le vendredi 15h à 16h (mois de septembre) et le samedi 10h à 12h.
+#### **Mme Talbot, psychologue-sophrologue** , le lundi de 14h à 15h et le samedi de 10h à 12h.
 
-#### Et Tiffany, psychologue, le mercredi de 14h à 16h et le vendredi de 14h à 16h.
+#### Et Mme Tiffany Vallerie, psychologue, le mercredi de 14h à 16h et le vendredi de 14h à 16h.
