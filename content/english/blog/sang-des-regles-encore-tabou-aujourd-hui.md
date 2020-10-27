@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-26T23:00:00Z
 description = ""
-draft = true
 image = "/images/dessin_6.jpg"
 tags = []
 title = "Sang des règles, encore tabou aujourd'hui."
