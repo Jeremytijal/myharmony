@@ -24,7 +24,7 @@ type = ""
 
 #### #stoptabou #regles #reglesdouloureuses #periods #sexisme #BrisonsLeSilence
 
-#### [https://socup.fr/blog/tabou-des-regles#:\~:text=Il%20existe%20de%20multiples%20croyances,qui%20perdure%20encore%20aujourd'hui.&text=C'est%20un%20fait%20!,dont%20on%20ne%20parle%20pas]()
+##### https://socup.fr/blog/tabou-des-regles#:\~:text=Il%20existe%20de%20multiples%20croyances,qui%20perdure%20encore%20aujourd'hui.&text=C'est%20un%20fait%20!,dont%20on%20ne%20parle%20pas
 
 **Source image:**
 
