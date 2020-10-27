@@ -18,7 +18,7 @@ type = ""
 
 ## Résultat ?🤔 Nous passons la majorité de notre temps à essayer de modifier notre corps et notre comportement pour correspondre à une norme de la « féminité » que la société tente de nous imposer. \[...\] 💊Notre santé mentale et physique sont directement liées à toutes ces injonctions. Sans oublier toutes les maladies liées aux règles que nous ne savons pas traiter car nous n’avons jamais pris la peine de nous y intéresser : douleurs de règles, syndrome prémenstruel, syndrome du choc toxique, endométriose et la liste est encore longue !"
 
-## _Extrait de l'actrice en lien ci-dessous._
+## _Extrait de l'acticle en lien ci-dessous._
 
 ## 🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸 📣📣📣✊✊🏻✊🏼✊🏽✊🏾✊🏿📣📣📣
 
