@@ -107,3 +107,5 @@ fields:
 - type: text
   name: texte73
   label: texte73
+pages:
+- content/english/about/_index.md

@@ -18,22 +18,40 @@ content9: ''
 content10: ''
 titre2: ''
 soustitre: QUI SOMMES-NOUS ?
-texte: Notre association a pour  but de venir en aide aux victimes de violences, de mutilations génitales, mais aussi met un point d'honneur à lutter contre la précarité menstruelle (distribution de kits de protections hygiéniques). Nous œuvrons au quotidien afin que les victimes regagnent leur autonomie et leur harmonie. L'accueil, l'écoute et le soutien sont les piliers de l'association.
+texte: Notre association a pour  but de venir en aide aux victimes de violences, de
+  mutilations génitales, mais aussi met un point d'honneur à lutter contre la précarité
+  menstruelle (distribution de kits de protections hygiéniques). Nous œuvrons au quotidien
+  afin que les victimes regagnent leur autonomie et leur harmonie. L'accueil, l'écoute
+  et le soutien sont les piliers de l'association.
 soustitre2: ÉCOUTER
-texte2: My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et réconfort. Un accueil physique est possible en région parisienne ou alors via les réseaux sociaux, téléphone ou e-mail.
+texte2: My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et
+  réconfort. Un accueil physique est possible en région parisienne ou alors via les
+  réseaux sociaux, téléphone ou e-mail.
 soustitre3: ACCOMPAGNATEUR
-texte3: Nous sommes aussi là pour vous accompagner dans votre reconstruction grâce à un suivi personnalisé. De plus, vous avez la possibilité de disposer d'une aide psychologique.
+texte3: Nous sommes aussi là pour vous accompagner dans votre reconstruction grâce
+  à un suivi personnalisé. De plus, vous avez la possibilité de disposer d'une aide
+  psychologique.
 soustitre4: PORTER LA VOIX DES VICTIMES
-texte4: Nous vous accompagnons dans vos démarches sociales et juridiques, telles que la recherche d'un logement, la constitution de dossiers, la recherche d'un avocat etc.
+texte4: Nous vous accompagnons dans vos démarches sociales et juridiques, telles que
+  la recherche d'un logement, la constitution de dossiers, la recherche d'un avocat
+  etc.
 soustitre5: SENSIBILISER
-texte5: Notre association a aussi pour but de sensibiliser la population autour des thèmes qui nous sont chers afin que, nous l'espérons, dans un futur proche, le nombre de victimes de violences diminue et qu'une aide soit rapidement apportée à ceux qui en ont besoin.
+texte5: Notre association a aussi pour but de sensibiliser la population autour des
+  thèmes qui nous sont chers afin que, nous l'espérons, dans un futur proche, le nombre
+  de victimes de violences diminue et qu'une aide soit rapidement apportée à ceux
+  qui en ont besoin.
 soustitre6: NOS VALEURS
 texte6: La solidarité, pour favoriser la sociabilisation et la mixité
 texte61: La dignité, pour le soutien et le droit à la dignité de chaque indi.
 texte62: L'harmonie, pour aider les personnes dans leur épanouissement personnel.
 soustitre7: NOS PERMANENCES
-texte7: Nous mettons à votre disposition des permanences en visioconférence avec des professionnelles. Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h à 18h Maître Neïra Machi pour tous les besoins juridiques.
-texte71: "Mme Maya Thomé, psychologue, le samedi et dimanche de 14 heures à 19 heures."
-texte72: Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h et le samedi de 10h à 12h.
-texte73: Et Mme Tiffany Vallerie, psychologue, le mercredi de 14h à 16h et le vendredi de 14h à 16h.
+texte7: Nous mettons à votre disposition des permanences en visioconférence avec des
+  professionnelles. Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h
+  à 18h Maître Neïra Machi pour tous les besoins juridiques.
+texte71: Mme Maya Thomé, psychologue, le samedi et dimanche de 14 heures à 19 heures.
+texte72: Mme Talbot, psychologue-sophrologue, le lundi de 14h à 15h et le samedi de
+  10h à 12h.
+texte73: Et Mme Tiffany Vallerie, psychologue, le mercredi de 14h à 16h et le vendredi
+  de 14h à 16h.
+
 ---
