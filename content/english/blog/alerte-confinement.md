@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = ""
 tags = []
-title = "Alerte confinement"
+title = "Quand confinement rime avec isolement..."
 type = ""
 
 +++
