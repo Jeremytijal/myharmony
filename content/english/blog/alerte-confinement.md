@@ -11,7 +11,7 @@ title = "Quand confinement rime avec isolement..."
 type = ""
 
 +++
-Alerte Confinement 📣
+![](/images/img-20201030-wa0016.jpg)Alerte Confinement 📣
 
 Suite à l'annonce du gouvernement, un nouveau confinement a donc débuté ce vendredi 30 octobre et ce pour un minimum d'un mois.
 
