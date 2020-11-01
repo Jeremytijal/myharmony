@@ -33,6 +33,8 @@ Voici un rappel des numéros d'appel d'urgence que vous pouvez composer pour dem
 
 N'oubliez pas vous pouvez également nous contacter au 07 64 69 06 42 ou par mail à associationmyharmony@gmail.com.
 
+![](/images/img-20201030-wa0014.jpg)
+
 Ne laissons pas l'histoire de répéter. Ensemble face aux violences.✊🏼
 
 \#violencesconjugales #violencesfamiliales #confinement #solidarite #ensembleonestplusfort
