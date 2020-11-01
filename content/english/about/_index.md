@@ -48,7 +48,7 @@ soustitre7: NOS PERMANENCES
 texte7: Nous mettons à votre disposition des permanences en visioconférence avec des
   professionnelles. Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h
   à 18h Maître Neïra Machi pour tous les besoins juridiques.
-texte71: Mme Maya Thomé, psychologue, le samedi de 14h à 16h et le dimanche de 14
+texte71: Mme Maya Thomé, psychologue, le samedi de 14h à 19h et le dimanche de 14
   heures à 19 heures.
 texte72: Mme Talbot, psychologue-sophrologue, le lundi de 9h à 13h
 texte73: Et Mme Tiffany Vallerie, psychologue, le mercredi de 14h à 16h et le vendredi
