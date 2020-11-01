@@ -22,7 +22,7 @@ type = ""
 
 #### Malgré le confinement vous n'êtes pas seul. Femmes, Enfants, Hommes victimes de ces violences ne vous murez pas dans le silence et la solitude.
 
-### Voici un rappel des numéros d'appel d'urgence que vous pouvez composer pour demander de l'aide.
+### ☎️Voici un rappel des numéros d'appel d'urgence que vous pouvez composer pour demander de l'aide.
 
 ## 3919 Violences femmes infos
 
