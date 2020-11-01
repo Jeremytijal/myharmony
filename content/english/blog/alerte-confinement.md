@@ -24,15 +24,15 @@ type = ""
 
 ### ☎️Voici un rappel des numéros d'appel d'urgence que vous pouvez composer pour demander de l'aide.
 
-## 3919 Violences femmes infos
+## **3919** Violences femmes infos
 
-## 114 Demander de l'aide par SMS
+## **114** Demander de l'aide par SMS
 
-## 115 Pour un hébergement d’urgence composer
+## **115** Pour un hébergement d’urgence composer
 
-## 17 Police Secours
+## **17** Police Secours
 
-## N'oubliez pas vous pouvez également nous contacter au 07 64 69 06 42 ou par mail à associationmyharmony@gmail.com.
+## N'oubliez pas vous pouvez également nous contacter au **07 64 69 06 42** ou par mail à **associationmyharmony@gmail.com**.
 
 ![](/images/img-20201030-wa0014.jpg)
 
