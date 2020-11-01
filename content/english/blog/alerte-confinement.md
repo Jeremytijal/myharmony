@@ -11,7 +11,7 @@ title = "Alerte confinement"
 type = ""
 
 +++
-Suite à l'annonce du gouvernement, un nouveau confinement a donc débuté ce vendredi 30 octobre et ce pour un minimum d'un mois. 
+Suite à l'annonce du gouvernement, un nouveau confinement a donc débuté ce vendredi 30 octobre et ce pour un minimum d'un mois.
 
 Nous ne le dirons jamais assez, si vous êtes victimes de violences VOUS N'AVEZ PAS BESOIN D'ATTESTATION POUR FUIR.
 
@@ -19,10 +19,18 @@ Lors du premier confinement, les violences conjugales et familiales ont connu un
 
 Malgré le confinement vous n'êtes pas seul. Femmes, Enfants, Hommes victimes de ces violences ne vous murez pas dans le silence et la solitude.
 
-Voici un rappel des numéros d'urgence que vous pouvez composer pour demander de l'aide.
+Voici un rappel des numéros d'appel d'urgence que vous pouvez composer pour demander de l'aide.
 
 3919 Violences femmes infos
 
-115 Pour un hébergement d’urgence composer le 
+114 Demander de l'aide par SMS
+
+115 Pour un hébergement d’urgence composer
+
+17 Police Secours
+
+N'oubliez pas vous pouvez également nous contacter au 07 64 69 06 42 ou par mail à associationmyharmony@gmail.com.
+
+Ne laissons pas l'histoire de répéter. Ensemble face aux violences.✊🏼
 
 \#violencesconjugales #violencesfamiliales #confinement #solidarite #ensembleonestplusfort
