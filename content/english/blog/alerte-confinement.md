@@ -5,12 +5,14 @@ categories = []
 date = 2020-10-31T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/img-20201030-wa0015.jpg"
 tags = []
 title = "Quand confinement rime avec isolement..."
 type = ""
 
 +++
+Alerte Confinement 📣
+
 Suite à l'annonce du gouvernement, un nouveau confinement a donc débuté ce vendredi 30 octobre et ce pour un minimum d'un mois.
 
 Nous ne le dirons jamais assez, si vous êtes victimes de violences VOUS N'AVEZ PAS BESOIN D'ATTESTATION POUR FUIR.
