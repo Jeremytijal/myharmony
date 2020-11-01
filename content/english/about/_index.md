@@ -27,7 +27,7 @@ soustitre2: ÉCOUTER
 texte2: My Harmony c'est un centre d'accueil et d'écoute où vous trouverez aide et
   réconfort. Un accueil physique est possible en région parisienne ou alors via les
   réseaux sociaux, téléphone ou e-mail.
-soustitre3: ACCOMPAGNATEUR
+soustitre3: ACCOMPAGNER
 texte3: Nous sommes aussi là pour vous accompagner dans votre reconstruction grâce
   à un suivi personnalisé. De plus, vous avez la possibilité de disposer d'une aide
   psychologique.
