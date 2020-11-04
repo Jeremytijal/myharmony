@@ -2,7 +2,7 @@
 title: Appel aux dons
 description: "#luttonsensemble"
 bg_image: images/bg.jpg
-image: "/images/20201010_201008.jpg"
+image: "/images/img-20201104-wa0002.jpg"
 image2: "/images/img-20201010-wa0002.jpg"
 titre: Appel à la solidarité
 content: |-
