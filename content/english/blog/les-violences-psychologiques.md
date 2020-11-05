@@ -21,13 +21,13 @@ type = ""
 * Isolement
 * Contrôle de la victime...
 
-## Souvent la victime est décrite par son conjoint comme étant fautive de tous les maux et ce retournement de situation permanent et intentionnel plonge la victime dans une détresse indescriptible.
+#### Souvent la victime est décrite par son conjoint comme étant fautive de tous les maux et ce retournement de situation permanent et intentionnel plonge la victime dans une détresse indescriptible.
 
-### ➡️ "Les violences psychologiques sont une véritable entreprise de démolition de l’identité de la victime."
+#### ➡️ "Les violences psychologiques sont une véritable entreprise de démolition de l’identité de la victime."
 
-### ➡️ "Les violences psychologiques entraînent, par le stress, la violence et l’usure qui les caractérisent, un psychotraumatisme important."
+#### ➡️ "Les violences psychologiques entraînent, par le stress, la violence et l’usure qui les caractérisent, un psychotraumatisme important."
 
-### ➡️ "Les enfants témoins des scènes ou victimes eux-mêmes sont susceptibles dans le futur de reproduire des violences subies dans l’enfance."
+#### ➡️ "Les enfants témoins des scènes ou victimes eux-mêmes sont susceptibles dans le futur de reproduire des violences subies dans l’enfance."
 
 \#violencesconjugales #violencesdomestiques #violencespsychologiques #brisonslestabous #stopviolence
 
