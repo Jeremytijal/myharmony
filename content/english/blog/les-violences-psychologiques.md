@@ -10,7 +10,7 @@ title = "Les violences psychologiques"
 type = ""
 
 +++
-### ⛔ ✋Dans les violences conjugales il n'y a pas que les coups. Celles-ci sont sournoises, silencieuses et invisibles... Les violences psychologiques peuvent faire autant de mal que les violences physiques.
+#### ⛔ ✋Dans les violences conjugales il n'y a pas que les coups. Celles-ci sont sournoises, silencieuses et invisibles... Les violences psychologiques peuvent faire autant de mal que les violences physiques.
 
 #### Les violences psychologiques détruisent petit à petit la victime de l'intérieur. Contrairement aux violences physiques elle ne se voient pas forcément, mais tout comme elles, les conséquences qui en découlent sont terribles:
 
