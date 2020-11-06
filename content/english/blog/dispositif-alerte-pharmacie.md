@@ -18,20 +18,20 @@ type = ""
 
 #### ⚠️⚠️⚠️
 
-#### De plus, un autre dispositif a été mis en place, "le point noir". Dans le cas où vous seriez en danger mais que vous ne puissiez pas demander verbalement de l'aide, il vous suffit de montrer votre paume de main dans laquelle vous aurez préalablement dessiné un point noir. La personne en face de vous saura alors que vous demandez de l'aide et pourra à son tour faire le nécessaire.
+#### ⚫ De plus, un autre dispositif a été mis en place, "le point noir". Dans le cas où vous seriez en danger mais que vous ne puissiez pas demander verbalement de l'aide, il vous suffit de montrer votre paume de main dans laquelle vous aurez préalablement dessiné un point noir. La personne en face de vous saura alors que vous demandez de l'aide et pourra à son tour faire le nécessaire.
 
-#### 🆘️ 🆘 ️🆘️ 🆘 ️🆘️ 🆘️ 
+#### 🆘️ 🆘 ️🆘️ 🆘 ️🆘️ 🆘️
 
 #### Et surtout n'oubliez pas mes numéros d'appels d'urgence.
 
-#### - le 15: SAMU 
+#### - le 15: SAMU
 
-#### - le 17: Police Secours 
+#### - le 17: Police Secours
 
-#### - le 112: numéro des urgences sécuritaires, de secours aux personnes ou médical, accessible dans toute l'Union européenne 
+#### - le 112: numéro des urgences sécuritaires, de secours aux personnes ou médical, accessible dans toute l'Union européenne
 
-#### - le 114: réception et orientation des personnes malentendantes vers les autres numéros d'urgence 
+#### - le 114: réception et orientation des personnes malentendantes vers les autres numéros d'urgence
 
-#### - le 119: urgence sociale (enfance maltraitée) 
+#### - le 119: urgence sociale (enfance maltraitée)
 
-#### Ou alors contactez nous au 07 64 69 06 42 ou par mail à associationmyharmony@gmail.com. 
+#### Ou alors contactez nous au 07 64 69 06 42 ou par mail à associationmyharmony@gmail.com.
