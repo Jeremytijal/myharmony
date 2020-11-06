@@ -6,7 +6,7 @@ date = 2020-11-05T23:00:00Z
 description = ""
 image = "/images/img-20201104-wa0000.jpg"
 tags = ["Lepointnoir", "alertepharmacie", "violencesconjugales", "confinement", "violencesfamiliales"]
-title = "Dispositif \"Alerte Pharmacie\""
+title = "Dispositif \"Alerte Pharmacie\" et \"Le Point Noir\""
 type = ""
 
 +++
