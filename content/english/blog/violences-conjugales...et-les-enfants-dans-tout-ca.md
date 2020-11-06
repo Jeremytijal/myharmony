@@ -12,7 +12,7 @@ type = ""
 +++
 ## Qu'il s'agisse de violences physiques, psychologiques, sexuelles, économiques etc., les violences au sein du foyer ont un impact terrible sur les enfants.
 
-#### Les enfants eux aussi sont victimes de ces violences conjugales. Ils sont en première ligne et seul face à tout cela. Au milieu de ces conflits, parfois pris à partie, parfois eux même violents, les enfants victimes des violences conjugales sont en détresse. Les laisser dans ce milieu de violences tant verbales que physiques n'est tout bonnement rien d'autre que de la maltraitance.
+#### Les enfants eux aussi sont victimes de ces violences conjugales. Ils sont en première ligne et seul face à tout cela. Au milieu de ces conflits, parfois pris à partie, parfois eux même violentés, les enfants victimes des violences conjugales sont en détresses. Les laisser dans ce milieu de violences tant verbales que physiques n'est tout bonnement rien d'autre que de la maltraitance.
 
 #### _Selon de récentes études:_
 
