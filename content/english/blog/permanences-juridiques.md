@@ -10,7 +10,7 @@ title = "Permanences Juridiques - Violences conjugales"
 type = ""
 
 +++
-#### Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous besoins juridiques.
+#### Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h à 18h Maître Neïra Machi pour tous besoins juridiques.
 
 #### N'hésitez pas à nous contacter pour plus d'informations.
 
