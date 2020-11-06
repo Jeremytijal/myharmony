@@ -10,12 +10,14 @@ title = "Permanences Juridiques - Violences conjugales"
 type = ""
 
 +++
-Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous besoins juridiques.
+#### Retrouvez tous les samedis de 10h à 13h Madame Senda Ben Azouz pour tous besoins juridiques.
 
-N'hésitez pas à nous contacter pour plus d'informations.
+#### N'hésitez pas à nous contacter pour plus d'informations.
 
-**Petit rappel:**
+#### **Petit rappel:**
 
-Mail: associationmyharmony@gmail.com
+#### _Mail_: 
 
-Tél: 07 64 69 06 42
+#### associationmyharmony@gmail.com
+
+#### _Tél_: 07 64 69 06 42
