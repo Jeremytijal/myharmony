@@ -5,7 +5,7 @@ categories = []
 date = 2020-10-31T23:00:00Z
 description = ""
 image = "/images/img-20201030-wa0015.jpg"
-tags = []
+tags = ["Ensembleonestplusfort", "Violencesfamiliales", "Violencesconjugales", "Confinement"]
 title = "Quand confinement rime avec isolement..."
 type = ""
 
