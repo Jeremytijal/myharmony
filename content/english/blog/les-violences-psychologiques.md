@@ -5,7 +5,7 @@ categories = []
 date = 2020-11-04T23:00:00Z
 description = ""
 image = "/images/woman.jpg"
-tags = []
+tags = ["stopviolence", "brisonslestabous", "violencespsychologiques", "violencesdomestiques", "Violencesconjugales"]
 title = "Les violences psychologiques"
 type = ""
 
@@ -28,8 +28,6 @@ type = ""
 #### ➡️ "Les violences psychologiques entraînent, par le stress, la violence et l’usure qui les caractérisent, un psychotraumatisme important."
 
 #### ➡️ "Les enfants témoins des scènes ou victimes eux-mêmes sont susceptibles dans le futur de reproduire des violences subies dans l’enfance."
-
-\#violencesconjugales #violencesdomestiques #violencespsychologiques #brisonslestabous #stopviolence
 
 _Source:_
 
