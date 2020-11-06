@@ -12,7 +12,7 @@ type = ""
 +++
 ## **Osé oyé du nouveau chez My Harmony !!**
 
-###  #briserlesilence
+### #briserlesilence
 
 ### Mme Annelise Talbot, **sophrologue/relaxologue assure désormais des permanences par vidéo conférence.**
 
@@ -26,11 +26,7 @@ type = ""
 
 ### **Horaires des permanences:**
 
-#### Le lundi de 14 h à 15 h.
-
-#### Le vendredi 15h à 16 heures ( mois de septembre)
-
-#### Le samedi 10h à 12 heures.
+#### Le lundi de 9h à 13h.
 
 #### **Mme Talbot est à votre écoute avec bienveillance et sans jugement.**
 
