@@ -14,9 +14,9 @@ type = ""
 
 #### Les hommes eux aussi sont victimes de violences conjugales. Cette réalité encore tabou conduit les victimes à se murer dans le silence et à s'isoler.
 
-#### Notre association My Harmony est aussi là pour vous venir en aide. N'hésitez pas à nous contacter. Un aide peut vous être apportée afin de vous aider à retrouver sérénité et harmonie. Vous n'êtes pas seul!
+#### Notre association My Harmony est aussi là pour vous venir en aide. N'hésitez pas à nous contacter. Une aide peut vous être apportée afin de vous aider à retrouver sérénité et harmonie. Vous n'êtes pas seul!
 
-\#brisonslesilence #ensembleonestplusfort
+\#brisonslesilence #ensembleonestplusfort #stoptabou #violencesconjugales
 
 _Sources:_
 
