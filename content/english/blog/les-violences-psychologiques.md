@@ -29,6 +29,38 @@ type = ""
 
 #### ➡️ "Les enfants témoins des scènes ou victimes eux-mêmes sont susceptibles dans le futur de reproduire des violences subies dans l’enfance."
 
+## Rappelons le:
+
+#### ❌ Les violences psychologiques ne sont pas des disputes de couples... 
+
+#### Si vous vous sentez: 
+
+#### - humilié ou dévalorisé par votre conjoint, en présence ou non d’autres personnes 
+
+#### - rabaissé systématiquement et ignoré ou dénigré 
+
+#### - dans l'incapacité d'émettre quelconque opposition... 
+
+#### Si votre conjoint dénigre:
+
+#### - les membres de votre famille 
+
+#### - vos ami(e)s 
+
+#### - votre entourage plus large ET petit à petit vous incite à ne plus les voir... 
+
+#### Si votre conjoint surveille: 
+
+#### - vos dépenses 
+
+#### - votre téléphone 
+
+#### - vos va et vient... 
+
+#### Ou bien encore si votre conjoint exige de vous que vos lui demandiez une autorisation pour sortir du logement familial 
+
+#### ✅ CECI S'APPELLE DE LA VIOLENCE PSYCHOLOGIQUE et elle est punie pas la loi. Il n'est jamais trop tard pour réagir. Nous sommes là pour vous. 
+
 _Source:_
 
 [https://www.passeportsante.net/fr/psychologie/Fiche.aspx?doc=violence-psychologique](https://www.passeportsante.net/fr/psychologie/Fiche.aspx?doc=violence-psychologique "https://www.passeportsante.net/fr/psychologie/Fiche.aspx?doc=violence-psychologique")
