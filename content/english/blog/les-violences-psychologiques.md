@@ -61,7 +61,11 @@ type = ""
 
 #### ✅ CECI S'APPELLE DE LA VIOLENCE PSYCHOLOGIQUE et elle est punie pas la loi. Il n'est jamais trop tard pour réagir. Nous sommes là pour vous.
 
-#### ➡️ Victime de harcèlement moral, de mépris, de pressions, d'insultes, de menaces, d'humiliations, de chantages, de hurlements... au sein de votre couple? Réagissez! Nous somme là pour vous.
+#### Victime de harcèlement moral, de mépris, de pressions, d'insultes, de menaces, d'humiliations, de chantages, de hurlements... au sein de votre couple? Réagissez! Nous somme là pour vous. Il n'est jamais trop tard.
+
+#### ➡️ Cette emprise développe chez la victimes des troubles psychologiques tel que de l'anxiété, des troubles émotionnels, de la dépression, de l'automutilation, des idées suicidaires ou encore développer des addictions. 
+
+#### Contactez-nous!
 
 _Source:_
 
