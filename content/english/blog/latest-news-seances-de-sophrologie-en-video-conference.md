@@ -10,28 +10,28 @@ title = "LATEST NEWS: Séances de sophrologie en vidéo conférence"
 type = ""
 
 +++
-**Osé oyé du nouveau chez My Harmony !!**
+## **Osé oyé du nouveau chez My Harmony !!**
 
-\#briserlesilence
+###  #briserlesilence
 
-## Mme Annelise Talbot, **sophrologue/relaxologue assure désormais des permanences par vidéo conférence.**
+### Mme Annelise Talbot, **sophrologue/relaxologue assure désormais des permanences par vidéo conférence.**
 
 ### **La sophrologie vous aidera à:**
 
-\- Gérer votre stress et vos émotions
+#### - Gérer votre stress et vos émotions
 
-\- Vous épanouir et à reprendre confiance en vous
+#### - Vous épanouir et à reprendre confiance en vous
 
-\- Vous relaxer et vous détendre
+#### - Vous relaxer et vous détendre
 
 ### **Horaires des permanences:**
 
-Le lundi de 14 h à 15 h.
+#### Le lundi de 14 h à 15 h.
 
-Le vendredi 15h à 16 heures ( mois de septembre)
+#### Le vendredi 15h à 16 heures ( mois de septembre)
 
-Le samedi 10h à 12 heures.
+#### Le samedi 10h à 12 heures.
 
-**Mme Talbot est à votre écoute avec bienveillance et sans jugement.**
+#### **Mme Talbot est à votre écoute avec bienveillance et sans jugement.**
 
 \#Confianceensoi #estimedesoi #bienetre #relaxation #prendreunmomentpoursoi
