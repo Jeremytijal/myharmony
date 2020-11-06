@@ -10,14 +10,16 @@ title = "Appel à la solidarité"
 type = ""
 
 +++
-Prochainement:🧴🪒🧼
+### De novembre à décembre My Harmony lance un appel aux dons. Collecte de produits de première nécessité pour les femmes et les hommes. 
 
-Collecte de produits hygiéniques pour femmes et hommes en situation de précarité et/ou étudiants.
+#### 👨‍🎤 Rasoirs, déodorants, mousses à raser, mouchoirs, dentifrices 
 
-👨‍🎤 Rasoirs, déodorants, mousses à raser, mouchoirs, dentifrices.
+#### 👩‍🎤 Déodorants, protections hygiéniques, cotons tige, gels intimes, mouchoirs. 
 
-👩‍🎤 Déodorants, protections hygiéniques, cotons tige, gels intimes, mouchoirs.
+### Une cagnotte a été lancée pour pouvoir imprimer les notices qui seront traduites en 3 langues allemand, espagnol, anglais et acheter les trousseaux.
 
-✊Pour cette collecte nous avons besoin de vous ! 🤝
+#### ✅ La distribution se fera en centres d'hébergements d'urgences, collèges et lycées, et à toutes personnes qui en fera la demande. Il sera possible de les récupérer par "click & collect". 
 
-![](/images/img-20201010-wa0002.jpg)
+#### C'est seulement grâce à vous que cela sera possible. N'hésitez pas à nous contacter pour plus d'informations sur la collecte ou à visiter l'onglet "Appel aux dons" sur notre site.⬆️⬆️⬆️
+
+#### On compte sur vous 🙏
