@@ -10,12 +10,11 @@ title = "Dès la rentrée, distribution de protections hygiénique"
 type = ""
 
 +++
+#### En Mai dernier, un budget d'un million d'euros a été attribué pour lutter contre la précarité menstruelle.
 
-En Mai dernier, un million d'euros ont été débloqué pour lutter contre la précarité menstruelle.
+#### Dès la rentrée, pour soutenir les étudiantes en difficulté, des distributeurs de protections hygiéniques vont être installés dans les lycées et établissements d'études supérieures. De plus, des distributions auront lieux pour lutter contre cette précarité menstruelle. Ce dispositif a également pour but de venir en aide aux femmes précaires, détenues et sans abris. Souvent oubliées de tous, ces femmes elles aussi on droit à la dignité et à un peu de soutien.
 
-Dès la rentrée, des distributeurs de protections hygiéniques vont être installés dans les lycées et établissements d'études supérieures. De plus, des distributions auront lieux. Ce dispositif a également pour but de venir en aide aux femmes précaires, détenues et sans abris.
-
-"Ensemble, brisons le tabou des règles!"
+#### "Ensemble, brisons le tabou des règles!"
 
 \#StopPrécaritéMenstruelle
 
