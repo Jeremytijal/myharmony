@@ -31,35 +31,37 @@ type = ""
 
 ## Rappelons le:
 
-#### ❌ Les violences psychologiques ne sont pas des disputes de couples... 
+#### ❌ Les violences psychologiques ne sont pas des disputes de couples...
 
-#### Si vous vous sentez: 
+#### Si vous vous sentez:
 
-#### - humilié ou dévalorisé par votre conjoint, en présence ou non d’autres personnes 
+#### - humilié ou dévalorisé par votre conjoint, en présence ou non d’autres personnes
 
-#### - rabaissé systématiquement et ignoré ou dénigré 
+#### - rabaissé systématiquement et ignoré ou dénigré
 
-#### - dans l'incapacité d'émettre quelconque opposition... 
+#### - dans l'incapacité d'émettre quelconque opposition...
 
 #### Si votre conjoint dénigre:
 
-#### - les membres de votre famille 
+#### - les membres de votre famille
 
-#### - vos ami(e)s 
+#### - vos ami(e)s
 
-#### - votre entourage plus large ET petit à petit vous incite à ne plus les voir... 
+#### - votre entourage plus large ET petit à petit vous incite à ne plus les voir...
 
-#### Si votre conjoint surveille: 
+#### Si votre conjoint surveille:
 
-#### - vos dépenses 
+#### - vos dépenses
 
-#### - votre téléphone 
+#### - votre téléphone
 
-#### - vos va et vient... 
+#### - vos va et vient...
 
-#### Ou bien encore si votre conjoint exige de vous que vos lui demandiez une autorisation pour sortir du logement familial 
+#### Ou bien encore si votre conjoint exige de vous que vos lui demandiez une autorisation pour sortir du logement familial
 
-#### ✅ CECI S'APPELLE DE LA VIOLENCE PSYCHOLOGIQUE et elle est punie pas la loi. Il n'est jamais trop tard pour réagir. Nous sommes là pour vous. 
+#### ✅ CECI S'APPELLE DE LA VIOLENCE PSYCHOLOGIQUE et elle est punie pas la loi. Il n'est jamais trop tard pour réagir. Nous sommes là pour vous.
+
+#### ➡️ Victime de harcèlement moral, de mépris, de pressions, d'insultes, de menaces, d'humiliations, de chantages, de hurlements... au sein de votre couple? Réagissez! Nous somme là pour vous.
 
 _Source:_
 
