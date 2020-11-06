@@ -10,13 +10,13 @@ title = "Permanences Juridiques - Violences conjugales"
 type = ""
 
 +++
-#### Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h à 18h Maître Neïra Machi pour tous besoins juridiques.
+#### Retrouvez tous les lundis de 10h à 12h et les vendredis de 16h à 18h Maître Neïra Machi et Maître Amira Kerkar le vendredi de 14h à 15h pour tous besoins juridiques.
 
 #### N'hésitez pas à nous contacter pour plus d'informations.
 
 #### **Petit rappel:**
 
-#### _Mail_: 
+#### _Mail_:
 
 #### associationmyharmony@gmail.com
 
