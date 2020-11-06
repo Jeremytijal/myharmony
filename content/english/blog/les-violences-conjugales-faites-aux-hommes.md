@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Fanny Pacouill"
 bg_image = ""
 categories = []
 date = 2020-10-12T22:00:00Z
@@ -12,7 +12,7 @@ type = ""
 +++
 ### Selon un article publié en janvier 2020, en France chaque année, 82 000 hommes subissent coups, mauvais traitements et/ou atteintes sexuelles au sein de leur couple. Seulement 3% osent porter plainte.
 
-#### Les hommes eux aussi sont victimes de violences conjugales. Cette réalité encore tabou conduit les victimes à se murer dans le silence et à s'isoler.
+#### Les hommes eux aussi sont victimes de violences conjugales. Cette réalité encore tabou conduit les victimes à se murer dans le silence et à s'isoler. Leur parole est rarement entendue. Que ce soit par peur des moqueries, des réactions négatives ou tout simplement de ne pas être crus, les hommes ne sont que 3% à porter plainte. Alors au vu que ces chiffres dérisoires, nous pouvons nous demander combien sont-ils en réalité à souffrir dans le silence?
 
 #### Notre association My Harmony est aussi là pour vous venir en aide. N'hésitez pas à nous contacter. Une aide peut vous être apportée afin de vous aider à retrouver sérénité et harmonie. Vous n'êtes pas seul!
 
