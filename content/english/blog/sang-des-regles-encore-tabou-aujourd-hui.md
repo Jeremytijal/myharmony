@@ -10,6 +10,9 @@ title = "Sang des règles, encore tabou aujourd'hui."
 type = ""
 
 +++
+
+# 🩸Les règles si naturelles, à l'essence même de la vie et pourtant encore de nos jours source de honte, de dégoût, de mépris... Pourquoi ce fluide corporel pourtant au cœur de la vie est-il encore si tabou? Soixante ans de lutte et pourtant encore tant de chemin à parcourir.🩸
+
 ### 🩸🩸🩸"Une fille devient une femme lorsqu’elle a ses premières règles. 🩸Tandis qu’un garçon devient un homme, lorsque son sperme pénètre le corps d’une femme.🍌 Un fluide devient symbole de la honte, pendant que l’autre devient symbole de force.
 
 # Voilà sur quoi notre société est aujourd’hui basée. On apprend aux femmes à avoir honte de leur corps, de ce qu’il produit, alors qu’on encourage les hommes à utiliser leur sexe pour s’affirmer et prendre le pouvoir.\[...\]
