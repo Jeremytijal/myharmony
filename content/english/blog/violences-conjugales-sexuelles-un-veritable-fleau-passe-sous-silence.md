@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-11-10T02:00:00Z
 description = ""
-draft = true
 image = "/images/20201110_151100.jpg"
 tags = []
 title = "Violences conjugales sexuelles, un véritable fléau passé sous silence."
