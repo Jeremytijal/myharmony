@@ -5,7 +5,7 @@ categories = []
 date = 2020-11-10T02:00:00Z
 description = ""
 image = "/images/20201110_151100.jpg"
-tags = []
+tags = ["Consentement", "Stoptabou", "Dignité", "Respect", "Violencesconjugales"]
 title = "Violences conjugales sexuelles, un véritable fléau passé sous silence."
 type = ""
 
