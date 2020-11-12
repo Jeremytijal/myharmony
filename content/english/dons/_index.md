@@ -24,9 +24,10 @@ content2: "Soyons solidaires. \U0001F91D Offrez-nous la possibilité de venir en
   acheter tous ces produits du quotidien qui nous semblent si ordinaires et qui pour
   certain(e)s sont un luxe. \n\n\U0001F51C Cette cagnotte permettra d'imprimer les
   notices qui seront traduites en 3 langues (allemand, espagnol, anglais) et acheter
-  les trousseaux.\n\nSi vous souhaitez aller plus loin et donc appuyer un peu plus
-  votre soutien dans le but de venir en aide à un maximum de personnes faite un don
-  en suivant le lien ⬇️⬇️⬇️\n\nhttps://www.okpal.com/l-association-my-harmony-a-besoin-de-vous/?utm_campaign=01EMQZK8A2Y26AKKEPPKVB7S9T&utm_medium=campaign_success-okpuid_01EMQZJT8H5MJX1S3YYJ2RFASN-20201016&utm_source=share_directlink\n\n\U0001F4A7\"Unie
+  les trousseaux.\n\n\U0001F506Vous trouverez nos boîtes à dons au supermarché Careffour
+  de Chellles et à l'Intermarché de Roissy-en-Brie.\n\nSi vous souhaitez aller plus
+  loin et donc appuyer un peu plus votre soutien dans le but de venir en aide à un
+  maximum de personnes faite un don en suivant le lien ⬇️⬇️⬇️\n\nhttps://www.okpal.com/l-association-my-harmony-a-besoin-de-vous/?utm_campaign=01EMQZK8A2Y26AKKEPPKVB7S9T&utm_medium=campaign_success-okpuid_01EMQZJT8H5MJX1S3YYJ2RFASN-20201016&utm_source=share_directlink\n\n\U0001F4A7\"Unie
   à l'océan, la goutte d'eau demeure.\" - auteur(trice) inconnu(e)\U0001F30A\n\nOn
   compte sur vous \U0001F64F\U0001F3FC\n\n#solidarite #precaritemenstruelle #précarité
   #hygiène #doitàladignite #ensembleonestplusfort"
