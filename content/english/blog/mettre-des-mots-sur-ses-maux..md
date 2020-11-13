@@ -5,7 +5,7 @@ categories = ["violences conjugales"]
 date = 2020-09-06T22:00:00Z
 description = "Permanence psychologique pour personnes victimes de violences"
 image = "/images/pexels-lisa-fotios-3972467.jpg"
-tags = ["permanence aide psychologique violence", "aide psychologique violence", "psychologue violence"]
+tags = ["Ensemblebrisonslesilence", "permanence aide psychologique violence", "aide psychologique violence", "psychologue violence"]
 title = "Mettre des mots sur ses maux - Victimes de violences"
 type = ""
 
@@ -21,3 +21,5 @@ type = ""
 ### En parler c'est un premier pas vers la guérison.
 
 \#ensemblebrisonslesilence
+
+##### _@teokredactionweb_
