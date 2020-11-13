@@ -5,7 +5,7 @@ categories = []
 date = 2020-10-12T22:00:00Z
 description = ""
 image = "/images/img-20201002-wa0003.jpg"
-tags = []
+tags = ["Violencesconjugales", "Stoptabou", "ensembleonestplusfort", "Brisonslesilence"]
 title = "Les violences conjugales touchent aussi les hommes"
 type = ""
 
@@ -16,9 +16,9 @@ type = ""
 
 #### Notre association My Harmony est aussi là pour vous venir en aide. N'hésitez pas à nous contacter. Une aide peut vous être apportée afin de vous aider à retrouver sérénité et harmonie. Vous n'êtes pas seul!
 
-\#brisonslesilence #ensembleonestplusfort #stoptabou #violencesconjugales
+##### _@teokredactionweb_
 
-_Sources:_
+##### _Sources:_
 
 * [https://www-lexpress-fr.cdn.ampproject.org/v/s/www.lexpress.fr/actualite/societe/violences-conjugales-le-tabou-des-hommes-victimes_2115020.amp.html?amp_js_v=a6&_gsa=1&usqp=mq331AQHKAFQArABIA%3D%3D#aoh=16026203607510&referrer=https%3A%2F%2Fwww.google.com&_tf=Source%C2%A0%3A%20%251%24s&share=https%3A%2F%2Fwww.lexpress.fr%2Factualite%2Fsociete%2Fviolences-conjugales-le-tabou-des-hommes-victimes_2115020.html](https://www-lexpress-fr.cdn.ampproject.org/v/s/www.lexpress.fr/actualite/societe/violences-conjugales-le-tabou-des-hommes-victimes_2115020.amp.html?amp_js_v=a6&_gsa=1&usqp=mq331AQHKAFQArABIA%3D%3D#aoh=16026203607510&referrer=https%3A%2F%2Fwww.google.com&_tf=Source%C2%A0%3A%20%251%24s&share=https%3A%2F%2Fwww.lexpress.fr%2Factualite%2Fsociete%2Fviolences-conjugales-le-tabou-des-hommes-victimes_2115020.html "https://www-lexpress-fr.cdn.ampproject.org/v/s/www.lexpress.fr/actualite/societe/violences-conjugales-le-tabou-des-hommes-victimes_2115020.amp.html?amp_js_v=a6&_gsa=1&usqp=mq331AQHKAFQArABIA%3D%3D#aoh=16026203607510&referrer=https%3A%2F%2Fwww.google.com&_tf=Source%C2%A0%3A%20%251%24s&share=https%3A%2F%2Fwww.lexpress.fr%2Factualite%2Fsociete%2Fviolences-conjugales-le-tabou-des-hommes-victimes_2115020.html")
 * [https://www.lemonde.fr/les-decodeurs/article/2015/04/10/hommes-battus-des-chiffres-pour-comprendre-une-realite-meconnue_4613224_4355770.html](https://www.lemonde.fr/les-decodeurs/article/2015/04/10/hommes-battus-des-chiffres-pour-comprendre-une-realite-meconnue_4613224_4355770.html "https://www.lemonde.fr/les-decodeurs/article/2015/04/10/hommes-battus-des-chiffres-pour-comprendre-une-realite-meconnue_4613224_4355770.html")
