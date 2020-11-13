@@ -16,7 +16,7 @@ type = ""
 
 #### "Ensemble, brisons le tabou des règles!"
 
-\#StopPrécaritéMenstruelle
+##### _@teokredactionweb_
 
 _Source:_
 
