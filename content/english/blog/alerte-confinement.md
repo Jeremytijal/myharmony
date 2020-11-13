@@ -37,3 +37,5 @@ type = ""
 ![](/images/img-20201030-wa0014.jpg)
 
 ## Ne laissons pas l'histoire se répéter. Ensemble face aux violences.✊✊🏻✊🏼✊🏽✊🏾✊🏿
+
+##### _@teokredactionweb_
