@@ -5,7 +5,7 @@ categories = []
 date = 2020-09-03T22:00:00Z
 description = "Permanence de sophrologie pour les personnes victimes de violences"
 image = "/images/pexels-artem-beliaikin-1230665.jpg"
-tags = ["aide psychologique violence", "aide violence conjugale", "sophrologie violence conjugale"]
+tags = ["Bienetre", "Relaxation", "aide psychologique violence", "aide violence conjugale", "sophrologie violence conjugale"]
 title = "LATEST NEWS: Séances de sophrologie en vidéo conférence"
 type = ""
 
@@ -30,4 +30,4 @@ type = ""
 
 #### **Mme Talbot est à votre écoute avec bienveillance et sans jugement.**
 
-\#Confianceensoi #estimedesoi #bienetre #relaxation #prendreunmomentpoursoi
+##### @_teokredactionweb_
