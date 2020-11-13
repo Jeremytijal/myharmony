@@ -10,7 +10,6 @@ title = "Sang des règles, encore tabou aujourd'hui."
 type = ""
 
 +++
-
 # 🩸Les règles si naturelles, à l'essence même de la vie et pourtant encore de nos jours source de honte, de dégoût, de mépris... Pourquoi ce fluide corporel pourtant au cœur de la vie est-il encore si tabou? Soixante ans de lutte et pourtant encore tant de chemin à parcourir.🩸
 
 #### _Extrait de l'acticle en lien ci-dessous._
@@ -27,7 +26,9 @@ type = ""
 
 ## 🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸 📣📣📣✊✊🏻✊🏼✊🏽✊🏾✊🏿📣📣📣
 
-**Sources:**
+##### _@teokredactionweb_
+
+##### **Sources:**
 
 **Image:**
 
