@@ -10,27 +10,28 @@ title = "Les violences économiques et administratives, la quatrième facette de
 type = ""
 
 +++
-
-## ⏯ "Les violences économiques sont donc un des éléments constitutifs d'un système d'emprise globale. Elles viennent parachever ce système, avec une volonté totale de maîtrise de l'autre." - Anne Bouillon 
+## ⏯ "Les violences économiques sont donc un des éléments constitutifs d'un système d'emprise globale. Elles viennent parachever ce système, avec une volonté totale de maîtrise de l'autre." - Anne Bouillon
 
 ### Souvent considéré comme "moins grave", ce type de violence est pourtant une arme clé dans le processus d'emprise et de domination. Elles se caractérisent par le non accès (total ou partiel) aux comptes bancaires mais également à tous les comptes administratifs tel que celui de la sécurité sociale, la mutuelle, la CAF etc.
 
-###  ✳ Si votre conjoint(e): 
+### ✳ Si votre conjoint(e):
 
 ### - Contrôle votre argent
 
-### - Vous a bloqué l'accès à vos comptes bancaires 
+### - Vous a bloqué l'accès à vos comptes bancaires
 
-### - Vous oblige à quémender ou négocier de l'argent à chaque fois que vous avez besoin de faire des achats 
+### - Vous oblige à quémender ou négocier de l'argent à chaque fois que vous avez besoin de faire des achats
 
-### - Ou bien qu'il/elle vous a bloqué l'accès à vos comptes administratifs 
+### - Ou bien qu'il/elle vous a bloqué l'accès à vos comptes administratifs
 
-### ➡️ Vous êtes victimes de violences économiques et/ou administratives. 
+### ➡️ Vous êtes victimes de violences économiques et/ou administratives.
 
-#### 📞 **N'attendez plus, réagissez**. 
+#### 📞 **N'attendez plus, réagissez**.
 
-#### My Harmony est là pour vous. Contactez-nous ou bien contactez le 3919 ou le 114 par SMS pour trouver de l'aide. 
+#### My Harmony est là pour vous. Contactez-nous ou bien contactez le 3919 ou le 114 par SMS pour trouver de l'aide.
 
-#### ⬇️Quelques témoignages:⬇️ 
+#### ⬇️Quelques témoignages:⬇️
 
-####  [https://www.slate.fr/story/196552/violences-economiques-administratives-conjugales-masculines-emprise-argent-couple?amp]()
+#### [https://www.slate.fr/story/196552/violences-economiques-administratives-conjugales-masculines-emprise-argent-couple?amp]()
+
+##### @
