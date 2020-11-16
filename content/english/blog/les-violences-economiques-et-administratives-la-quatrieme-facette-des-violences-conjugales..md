@@ -34,4 +34,4 @@ type = ""
 
 #### [https://www.slate.fr/story/196552/violences-economiques-administratives-conjugales-masculines-emprise-argent-couple?amp]()
 
-##### @
+##### @teokredactionweb
