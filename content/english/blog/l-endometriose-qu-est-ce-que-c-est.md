@@ -14,7 +14,7 @@ type = ""
 
 ### 🩸🩸🩸Il s’agit de la présence de tissu endométrial en dehors de la cavité utérine qui subira, lors de chaque cycle menstruel, l’influence des modifications hormonales.
 
-### ➡️ C’est-à-dire, que lors de la menstruation, sous l’effet des contractions utérines, une partie du sang est régurgité dans les trompes pour arriver dans la cavité abdomino-pelvienne. Ce sang contient des cellules endométriales, des fragments de muqueuse utérine, qui, au lieu d’être détruites par le système immunitaire, vont s’implanter puis, sous l’effet des stimulations hormonales ultérieures, proliférer sur les organes de voisinage (péritoine, ovaire, trompe, intestin, vessie, uretère, diaphragme…).
+### ➡️ C’est-à-dire, que lors de la menstruation, sous l’effet des contractions utérines, une partie du sang est régurgité dans les trompes pour arriver dans la cavité abdomino-pelvienne. Ce sang contient des cellules endométriales, des fragments de muqueuse utérine, qui, au lieu d’être détruites par le système immunitaire, vont s’implanter puis, sous l’effet des stimulations hormonales ultérieures, proliférer sur les organes voisins (péritoine, ovaire, trompe, intestin, vessie, uretère, diaphragme…).
 
 ### 🚫 Elle peut être très difficile à vivre au quotidien. Les symptômes ressentis sont nombreux :
 
