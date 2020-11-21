@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-11-20T23:00:00Z
 description = ""
-draft = true
 image = "/images/endo-uterus.png"
 tags = ["tabou", "règles douloureuses", "endométriose"]
 title = "L'endométriose, qu'est-ce que c'est?"
