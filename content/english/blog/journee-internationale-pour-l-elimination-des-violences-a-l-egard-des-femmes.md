@@ -12,7 +12,9 @@ type = ""
 +++
 ### 🕯🕯🕯En cette journée internationale pour l'élimination de la violence à l'égard des femmes, rendons hommage à 3 sœurs, les sœurs Mirabal, symbole de cette lutte et de cette journée.
 
-#### 📌 "Derrière la Journée internationale pour l’élimination de la violence à l’égard des femmes, il y a une tragédie d’une violence sans nom : le 25 novembre 1960, María Teresa, Minerva et Patria Mirabal, trois sœurs originaires de Salcedo, en République dominicaine, étaient sauvagement tuées après s’être opposées au régime du tyran Trujillo."
+> 
+>
+> #### 📌 "Derrière la Journée internationale pour l’élimination de la violence à l’égard des femmes, il y a une tragédie d’une violence sans nom : le 25 novembre 1960, María Teresa, Minerva et Patria Mirabal, trois sœurs originaires de Salcedo, en République dominicaine, étaient sauvagement tuées après s’être opposées au régime du tyran Trujillo."
 
 #### ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
