@@ -18,6 +18,6 @@ type = ""
 
 #### [https://gazettedesfemmes.ca/14159/trois-soeurs-contre-une-dictature/](https://gazettedesfemmes.ca/14159/trois-soeurs-contre-une-dictature/ "https://gazettedesfemmes.ca/14159/trois-soeurs-contre-une-dictature/")
 
-![](/images/20201125_074217.jpg)
+## ♾ Pour aller plus loin dans la solidarité et sensibiliser un maximum de personnes, en ce 25 novembre, Journée Internationale pour l'élimination des violences faites aux femmes, portons toutes et  tous un ruban blanc. 🎗
 
-### ♾ Pour aller plus loin dans la solidarité et sensibiliser un maximum de personnes, en ce 25 novembre, Journée Internationale pour l'élimination des violences faites aux femmes, portons toutes et  tous un ruban blanc. 🎗
+![](/images/20201125_074217.jpg)
