@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-11-26T23:00:00Z
 description = ""
-draft = true
 image = "/images/pexels-andrea-piacquadio-3807733.jpg"
 tags = ["Endométriose", "Règles douloureuses"]
 title = "Règles douloureuses, parlons-en."
@@ -61,7 +60,9 @@ type = "➡️➡️➡️"
 
 #### - Buvez des tisanes à base de plantes reconnues pour leurs vertus thérapeutiques sur les douleurs menstruelles (Camomille, Mélisse, l'Achillée Millefeuille, la Valériane ou encore le Gingembre).
 
-#### - ou bien optez pour les huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang).
+#### - Utilisez des huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang)
+
+#### - Ou bien optez pour l'homeopathie.
 
 ### ⚠️🩸Les douleurs liées aux règles peuvent apparaître dès l’adolescence (dysménorrhée primaire) et sont en général sans gravité; alors que celles survenues plus tard (dysménorrhée secondaire) peuvent être liée à une maladie. Si cela est le cas, il peut s'agir:
 
@@ -78,3 +79,9 @@ type = "➡️➡️➡️"
 #### - d'un changement de contraception hormonale...
 
 #### ⚕ Dans ce cas n'attendez plus, et consultez votre gynécologue.
+
+##### _Sources_:
+
+[https://dansmaculotte.com/fr/blog/comment-soulager-regles-douloureuses-n148](https://dansmaculotte.com/fr/blog/comment-soulager-regles-douloureuses-n148 "https://dansmaculotte.com/fr/blog/comment-soulager-regles-douloureuses-n148")
+
+[https://www.ameli.fr/savoie/assure/sante/themes/regles-douloureuses/que-faire-quand-consulter](https://www.ameli.fr/savoie/assure/sante/themes/regles-douloureuses/que-faire-quand-consulter "https://www.ameli.fr/savoie/assure/sante/themes/regles-douloureuses/que-faire-quand-consulter")
