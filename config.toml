@@ -160,6 +160,8 @@ link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
+link = "plugins/lunar/lunar.css"
+[[params.plugins.css]]
 link = "plugins/Ionicons/css/ionicons.min.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
@@ -169,6 +171,12 @@ link = "plugins/slick/slick.css"
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/lunar/lunar.js"
+[[params.plugins.js]]
+link = "plugins/lunar/popper.min.js"
+[[params.plugins.js]]
+link = "plugins/lunar/demo.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
