@@ -12,7 +12,7 @@ type = "➡️➡️➡️"
 +++
 ## 🩸💊 Les douleurs menstruelles (ou la dysménorrhée) accompagnent les règles avant, pendant ou après celles-ci.
 
-### ❇ Ces douleurs sont généralement ressenties dans le bas du ventre, mais peuvent également s'étendrent au dos et aux cuisses.
+### ❇ Ces douleurs sont généralement ressenties dans le bas du ventre, mais peuvent également s'étendre au dos et aux cuisses.
 
 ### 🔴 Elles peuvent s'accompagner :
 
