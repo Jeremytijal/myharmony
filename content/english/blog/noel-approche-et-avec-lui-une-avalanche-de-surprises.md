@@ -28,3 +28,5 @@ type = ""
 ### 🚦Alors n'attendez plus, sortez votre plus beau sourire et à vos photos! :)⏳
 
 ![](/images/img-20201127-wa0001.jpg)
+
+##### _@teokredaction_
