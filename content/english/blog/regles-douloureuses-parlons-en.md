@@ -5,74 +5,76 @@ categories = []
 date = 2020-11-26T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/pexels-andrea-piacquadio-3807733.jpg"
 tags = ["Endométriose", "Règles douloureuses"]
 title = "Règles douloureuses, parlons-en."
-type = ""
+type = "➡️➡️➡️"
 
 +++
 ## 🩸💊 Les douleurs menstruelles (ou la dysménorrhée) accompagnent les règles avant, pendant ou après celles-ci.
 
-### Ces douleurs sont généralement ressenties dans le bas du ventre, mais peuvent également s'étendre au dos et aux cuisses. Elles peuvent s'accompagner :
+### ❇ Ces douleurs sont généralement ressenties dans le bas du ventre, mais peuvent également s'étendre au dos et aux cuisses. 
 
-#### - d'un syndrome prémenstruel débutant quelques jours avant les règles et associant des maux de tête 
+### 🔴 Elles peuvent s'accompagner :
 
-#### - d'un gonflement et de douleurs des seins 
+#### - d'un syndrome prémenstruel débutant quelques jours avant les règles et associant des maux de tête
 
-#### - de ballonnements abdominaux 
+#### - d'un gonflement et de douleurs des seins
 
-#### - d'œdèmes des extrémités 
+#### - de ballonnements abdominaux
 
-#### - d'une irritabilité 
+#### - d'œdèmes des extrémités
 
-#### - de nausées, vomissements 
+#### - d'une irritabilité
 
-#### - de migraines 
+#### - de nausées, vomissements
 
-#### - de diarrhée 
+#### - de migraines
 
-#### - de fatigue 
+#### - de diarrhée
 
-#### - de sensations de malaise 
+#### - de fatigue
 
-#### - d'une envie d’uriner plus présente que d’habitude 
+#### - de sensations de malaise
 
-#### - d'une transpiration plus importante 
+#### - d'une envie d’uriner plus présente que d’habitude
 
-#### - de l'acné 
+#### - d'une transpiration plus importante
 
-#### - des envies de grignotages... 
+#### - de l'acné
 
-### Il existe plusieurs moyens pour les soulager (sans passer par la case médicament): 
+#### - des envies de grignotages...
 
-#### - Faites vous couler un bon bain chaud, la chaleur aidera à détendre les muscles 
+### ➡️ Il existe plusieurs moyens pour les soulager (sans passer par la case médicament):
 
-#### - Dormez suffisamment 
+#### - Faites vous couler un bon bain chaud, la chaleur aidera à détendre les muscles
 
-#### - Pratiquez une activité sportive légère type yoga ou allez vous balader à l'extérieur 
+#### - Dormez suffisamment
 
-#### - Appliquez une bouillotte chaude sur la zone douloureuse 
+#### - Pratiquez une activité sportive légère type yoga ou allez vous balader à l'extérieur
 
-#### - Mangez sainement et diminuez le café, le thé et le sel 
+#### - Appliquez une bouillotte chaude sur la zone douloureuse
 
-#### - Diminuez ou suspendez votre consommation de tabac et d’alcool 
+#### - Mangez sainement et diminuez le café, le thé et le sel
 
-#### - Buvez des tisanes à base de plantes reconnues pour leurs vertus thérapeutiques sur les douleurs menstruelles (Camomille, Mélisse, l'Achillée Millefeuille, la Valériane ou encore le Gingembre). 
+#### - Diminuez ou suspendez votre consommation de tabac et d’alcool
 
-#### - ou bien optez pour les huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang). 
+#### - Buvez des tisanes à base de plantes reconnues pour leurs vertus thérapeutiques sur les douleurs menstruelles (Camomille, Mélisse, l'Achillée Millefeuille, la Valériane ou encore le Gingembre).
 
-### Les douleurs liées aux règles peuvent apparaître dès l’adolescence (dysménorrhée primaire) et sont en général sans gravité; alors que celles survenues plus tard (dysménorrhée secondaire) peuvent être liée à une maladie. Si cela est le cas, il peut s'agir: 
+#### - ou bien optez pour les huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang).
 
-#### - d'une endométriose 
+### ⚠️🩸Les douleurs liées aux règles peuvent apparaître dès l’adolescence (dysménorrhée primaire) et sont en général sans gravité; alors que celles survenues plus tard (dysménorrhée secondaire) peuvent être liée à une maladie. Si cela est le cas, il peut s'agir:
 
-#### - d’une adénomyose 
+#### - d'une endométriose
 
-#### - d'un fibrome utérin 
+#### - d’une adénomyose
 
-#### - de polypes de l'endomètre utérin 
+#### - d'un fibrome utérin
 
-#### - d'un stérilet 
+#### - de polypes de l'endomètre utérin
 
-#### - d'un changement de contraception hormonale... 
+#### - d'un stérilet
 
-#### Dans ce cas n'attendez plus, et consultez votre gynécologue.
+#### - d'un changement de contraception hormonale...
+
+#### ⚕ Dans ce cas n'attendez plus, et consultez votre gynécologue.
