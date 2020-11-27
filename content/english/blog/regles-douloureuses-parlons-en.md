@@ -62,7 +62,7 @@ type = "➡️➡️➡️"
 
 #### - Utilisez des huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang)
 
-#### - Ou bien optez pour l'homeopathie.
+#### - Ou bien optez pour l'homéopathie.
 
 ### ⚠️🩸Les douleurs liées aux règles peuvent apparaître dès l’adolescence (dysménorrhée primaire) et sont en général sans gravité; alors que celles survenues plus tard (dysménorrhée secondaire) peuvent être liée à une maladie. Si cela est le cas, il peut s'agir:
 
