@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = "/images/img-20201127-wa0005.jpg"
 tags = ["Concours photo", "MHphotonoel", "Cadeaux", "Noël", "Calendrier de l'avent"]
-title = "Noël approche, et avec lui une avalanche de surprises!"
+title = "Noël approche et avec lui une avalanche de surprises!"
 type = ""
 
 +++
@@ -29,4 +29,4 @@ type = ""
 
 ![](/images/img-20201127-wa0001.jpg)
 
-##### _@teokredaction_
+##### _@teokredactionweb_
