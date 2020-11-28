@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-11-26T23:00:00Z
 description = ""
-draft = true
 image = "/images/img-20201127-wa0005.jpg"
 tags = ["Concours photo", "MHphotonoel", "Cadeaux", "Calendrier de l'avent", "Noël"]
 title = "Noël approche et avec lui une avalanche de surprises!"
