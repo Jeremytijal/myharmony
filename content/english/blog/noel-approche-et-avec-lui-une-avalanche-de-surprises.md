@@ -14,7 +14,7 @@ type = ""
 
 ## 🧣 Noël approchant à grand pas, nous avons décidé d'apporter notre contribution au remplissage de la hotte du Père-Noël! Mais avant cela, il va nous falloir un peu d'huile de coude de votre part. 🧤
 
-### 📪 Pour patienter jusqu'à LA livraison de l'année, orchestrée par nos chers amis Rudolf et Santa, nous mettons en place un calendrier de l'avent. Il vous faudra guetter nos réseaux pour découvrir ce qui se cache derrière chaque jour. 🗓
+### 🦌🛷Pour patienter jusqu'à LA livraison de l'année, orchestrée par nos chers amis Rudolf et Santa, nous mettons en place un calendrier de l'avent. Il vous faudra guetter nos réseaux pour découvrir ce qui se cache derrière chaque jour. 🗓
 
 ### 🎁 Et comme chez My Harmony une surprise n'arrive jamais seule, nous avons décidé de vous mettre à l'honneur le 24 décembre. Pour se faire, nous organisons un concours photo! 📸
 
