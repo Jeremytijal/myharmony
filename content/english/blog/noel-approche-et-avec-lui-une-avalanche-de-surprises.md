@@ -28,6 +28,4 @@ type = ""
 
 ### 🚦Alors n'attendez plus, sortez votre plus beau bonnet et à vos photos! :)⏳
 
-![](/images/img-20201127-wa0005.jpg)
-
 ##### _@teokredactionweb_
