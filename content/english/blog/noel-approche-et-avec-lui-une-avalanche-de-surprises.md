@@ -10,7 +10,7 @@ title = "Noël approche et avec lui une avalanche de surprises!"
 type = ""
 
 +++
-# 🤶 Ho ho h! 🎅
+# 🤶 Ho ho ho! 🎅
 
 ## 🧣 Noël approchant à grand pas, nous avons décidé d'apporter notre contribution au remplissage de la hotte du Père-Noël! Mais avant cela, il va nous falloir un peu d'huile de coude de votre part. 🧤
 
@@ -20,7 +20,7 @@ type = ""
 
 ### **🎄Le principe est simple: Un bonnet de Père ou Mère-Noël/le + une idée fun et délirante = le gagnant du concours! 🥇**
 
-### 🏆Celui ou celle qui nous enverra la photo la plus rigolote remportera un super coffret beauté harmonisant de la marque "Rituals of Ayurveda" d'une valeur de 39,90€ contenant une mousse de douche (200ml), un gommage pour le corps (450g), crème pour le corps (220 ml) et des bâtonnets parfumés.🧴
+### 🏆Celui ou celle qui nous enverra la photo la plus rigolote verr sa photo postée le jour du réveillon et  remportera un super coffret beauté harmonisant de la marque "Rituals of Ayurveda" d'une valeur de 39,90€ contenant une mousse de douche (200ml), un gommage pour le corps (450g), crème pour le corps (220 ml) et des bâtonnets parfumés.🧴
 
 ### ☃️Pour se faire, postez votre photo sur les réseaux avec le hashtag
 
