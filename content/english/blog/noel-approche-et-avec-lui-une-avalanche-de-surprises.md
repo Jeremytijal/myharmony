@@ -22,7 +22,7 @@ type = ""
 
 ### 🏆Celui ou celle qui nous enverra la photo la plus rigolote remportera un super coffret beauté harmonisant de la marque "Rituals of Ayurveda" d'une valeur de 39,90€ contenant une mousse de douche (200ml), un gommage pour le corps (450g), crème pour le corps (220 ml) et des bâtonnets parfumés.🧴
 
-### ☃️Pour se faire, postez votre photos sur les réseaux avec le hashtag ➡️ #MHphotonoel ⬅️
+### ☃️Pour se faire, postez votre photo sur les réseaux avec le hashtag ➡️ #MHphotonoel ⬅️
 
 ### 🚦Alors n'attendez plus, sortez votre plus beau bonnet et à vos photos! :)⏳
 
