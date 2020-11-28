@@ -10,7 +10,7 @@ title = "Noël approche et avec lui une avalanche de surprises!"
 type = ""
 
 +++
-# 🎅 Oh oh oh! ❄
+# 🤶 Oh oh oh! 🎅
 
 ## 🧣 Noël approchant à grand pas, nous avons décidé d'apporter notre contribution au remplissage de la hotte du Père-Noël! Mais avant cela, il va nous falloir un peu d'huile de coude de votre part. 🧤
 
