@@ -5,7 +5,7 @@ categories = []
 date = 2020-11-27T23:00:00Z
 description = ""
 image = "/images/img-20201127-wa0005.jpg"
-tags = []
+tags = ["Concours photo", "Calendrier de l'avent", "MHphotonoel"]
 title = "Règlement du concours photo"
 type = ""
 
