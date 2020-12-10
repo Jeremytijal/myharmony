@@ -1,9 +1,9 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = ["Violences administratives", "Violences économiques"]
+categories = ["Violences conjugales", "Violences administratives", "Violences économiques"]
 date = 2020-11-15T23:00:00Z
-description = ""
+description = "Les violences économiques et administratives, une arme clé dans le processus d'emprise et de domination."
 image = "/images/20201116_094023.jpg"
 tags = ["Soutien", "Solidarité", "Violenceseconomiques", "violencesadministratives", "stopviolencesfaitesauxfemmes"]
 title = "Les violences économiques et administratives, la quatrième facette des violences conjugales. "
