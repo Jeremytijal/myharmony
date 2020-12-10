@@ -3,9 +3,9 @@ author = "Fanny Pacouill"
 bg_image = ""
 categories = []
 date = 2020-11-24T23:00:00Z
-description = ""
+description = "hommage aux soeurs Mirabal, symbole de la lutte pour l'élimination de la violence à l'égard des femmes"
 image = "/images/img-20201124-wa0004.jpg"
-tags = ["Journée internationale", "Stop violences faites aux femmes", "Sœurs Mirabal"]
+tags = ["Journée internationale pour l’élimination de la violence à l’égard des femmes", "Journée internationale", "Stop violences faites aux femmes", "Sœurs Mirabal"]
 title = "Journée Internationale pour l'élimination des violences à l'égard des femmes"
 type = ""
 
