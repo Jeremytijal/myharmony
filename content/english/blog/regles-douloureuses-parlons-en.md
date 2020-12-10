@@ -3,11 +3,11 @@ author = "Fanny Pacouill"
 bg_image = ""
 categories = []
 date = 2020-11-26T23:00:00Z
-description = ""
+description = "Sensibilisation à l'endométriose et aux règles doulouses"
 image = "/images/pexels-andrea-piacquadio-3807733.jpg"
 tags = ["Endométriose", "Règles douloureuses"]
 title = "Règles douloureuses, parlons-en."
-type = "➡️➡️➡️"
+type = ""
 
 +++
 ## 🩸💊 Les douleurs menstruelles (ou la dysménorrhée) accompagnent les règles avant, pendant ou après celles-ci.
