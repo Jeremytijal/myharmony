@@ -1,7 +1,7 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = []
+categories = ["Violences conjugales"]
 date = 2020-09-03T22:00:00Z
 description = "Permanence de sophrologie pour les personnes victimes de violences"
 image = "/images/pexels-artem-beliaikin-1230665.jpg"

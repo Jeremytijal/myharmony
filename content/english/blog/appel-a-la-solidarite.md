@@ -1,11 +1,11 @@
 +++
 author = "Pacouill Fanny"
 bg_image = ""
-categories = []
+categories = ["précarité menstruelle"]
 date = 2020-10-09T22:00:00Z
-description = ""
+description = "Appel aux dons : collecte de produits de première nécessité pour les femmes et les hommes"
 image = "/images/img-20201104-wa0002.jpg"
-tags = []
+tags = ["collectedeproduitsdepremierenécessité", "appelauxdons", "précaritémenstruelle", "stroppracaritémenstruelle"]
 title = "Appel à la solidarité"
 type = ""
 

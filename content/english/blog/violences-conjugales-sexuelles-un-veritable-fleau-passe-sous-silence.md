@@ -1,7 +1,7 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = []
+categories = ["Violences conjugales"]
 date = 2020-11-10T02:00:00Z
 description = "Quand peut-on parler de violences conjugales sexuelles ?"
 image = "/images/20201110_151100.jpg"

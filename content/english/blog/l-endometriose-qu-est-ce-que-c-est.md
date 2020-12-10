@@ -1,7 +1,7 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = []
+categories = ["Sensibilisation"]
 date = 2020-11-20T23:00:00Z
 description = "Sensibilisation à l'endométriose"
 image = "/images/endo-uterus.png"

@@ -1,11 +1,11 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = []
+categories = ["précarité menstruelle"]
 date = 2020-08-30T22:00:00Z
 description = "Dès la rentrée, des distributeurs de protections hygiéniques vont être installés dans les lycées et établissements d'études supérieurs."
 image = "/images/pexels-karolina-grabowska-4238999.jpg"
-tags = ["précarité menstruelle"]
+tags = ["stroppracaritémenstruelle", "précarité menstruelle"]
 title = "Dès la rentrée, distribution de protections hygiénique"
 type = ""
 
