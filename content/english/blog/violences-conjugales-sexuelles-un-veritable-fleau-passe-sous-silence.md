@@ -3,9 +3,9 @@ author = "Fanny Pacouill"
 bg_image = ""
 categories = []
 date = 2020-11-10T02:00:00Z
-description = ""
+description = "Quand peut-on parler de violences conjugales sexuelles ?"
 image = "/images/20201110_151100.jpg"
-tags = ["Consentement", "Stoptabou", "Dignité", "Respect", "Violencesconjugales"]
+tags = ["violences conjugales", "violences sexuelles", "Consentement", "Stoptabou", "Dignité", "Respect", "Violencesconjugales"]
 title = "Violences conjugales sexuelles, un véritable fléau passé sous silence."
 type = ""
 
