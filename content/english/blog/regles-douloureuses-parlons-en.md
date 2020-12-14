@@ -3,84 +3,84 @@ author = "Fanny Pacouill"
 bg_image = ""
 categories = []
 date = 2020-11-26T23:00:00Z
-description = "Sensibilisation à l'endométriose et aux règles doulouses"
+description = "Découvrez notre article de sensibilisation à l'endométriose et aux règles douloureuses"
 image = "/images/pexels-andrea-piacquadio-3807733.jpg"
 tags = ["Endométriose", "Règles douloureuses"]
 title = "Règles douloureuses, parlons-en."
 type = ""
 
 +++
-## 🩸💊 Les douleurs menstruelles (ou la dysménorrhée) accompagnent les règles avant, pendant ou après celles-ci.
+# 🩸💊 Les douleurs menstruelles (ou la dysménorrhée) accompagnent les règles avant, pendant ou après celles-ci.
 
-### ❇ Ces douleurs sont généralement ressenties dans le bas du ventre, mais peuvent également s'étendre au dos et aux cuisses.
+❇ Ces douleurs sont généralement ressenties dans le bas du ventre, mais peuvent également s'étendre au dos et aux cuisses.
 
-### 🔴 Elles peuvent s'accompagner :
+## 🔴 Elles peuvent s'accompagner :
 
-#### - d'un syndrome prémenstruel débutant quelques jours avant les règles et associant des maux de tête
+\- d'un syndrome prémenstruel débutant quelques jours avant les règles et associant des maux de tête
 
-#### - d'un gonflement et de douleurs des seins
+\- d'un gonflement et de douleurs des seins
 
-#### - de ballonnements abdominaux
+\- de ballonnements abdominaux
 
-#### - d'œdèmes des extrémités
+\- d'œdèmes des extrémités
 
-#### - d'une irritabilité
+\- d'une irritabilité
 
-#### - de nausées, vomissements
+\- de nausées, vomissements
 
-#### - de migraines
+\- de migraines
 
-#### - de diarrhée
+\- de diarrhée
 
-#### - de fatigue
+\- de fatigue
 
-#### - de sensations de malaise
+\- de sensations de malaise
 
-#### - d'une envie d’uriner plus présente que d’habitude
+\- d'une envie d’uriner plus présente que d’habitude
 
-#### - d'une transpiration plus importante
+\- d'une transpiration plus importante
 
-#### - de l'acné
+\- de l'acné
 
-#### - des envies de grignotages...
+\- des envies de grignotages...
 
-### ➡️ Il existe plusieurs moyens pour les soulager (sans passer par la case médicament):
+## ➡️ Il existe plusieurs moyens pour les soulager (sans passer par la case médicament):
 
-#### - Faites vous couler un bon bain chaud, la chaleur aidera à détendre les muscles
+\- Faites vous couler un bon bain chaud, la chaleur aidera à détendre les muscles
 
-#### - Dormez suffisamment
+\- Dormez suffisamment
 
-#### - Pratiquez une activité sportive légère type yoga ou allez vous balader à l'extérieur
+\- Pratiquez une activité sportive légère type yoga ou allez vous balader à l'extérieur
 
-#### - Appliquez une bouillotte chaude sur la zone douloureuse
+\- Appliquez une bouillotte chaude sur la zone douloureuse
 
-#### - Mangez sainement et diminuez le café, le thé et le sel
+\- Mangez sainement et diminuez le café, le thé et le sel
 
-#### - Diminuez ou suspendez votre consommation de tabac et d’alcool
+\- Diminuez ou suspendez votre consommation de tabac et d’alcool
 
-#### - Buvez des tisanes à base de plantes reconnues pour leurs vertus thérapeutiques sur les douleurs menstruelles (Camomille, Mélisse, l'Achillée Millefeuille, la Valériane ou encore le Gingembre).
+\- Buvez des tisanes à base de plantes reconnues pour leurs vertus thérapeutiques sur les douleurs menstruelles (Camomille, Mélisse, l'Achillée Millefeuille, la Valériane ou encore le Gingembre).
 
-#### - Utilisez des huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang)
+\- Utilisez des huiles essentielles ( Sauge sclarée, Estragon, Clou de grifloe, Menthe poivrée ou encore le Ylang-Ylang)
 
-#### - Ou bien optez pour l'homéopathie.
+\- Ou bien optez pour l'homéopathie.
 
-### ⚠️🩸Les douleurs liées aux règles peuvent apparaître dès l’adolescence (dysménorrhée primaire) et sont en général sans gravité; alors que celles survenues plus tard (dysménorrhée secondaire) peuvent être liée à une maladie. Si cela est le cas, il peut s'agir:
+## ⚠️🩸Les douleurs liées aux règles peuvent apparaître dès l’adolescence (dysménorrhée primaire) et sont en général sans gravité; alors que celles survenues plus tard (dysménorrhée secondaire) peuvent être liée à une maladie. Si cela est le cas, il peut s'agir:
 
-#### - d'une endométriose
+\- d'une endométriose
 
-#### - d’une adénomyose
+\- d’une adénomyose
 
-#### - d'un fibrome utérin
+\- d'un fibrome utérin
 
-#### - de polypes de l'endomètre utérin
+\- de polypes de l'endomètre utérin
 
-#### - d'un stérilet
+\- d'un stérilet
 
-#### - d'un changement de contraception hormonale...
+\- d'un changement de contraception hormonale...
 
-#### ⚕ Dans ce cas n'attendez plus, et consultez votre gynécologue.
+⚕ Dans ce cas n'attendez plus, et consultez votre gynécologue.
 
-##### _Sources_:
+_Sources_:
 
 [https://dansmaculotte.com/fr/blog/comment-soulager-regles-douloureuses-n148](https://dansmaculotte.com/fr/blog/comment-soulager-regles-douloureuses-n148 "https://dansmaculotte.com/fr/blog/comment-soulager-regles-douloureuses-n148")
 
