@@ -1,11 +1,11 @@
 +++
 author = ""
 bg_image = "/images/portfolio/work6.jpg"
-categories = []
+categories = ["Violences conjugales"]
 date = 2020-10-11T22:00:00Z
-description = ""
+description = "Permanence psychologique pour personnes victimes de violences"
 image = ""
-tags = ["brisonslesilence"]
+tags = ["permanencepsy", "brisonslesilence"]
 title = "Nouvelle permanence psy "
 type = ""
 
