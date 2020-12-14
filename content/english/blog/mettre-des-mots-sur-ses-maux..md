@@ -10,16 +10,16 @@ title = "Mettre des mots sur ses maux - Victimes de violences"
 type = ""
 
 +++
-### Du nouveau chez My Harmony!
+Du nouveau chez My Harmony!
 
-#### La psychologue Mme Maya Thomé assurera des permanences en visioconférence.
+La psychologue Mme Maya Thomé assurera des permanences en visioconférence.
 
-### **Horaires des permanences:**
+**Horaires des permanences:**
 
-#### Le samedi et dimanche de 14 heures à 19 heures.
+Le samedi et dimanche de 14 heures à 19 heures.
 
-### En parler c'est un premier pas vers la guérison.
+En parler c'est un premier pas vers la guérison.
 
 \#ensemblebrisonslesilence
 
-##### _@teokredactionweb_
+_@teokredactionweb_
