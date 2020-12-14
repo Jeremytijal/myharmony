@@ -1,9 +1,9 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = []
+categories = ["AssoMyHarmony"]
 date = 2020-11-26T23:00:00Z
-description = "Concours photo, Noël 2020"
+description = "My Harmony organise un concours photo de Noël. Découvrez les cadeaux à gagner !"
 image = "/images/img-20201127-wa0001.jpg"
 tags = ["Concours photo", "MHphotonoel", "Cadeaux", "Calendrier de l'avent", "Noël"]
 title = "Noël approche et avec lui une avalanche de surprises!"
