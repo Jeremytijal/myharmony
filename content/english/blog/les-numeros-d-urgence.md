@@ -10,11 +10,11 @@ title = "Les numéros d'urgence - Victimes de violences"
 type = ""
 
 +++
-#### Femmes, hommes personnes transgenres et non binaires subissant des violences physiques, verbales, psychologiques et/ou sexuelles de la part de son conjoint ou concubin est protégée par la loi.
+# Femmes, hommes personnes transgenres et non binaires subissant des violences physiques, verbales, psychologiques et/ou sexuelles de la part de son conjoint ou concubin sont protégés par la loi.
 
-#### Il est bon de rappeler que la victime se mette ou soit mise à l’abri avant même que les poursuites pénales ne soient engagées.
+Il est bon de rappeler que la victime se mette ou soit mise à l’abri avant même que les poursuites pénales ne soient engagées.
 
-#### Pour cela, le gouvernement a mis en place des numéros d'appel d'urgence gratuits que tout le monde devrait connaître.
+Pour cela, le gouvernement a mis en place des numéros d'appel d'urgence gratuits que tout le monde devrait connaître.
 
 * **112** : Numéros d'appel d'urgence européen
 * **15**: Le SAMU
