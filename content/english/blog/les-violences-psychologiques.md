@@ -1,9 +1,9 @@
 +++
 author = "Fanny Pacouill"
 bg_image = ""
-categories = []
+categories = ["Violences conjugales"]
 date = 2020-11-04T23:00:00Z
-description = ""
+description = "Les violences psychologiques détruisent petit à petit la victime de l'intérieur. Contrairement aux violences physiques elle ne se voient pas forcément, mais tout comme elles, les conséquences qui en découlent sont terribles."
 image = "/images/woman.jpg"
 tags = ["stopviolence", "brisonslestabous", "violencespsychologiques", "violencesdomestiques", "Violencesconjugales"]
 title = "Les violences psychologiques"
