@@ -15,7 +15,7 @@ type = ""
 * Venir en aide aux femmes et étudiantes victimes de précarité menstruelle.
 * Droit à la dignité: My Harmony s'engage, avec la participation des bénévoles, à distribuer des kit sérénity.
 
-> # Un mois, une femme, un kit.
+# Un mois, une femme, un kit.
 
 Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).
 
