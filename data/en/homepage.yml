@@ -123,3 +123,17 @@ cta2:
     enable: true
     label: Dons
     link: https://www.donnerenligne.fr/my-harmony/faire-un-don/2
+partenaires:
+  enable: true
+  title: Nos partenaires
+  description: ''
+  partenaires_item:
+  - image: images/olatanea.jpg
+    name: Association Ola ta Nea
+    content: Kits de survie pour SDF
+    texte: Nombre de kits hygiène 20 OFFERTS pour les victimes suivies par MyHarmony
+    site: "Site web : olatanea.com"
+  - image: images/4murs.jpg
+    name: Entre 4 murs
+    content: 'Groupe de 11 étudiantes, danseurs professionnels et amateurs sont amenés à interpreter le théme des violences conjugales. En janvier ils publiront leur vidéo'
+    texte: 'Sous certaines vidéo, entre 4 murs soutien My Harmony.'
