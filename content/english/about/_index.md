@@ -42,7 +42,7 @@ texte5: Notre association a aussi pour but de sensibiliser la population autour 
   qui en ont besoin.
 soustitre6: NOS VALEURS
 texte6: La solidarité, pour favoriser la sociabilisation et la mixité
-texte61: La dignité, pour le soutien et le droit à la dignité de chaque indi.
+texte61: La dignité, pour le soutien et le droit à la dignité de chaque individu.
 texte62: L'harmonie, pour aider les personnes dans leur épanouissement personnel.
 soustitre7: NOS PERMANENCES
 texte7: Nous mettons à votre disposition des permanences en visioconférence avec des
