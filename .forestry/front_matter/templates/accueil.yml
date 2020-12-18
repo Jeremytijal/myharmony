@@ -182,5 +182,37 @@ fields:
     - type: text
       name: content
       label: content
+- type: field_group
+  name: Partenaires
+  label: partenaires
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: partenaires_item
+    label: partenaires_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: content
+      label: content
+    - type: text
+      name: texte
+      label: texte
+    - type: text
+      name: site
+      label: site
 pages:
 - data/en/homepage.yml

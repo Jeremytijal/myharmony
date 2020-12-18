@@ -1,4 +1,6 @@
 <!-- Pop-up -->
+{{ $data := index site.Data site.Language.Lang }}
+{{ with $data.popup.popup }}
 <div id="popup" class="modal">
        <div class="modal-dialog modal-dialog-centered  ">
                 <div class="modal-content section-modal">
@@ -7,21 +9,27 @@
                       <span aria-hidden="true">&times;</span>
                   </button>
                  <div class="modal-header text-center">
-                      <h2 style="color:white"> Victimes de violences conjugales ?</h2>
+                      <h2 style="color:white"> {{ .titre | markdownify }}</h2>
                        </div>
                     <div class="modal-body text-center">
-                      <p style="color:white"> Les professionnels sont mobilisés pour vous aider
-                      39 19 N° anonyme et gratuit</p>
+                      <p style="color:white"> {{ .texteA | markdownify }}</p>
 <p style="color:white">
-Si vous ne pouvez pas parler composez un SMS au 114 ou rendez-vous au comptoir d'une pharmacie et annoncez "masque 19".</p>
+{{ .texteB | markdownify }}</p>
+<p style="color:white">
+{{ .texteC | markdownify }}</p>
+<p style="color:white">
+{{ .texteD | markdownify }}</p>
+<p style="color:white">
+{{ .texteE | markdownify }}</p>
                       <p style="color:white">
-                      Nous écrire Associationmyharmony@gmail.com ou par le formulaire de contact.
+                      {{ .texteF  }}
                       </p>
                        </div>
                     <div class="modal-footer">
-                      <p style="color:white"> Brisez le silence..</p>
+                      <p style="color:white"> {{ .texteG | markdownify }}</p>
                        </div>
 
                 </div>
        </div>
 </div>
+{{ end }}
