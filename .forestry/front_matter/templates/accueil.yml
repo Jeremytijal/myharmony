@@ -214,5 +214,3 @@ fields:
     - type: text
       name: site
       label: site
-pages:
-- data/en/homepage.yml
