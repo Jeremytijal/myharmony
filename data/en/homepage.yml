@@ -135,10 +135,14 @@ partenaires:
     site: 'Site web : olatanea.com'
   - image: images/4murs.jpg
     name: Entre 4 murs
-    content: Groupe de 11 étudiantes, danseurs professionnels et amateurs sont amenés
-      à interpreter le théme des violences conjugales. En janvier ils publiront leur
-      vidéo
-    texte: Sous certaines vidéo, entre 4 murs soutien My Harmony.
+    content: Cette association créée par 11 étudiantes de l’ICART Paris, composée
+      de danseuses et danseurs professionnel(le)s ou amateur(trice)s dénonce les violences
+      conjugales à travers la danse. Utilisant divers styles de danses, ils abordent
+      les violences conjugales autrement qu’avec les mots afin de sensibiliser un
+      maximum de personnes à ce fléau. Leurs chorégraphies nous content l’histoire
+      de ces victimes.  Grâce à eux, notre message atteint d’autres horizons.  .
+    texte: Retrouvez leur travail et leurs partenariats sur leur site entre4mursprod.fr
+      ou bien sur les réseaux sociaux. Soutenez-les
     site: ''
 Partenaires:
   enable: false
