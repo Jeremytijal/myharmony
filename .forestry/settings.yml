@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: data/en/popup.yml
+  label: Pop Up
+  match: "**/*"
+- type: document
   path: content/english/dons/_index.md
   label: Appels aux dons
 - type: document
