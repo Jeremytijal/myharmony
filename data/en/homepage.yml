@@ -130,9 +130,18 @@ partenaires:
   partenaires_item:
   - image: images/olatanea.jpg
     name: Association Ola ta Nea
-    content: Kits de survie pour SDF
-    texte: Nombre de kits hygiène 20 OFFERTS pour les victimes suivies par MyHarmony
-    site: 'Site web : olatanea.com'
+    content: 'Cette entreprise 100% solidaire vient en aide aux SDF. Elle confectionne
+      des kits de survie composés de produits d’hygiène, de secours et de survie.
+      Leurs kits connaissent un franc succès et apportent une aide précieuse à bon
+      nombre de personnes en situation de précarité extrême.  De plus, cette entreprise
+      veut apporter une solution durable à ces personnes. Pour cela, elle a mis en
+      place diverses formations afin de les aider pour une embauche future. L’entreprise
+      elle-même espère recruter dans un premier temps deux personnes cette année et
+      voir très vitre ce chiffre à la hausse au fil du temps.  '
+    texte: Grâce à leur don de 20 kits d'hygiène, My Harmony va pouvoir accentuer
+      son soutien aux victimes suivies par l'association.
+    site: Soutenez cette entreprise 100% solidaire en les suivant sur les réseaux
+      ou via leur site internet sur https://olatanea.com/ .
   - image: images/4murs.jpg
     name: Entre 4 murs
     content: Cette association créée par 11 étudiantes de l’ICART Paris, composée
