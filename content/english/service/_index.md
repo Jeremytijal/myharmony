@@ -45,7 +45,7 @@ Un mois, une femme, un kit.
 
 ![/images/image-regles.png](https://app.forestry.io/sites/nswtuczo0ow5yg/body-media//images/image-regles.png)
 
-**Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire. (Un justificatif de votre situation sera demandé).**
+**Le kit Sérenity est distribué sur place ou par voie postale sur demande en remplissant le formulaire ci-dessous. (Un justificatif de votre situation sera demandé).**
 
 _Le kit se compose:_
 
