@@ -5,7 +5,7 @@ categories = []
 date = 2020-12-18T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/visu_03_facebook_1200x630-v2_0.png"
 tags = ["dépistage", "LGBTQI+", "sexualité", "avortement", "contraception", "planning familial"]
 title = "Le Planning Familial"
 type = ""
@@ -38,3 +38,5 @@ type = ""
 #### Numéro vert anonyme et gratuit : 0800 08 11 11
 
 #### [https://www.planning-familial.org/fr/contactez-nous-167](https://www.planning-familial.org/fr/contactez-nous-167 "https://www.planning-familial.org/fr/contactez-nous-167")
+
+###### _@teokredactionweb_
