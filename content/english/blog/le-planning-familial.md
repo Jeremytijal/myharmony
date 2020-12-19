@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-12-18T23:00:00Z
 description = ""
-draft = true
 image = "/images/visu_03_facebook_1200x630-v2_0.png"
 tags = ["dépistage", "LGBTQI+", "sexualité", "avortement", "contraception", "planning familial"]
 title = "Le Planning Familial"
