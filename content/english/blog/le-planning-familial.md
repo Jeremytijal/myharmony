@@ -30,7 +30,7 @@ type = ""
 
 ### Le planning familial est un lieu d'écoute et de tolérance. Quelle qu'en soit la raison, vous trouverez quelqu'un qui saura vous aider et vous aiguiller dans vos interrogations et vos démarches. Les consultations médicales, la contraception, les éventuels examens médicaux complémentaires (ex : bilans sanguins) et les tests de dépistages sont gratuits pour les mineurs et remboursés pour les majeurs. De plus, l'accueil étant confidentiel, les parents des mineurs ne sont en aucun cas mis au courant.
 
-### Depuis des décennies le planning familial réalise un travail exceptionnel. Soutenons-les et surtout n'hésitez pas à vous y rendre. De nombreux points d'accueil partout en France sont à votre disposition.
+### Depuis des décennies, le planning familial réalise un travail exceptionnel. Soutenons-les et surtout n'hésitez pas à vous y rendre. De nombreux points d'accueil partout en France sont à votre disposition.
 
 #### _Les contacter :_
 
