@@ -11,7 +11,7 @@ title = "La vaginite, parlons-en."
 type = ""
 
 +++
-### La vaginite est une inflammation du vagin, due à une infection d'origine virale, bactérienne, parasitaire ou mycosique (c'est à dire dû à des champignons). Le plus souvent associée à une irritation de la vulve, on l'appelle alors une vulvo-vaginite. 
+### La vaginite est une inflammation du vagin, due à une infection d'origine virale, bactérienne, parasitaire ou mycosique (c'est à dire dû à des champignons). Le plus souvent associée à une irritation de la vulve, on l'appelle alors une vulvo-vaginite.
 
 ### On en différencie trois sortes:
 
@@ -21,6 +21,21 @@ type = ""
 
 #### - la vaginite à Trichomonas qui est une infection sexuellement transmissible (IST)
 
-### Les plus fréquentes sont souvent dû à la levure Candida Albicans, on parle alors de vulvovaginite candidosique. Elle entraîne des irritations et démangeaisons. Le diagnostic se pose facilement grâce à une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal sera effectué et analysé au microscope afin de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique). 
+### Les plus fréquentes sont souvent dû à la levure Candida Albicans, on parle alors de vulvovaginite candidosique.
+
+### Elle entraîne:
+
+### - des irritations et démangeaisons au niveau de la vulve et du vagin
+
+### - parfois des pertes vaginales abondantes et inhabituelles qui diffère selon la nature du germe responsable de l'infection (blanchâtres, épaisses et ressemblant à du lait caillé dans le cas des vaginites mycosiques ou mycoses vulvovaginales; fluides, abondantes, grisâtres ou jaunâtres et malodorantes dans les vaginites bactériennes,  
+\-mousseuses et aérées dans les vaginites parasitaires.
+
+* des douleurs lors des rapports sexuels (dyspareunie) ;
+* des [brûlures en urinant](https://www.ameli.fr/assure/sante/themes/cystite) ou difficultés à uriner ;
+* des grandes lèvres enflées, rouges et douloureuses avec parfois des vésicules.
+
+### 
+
+### . Le diagnostic se pose facilement grâce à une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal sera effectué et analysé au microscope afin de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique).
 
 ### Divers causes peuvent en être la raison comme par exemples des parasites (ex: Trichomonas), des bactéries (ex: Gardnerella vaginalis, Chlamydia...), des virus (ex: herpès génital) ou bien des traitements médicaux (corticostéroïdes, antibiotiques, immunosuppresseurs) ou encore les grossesses.
