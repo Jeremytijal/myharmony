@@ -11,7 +11,7 @@ title = "La vaginite, parlons-en."
 type = ""
 
 +++
-### La vaginite est une inflammation du vagin, due à une infection d'origine virale, bactérienne, parasitaire ou mycosique (c'est à dire dû à des champignons). Le plus souvent associée à une irritation de la vulve, on l'appelle alors une vulvo-vaginite.
+## La vaginite est une inflammation du vagin, due à une infection d'origine virale, bactérienne, parasitaire ou mycosique (c'est à dire dû à des champignons). Le plus souvent associée à une irritation de la vulve, on l'appelle alors une vulvo-vaginite.
 
 ### On en différencie trois sortes:
 
@@ -25,19 +25,39 @@ type = ""
 
 ### Les symptomes sont divers :
 
-### - des irritations et démangeaisons au niveau de la vulve et du vagin
+#### - des irritations et démangeaisons au niveau de la vulve et du vagin
 
-### - parfois des pertes vaginales abondantes et inhabituelles qui diffère selon la nature du germe responsable de l'infection (blanchâtres, épaisses et ressemblant à du lait caillé dans le cas des vaginites mycosiques ou mycoses vulvovaginales; fluides, abondantes, grisâtres ou jaunâtres et malodorantes dans les vaginites bactériennes,  
+#### - parfois des pertes vaginales abondantes et inhabituelles qui diffère selon la nature du germe responsable de l'infection (blanchâtres, épaisses et ressemblant à du lait caillé dans le cas des vaginites mycosiques ou mycoses vulvovaginales; fluides, abondantes, grisâtres ou jaunâtres et malodorantes dans les vaginites bactériennes,  
 \-mousseuses et aérées dans les vaginites parasitaires)
 
-### - des douleurs lors des rapports sexuels (dyspareunie)
+#### - des douleurs lors des rapports sexuels (dyspareunie)
 
-### - des brûlures en urinant ou des difficultés à uriner
+#### - des brûlures en urinant ou des difficultés à uriner
 
-### - et parfois des grandes lèvres enflées, rouges et douloureuses
+#### - et parfois des grandes lèvres enflées, rouges et douloureuses
+
+### Différents facteurs sont à prendre en compte dans l'apparition des vaginites:
+
+#### - des parasites (ex: Trichomonas), bactéries (ex: Gardnerella vaginalis, Chlamydia...) ou virus (ex: herpès génital)
+
+#### - le port de pantalons trop serrés 
+
+#### - les sous-vêtements en tissu synthétique 
+
+#### - l’excès d’hygiène et/ou l'utilisation de produits irritants qui peut entraîner un déséquilibre de la flore.
+
+#### - la présence d’un corps étranger dans le vagin (ex: tampon)
+
+#### - les rapports sexuels
+
+#### - les traitements antibiotiques
+
+#### - certaines maladies qui favorisent les infections (ex: diabète)
+
+#### - des traitements médicaux (corticostéroïdes, antibiotiques, immunosuppresseurs)
+
+#### - les grossesses
+
+### Le diagnostic se pose facilement grâce à une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal sera effectué et analysé au microscope afin de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique).
 
 ### 
-
-### . Le diagnostic se pose facilement grâce à une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal sera effectué et analysé au microscope afin de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique).
-
-### Divers causes peuvent en être la raison comme par exemples des parasites (ex: Trichomonas), des bactéries (ex: Gardnerella vaginalis, Chlamydia...), des virus (ex: herpès génital) ou bien des traitements médicaux (corticostéroïdes, antibiotiques, immunosuppresseurs) ou encore les grossesses.
