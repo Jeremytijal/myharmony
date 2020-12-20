@@ -63,3 +63,7 @@ type = ""
 ### 
 
 ### Brisons les tabous! Si vous souffrez d'un ou plusieurs de ces symptômes, n'attendez plus, consultez un médecin ou rendez vous dans une pharmacie. La vaginite touche de nombreuses femmes. N'ayez plus honte.
+
+##### _Source:_
+
+##### [https://www.ameli.fr/assure/sante/themes/vaginite/definition-symptomes-facteurs-favorisants#text_3669](https://www.ameli.fr/assure/sante/themes/vaginite/definition-symptomes-facteurs-favorisants#text_3669 "https://www.ameli.fr/assure/sante/themes/vaginite/definition-symptomes-facteurs-favorisants#text_3669")
