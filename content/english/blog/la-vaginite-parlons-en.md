@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Fanny Pacouill"
 bg_image = ""
 categories = []
 date = 2020-12-19T23:00:00Z
@@ -17,4 +17,4 @@ La vaginite est une inflammation du vagin, due à une infection d'origine virale
 * la vaginose bactérienne (parfois appelée vaginite à Gardnerella ou vaginite à anaérobies)
 * la vaginite à Trichomonas qui est une infection sexuellement transmissible (IST)
 
-Les plus fréquentes sont souvent dû à la levure Candida Albicans, on parle alors de vulvovaginite candidosique. Elle entraîne des démangeaisons. Le diagnostic se pose facilement avec une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal analysé au microscope permet de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique). Cependant, d'autres causes peuvent en être la raison comme par exemples des traitements médicaux (corticostéroïdes, antibiotiques, immunosuppresseurs) ou encore les grossesses.
+Les plus fréquentes sont souvent dû à la levure Candida Albicans, on parle alors de vulvovaginite candidosique. Elle entraîne des irritations et démangeaisons. Le diagnostic se pose facilement grâce à une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal sera effectué et analysé au microscope afin de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique). Cependant, d'autres causes peuvent en être la raison comme par exemples des traitements médicaux (corticostéroïdes, antibiotiques, immunosuppresseurs) ou encore les grossesses.
