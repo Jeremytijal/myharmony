@@ -20,14 +20,13 @@ type = ""
 
 #### - la vaginite à Trichomonas qui est une infection sexuellement transmissible (IST)
 
-### Les plus fréquentes sont souvent dû à la levure Candida Albicans, on parle alors de vulvovaginite candidosique.
+### Les plus fréquentes sont souvent dus à la levure Candida Albicans, on parle alors de vulvovaginite candidosique.
 
 ### Les symptomes sont divers :
 
 #### - des irritations et démangeaisons au niveau de la vulve et du vagin
 
-#### - parfois des pertes vaginales abondantes et inhabituelles qui diffère selon la nature du germe responsable de l'infection (blanchâtres, épaisses et ressemblant à du lait caillé dans le cas des vaginites mycosiques ou mycoses vulvovaginales; fluides, abondantes, grisâtres ou jaunâtres et malodorantes dans les vaginites bactériennes,  
-\-mousseuses et aérées dans les vaginites parasitaires)
+#### - parfois des pertes vaginales abondantes et inhabituelles qui diffère selon la nature du germe responsable de l'infection (blanchâtres, épaisses et ressemblant à du lait caillé dans le cas des vaginites mycosiques ou mycoses vulvovaginales; fluides, abondantes, grisâtres ou jaunâtres et malodorantes dans les vaginites bactériennes, mousseuses et aérées dans les vaginites parasitaires)
 
 #### - des douleurs lors des rapports sexuels (dyspareunie)
 
