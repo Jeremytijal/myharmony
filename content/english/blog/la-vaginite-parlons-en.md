@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-12-19T23:00:00Z
 description = ""
-draft = true
 image = "/images/whatsapp-image-2020-09-22-at-13-41-43-2.jpeg"
 tags = ["mycose vaginale", "infections", "soins intimes", "vaginite"]
 title = "La vaginite, parlons-en."
