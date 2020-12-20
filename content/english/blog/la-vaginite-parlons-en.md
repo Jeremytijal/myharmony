@@ -61,3 +61,5 @@ type = ""
 ### Le diagnostic se pose facilement grâce à une simple consultation chez votre gynécologue, mais au moindre doute un prélèvement vaginal sera effectué et analysé au microscope afin de confirmer le diagnostic. Un traitement mycosique sera alors prescrit (crème et ovule antifongique).
 
 ### 
+
+### Brisons les tabous! Si vous souffrez d'un ou plusieurs de ces symptômes, n'attendez plus, consultez un médecin ou rendez vous dans une pharmacie. La vaginite touche de nombreuses femmes. N'ayez plus honte.
