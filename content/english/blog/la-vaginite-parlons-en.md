@@ -6,7 +6,7 @@ date = 2020-12-19T23:00:00Z
 description = ""
 draft = true
 image = ""
-tags = []
+tags = ["mycose vaginale", "infections", "soins intimes", "vaginite"]
 title = "La vaginite, parlons-en."
 type = ""
 
