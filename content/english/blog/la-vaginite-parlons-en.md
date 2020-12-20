@@ -5,7 +5,7 @@ categories = []
 date = 2020-12-19T23:00:00Z
 description = ""
 image = "/images/whatsapp-image-2020-09-22-at-13-41-43-2.jpeg"
-tags = ["mycose vaginale", "infections", "soins intimes", "vaginite"]
+tags = ["brisons les tabous", "mycose vaginale", "infections", "soins intimes", "vaginite"]
 title = "La vaginite, parlons-en."
 type = ""
 
