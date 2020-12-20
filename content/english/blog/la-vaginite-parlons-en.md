@@ -23,16 +23,18 @@ type = ""
 
 ### Les plus fréquentes sont souvent dû à la levure Candida Albicans, on parle alors de vulvovaginite candidosique.
 
-### Elle entraîne:
+### Les symptomes sont divers :
 
 ### - des irritations et démangeaisons au niveau de la vulve et du vagin
 
 ### - parfois des pertes vaginales abondantes et inhabituelles qui diffère selon la nature du germe responsable de l'infection (blanchâtres, épaisses et ressemblant à du lait caillé dans le cas des vaginites mycosiques ou mycoses vulvovaginales; fluides, abondantes, grisâtres ou jaunâtres et malodorantes dans les vaginites bactériennes,  
-\-mousseuses et aérées dans les vaginites parasitaires.
+\-mousseuses et aérées dans les vaginites parasitaires)
 
-* des douleurs lors des rapports sexuels (dyspareunie) ;
-* des [brûlures en urinant](https://www.ameli.fr/assure/sante/themes/cystite) ou difficultés à uriner ;
-* des grandes lèvres enflées, rouges et douloureuses avec parfois des vésicules.
+### - des douleurs lors des rapports sexuels (dyspareunie)
+
+### - des brûlures en urinant ou des difficultés à uriner
+
+### - et parfois des grandes lèvres enflées, rouges et douloureuses
 
 ### 
 
