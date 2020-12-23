@@ -4,7 +4,7 @@ description: ''
 bg_image: images/bg.jpg
 image: "/images/stop-violence.jpg"
 titre: 'L’association My Harmony c''est:'
-content: "- Un accueil de jour dans un cadre chaleureux et convivial"
+content: "- Un accueil de jour dans un cadre chaleureux et convivia"
 content2: "- Une écoute bienveillante et un accompagnement"
 content3: "- Des actions et de la prévention aux violences conjugales"
 content4: "- Un accompagnement des victimes à chaque étape de leur reconstruction
